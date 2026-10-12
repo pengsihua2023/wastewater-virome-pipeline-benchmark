@@ -246,7 +246,7 @@ def build():
 
     # ---------------------------------------------------------- 3 design fig
     s = slide_frame(prs, "Study design", "One community, two sequencing modalities, seven pipelines", 3)
-    picture(s, AN / "figures_combined" / "Figure1_study_design.png",
+    picture(s, AN / "figures_combined" / "Figure1_study_design_vector.png",
             Inches(0.9), Inches(1.7), Inches(11.5), Inches(4.5))
     note(s, "708-member simulated community: 490 bacteria/archaea, 67 ssRNA bacteriophage, 151 non-phage viruses. "
             "Only the 151 viruses are scored.")

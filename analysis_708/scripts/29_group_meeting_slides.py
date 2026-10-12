@@ -141,7 +141,7 @@ def build():
 
     # 6 ------------------------------------------------------------ design
     s = frame("Study design", "One 151-virus community, two modalities, seven pipelines")
-    picture(s, FIG / "Figure1_study_design.png", Inches(1.1), Inches(1.7), Inches(11.1), Inches(4.5))
+    picture(s, FIG / "Figure1_study_design_vector.png", Inches(1.1), Inches(1.7), Inches(11.1), Inches(4.5))
     note(s, "Ground truth derived from the published Los Angeles wastewater profile HTP-2024-01-15 (Grimm et al. 2026); "
             "Illumina by CAMISIM, PacBio HiFi by PBSIM3 + ccs.")
     notes(s, "Walk left to right: source sample, ground truth, simulation, seven pipelines, viral-only scoring.")

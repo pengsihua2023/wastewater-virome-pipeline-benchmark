@@ -103,7 +103,7 @@ def build():
 
     # -------------------------------------------------------- 3 study design
     s = slide_frame(prs, "Study design", "One 151-virus community, two sequencing modalities, seven pipelines", 3)
-    picture(s, AN / "figures_combined" / "Figure1_study_design.png",
+    picture(s, AN / "figures_combined" / "Figure1_study_design_vector.png",
             Inches(1.1), Inches(1.75), Inches(11.1), Inches(4.35))
     note(s, "708-member simulated community: 490 bacteria/archaea, 67 ssRNA bacteriophage, 151 non-phage viruses "
             "(the scored ground truth). Both modalities calibrated to the same designed 12% viral+phage read share.")
