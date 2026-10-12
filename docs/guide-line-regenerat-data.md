@@ -45,7 +45,7 @@ contradictory. This guide proceeds on the read-share interpretation.
 | `simulate_pacbio.py` old version (2026-06-01) | base share | ✓ close to design | **Keep** the depth formula; fix read length and error handling (step 2) |
 | `simulate_pacbio.py` corrected version (2026-06-02) | copy share | ✗ deviates | **Do not adopt its depth formula** — it pulls PacBio to the wrong side, the same as CAMISIM |
 
-See `code/simulation/versions/README.md` for details.
+The historical `simulate_pacbio.py` versions have been removed from this repository; the analysis above is kept as the record of why the depth formula and read naming were changed.
 
 ### 0.2 Retrieve the missing materials
 
@@ -55,7 +55,7 @@ All of the following are required; none is currently in the data repository:
 2. **Complete logs of both simulations** — to confirm the scale of the failures in step 2
 
 The genome FASTA files are on the local machine (`CAMISIM-Generate/genomes/`, all 708 available and checked entry by entry against `genome_locations.tsv`),
-and the four historical versions of `simulate_pacbio.py` are archived in `code/simulation/versions/`.
+and the historical versions of `simulate_pacbio.py` are not part of this repository.
 
 ---
 
@@ -358,7 +358,7 @@ lists `data/regen/illumina/` and `data/regen/pacbio/*.fastq.gz`); per-member cou
 
 On the PacBio side, two further independent defects were located and fixed along the way (see
 `Verification-simulated-data-vs-design.md` §7 and
-`code/simulation/versions/README.md`):
+the historical simulation scripts, no longer in this repository):
 
 1. **Wrong abundance plan for multi-contig genomes**: `eff` had used the total genome length instead of the length of a single contig,
    which does not match PBSIM3 counting each contig independently (members with 471 contigs were over-produced 5-fold).

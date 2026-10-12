@@ -10,7 +10,7 @@ A benchmark of seven metagenomic pipelines (nf-core/taxprofiler, nf-core/taxtria
 | Path | Content |
 |---|---|
 | `code/analysis/` | numbered analysis scripts (run in numeric order; 25–27 produce the threshold, community and revision tables) |
-| `code/simulation/` | read-simulation code: `simulate_pacbio.py`, `run_pacbio_sample.sh`, `run_art*.sh`, `merge_and_verify.sh`; `versions/` holds all historical versions of the PacBio script (see its README for the version that produced the data) |
+| `code/simulation/` | Illumina read-simulation helper scripts: `run_art.sh`, `run_art_sample.sh`, `merge_and_verify.sh`. **The PacBio generation script used for the final data is not included yet** (earlier versions generated a defective dataset and were removed; the plan and task tables that drive it are in `data/regen/`) |
 | `data/regen/` | simulation design: genome lengths, per-sample read plans, ART/PBSIM task tables, per-member read counts, md5 manifests |
 | `data/genome_locations.tsv`, `data/distribution_{0,1,2}.txt` | genome list and per-sample abundance files used for the simulation |
 | `data/analysis_708/interim/` | parsed detections and metrics; `interim/coverage/` holds the sources of Supplementary Tables S1–S14 |
@@ -33,7 +33,7 @@ Requirements: Python ≥ 3.10, pandas, numpy, openpyxl, matplotlib, python-docx 
 The `path` column of `data/regen/*.tsv` and `data/genome_locations.tsv` is relative to a `genomes/` directory that holds the 708 community genomes (`genomes/Viruses/`, `genomes/Bacteriophage/`, `genomes/Bacteria_Archaea/`, 151 + 67 + 490 FASTA files, NCBI RefSeq/GenBank assemblies named `<taxid>_<accession>_genomic.fna`). Download them from NCBI by accession and place them there; `data/regen/genomes_md5.txt` lists the md5 of every file used so the set can be verified (`cd <parent of genomes/> && md5sum -c <repo>/data/regen/genomes_md5.txt`). Scripts that read genome files (e.g. `26_full_community_table.py`) need this directory; scripts that only read the TSV tables do not.
 
 ## Regenerating the simulated reads (not archived, ~29 GB)
-Use `data/regen/plan_*.tsv` with `code/simulation/run_art.sh` (Illumina) and `code/simulation/simulate_pacbio.py` (PacBio); the shell scripts use paths relative to `data/`, so run them from inside `data/`. Expected per-member read counts are in `data/regen/per_member_s*.tsv`. md5 checksums of the original FASTQ files (6 Illumina, 3 PacBio HiFi) are in `data/regen/fastq_md5.txt`; regenerated reads are expected to match in read counts, not necessarily byte for byte. See `docs/guide-line-regenerat-data.md`.
+Use `data/regen/plan_*.tsv` with `code/simulation/run_art.sh` (Illumina); the PacBio generation script is not yet included; the shell scripts use paths relative to `data/`, so run them from inside `data/`. Expected per-member read counts are in `data/regen/per_member_s*.tsv`. md5 checksums of the original FASTQ files (6 Illumina, 3 PacBio HiFi) are in `data/regen/fastq_md5.txt`; regenerated reads are expected to match in read counts, not necessarily byte for byte. See `docs/guide-line-regenerat-data.md`.
 
 ## Software and databases
 | Pipeline | Version / implementation | Classifier | Database | Illumina input | PacBio input |
