@@ -3,3 +3,5 @@ __pycache__/
 ~$*
 .DS_Store
 Thumbs.db
+/data/analysis_708/interim/detections_long.tsv
+/data/analysis_708/interim/viral_detections_long.tsv
