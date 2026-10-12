@@ -101,7 +101,7 @@ evaluation.
 
 ### B3. Missing software versions
 
-Not recorded in any supplied file, currently unstated in the manuscript:
+Not recorded in any supplied file, currently unstated in the paper:
 - CAMISIM version and the read simulators it invoked (ART? PBSIM? which model?)
 - GOTTCHA2 version and signature-database build date
 - CLARK version and CLARK_DB build date
@@ -133,7 +133,7 @@ field simply records the last input. No correction is required.
 
 ---
 
-## C. Needed for the manuscript front and back matter
+## C. Needed for the paper front and back matter
 
 - Author list, affiliations and CRediT contribution statement.
 - Funding sources and grant numbers.
@@ -157,7 +157,7 @@ files; each must be checked against the publication record before submission:
 - NCBI viruses 2025.01 sourmash database reference
 
 No reference has been invented; anything not confirmed from the supplied
-documents is marked as pending in the manuscript reference list.
+documents is marked as pending in the paper reference list.
 
 ---
 

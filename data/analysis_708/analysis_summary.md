@@ -19,9 +19,6 @@ on PacBio that detects no viruses at all.
 
 | File | Contents |
 |---|---|
-| `../Seven-pipleline-comparison-on-Illumina.md` / `.docx` | Illumina manuscript, 10 tables, 5 figures |
-| `../Seven-pipleline-comparison-on-Pacbio.md` / `.docx` | PacBio manuscript, 10 tables, 5 figures |
-| `../Seven-pipeline-comparison-combined.md` / `.docx` | cross-modality manuscript, 7 tables, 7 figures |
 | `11_viral_only_metrics.xlsx` | viral metrics, threshold sweep, per-virus error analysis |
 | `12_genus_level_sensitivity.xlsx` | strict species vs lenient genus matching |
 | `13_detection_vs_depth.xlsx` | Illumina: detection vs reads each virus actually contributed |

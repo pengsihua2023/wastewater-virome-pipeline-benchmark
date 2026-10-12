@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Platform-specific VIRAL figures for the two per-platform manuscripts.
+"""Platform-specific VIRAL figures for the two per-platform papers.
 
 Everything is scored against the 151 non-phage viral ground truth; non-viral
 detections and non-viral false positives are excluded. Sources:

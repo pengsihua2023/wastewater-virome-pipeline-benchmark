@@ -1,6 +1,6 @@
 # Statistical analysis — methods, effect sizes and what was deliberately not computed
 
-Covers the **virus-only** analysis that the three manuscripts report. All
+Covers the **virus-only** analysis that the three papers report. All
 numbers are produced by `scripts/14_viral_only_scoring.py`,
 `15_genus_level_sensitivity.py` and `16_viral_stratified_tables.py` from
 `interim/viral_detections_long.tsv`.
@@ -38,7 +38,7 @@ Within the viral space, per run:
 
 Two exclusions. Detections of the 490 bacterial/archaeal background taxa are
 ignored, as are their false positives: they bear on no question these
-manuscripts ask. The 67 ssRNA phage members of the background are removed from
+papers ask. The 67 ssRNA phage members of the background are removed from
 the reported node set, so they count neither as TP nor as FP; metrics against
 the alternative 218-member viral ground truth including phage are in
 `11_viral_only_metrics.xlsx`, sheet `all_thresholds_both_GT`.
@@ -63,7 +63,7 @@ not strictly comparable with the six taxid-matched pipelines.
 ## 3. Detection-threshold sweep
 
 Every metric was recomputed at **≥1, ≥10 and ≥100 clade reads**. The
-manuscripts report ≥1 read as the primary operating point and give the full
+papers report ≥1 read as the primary operating point and give the full
 sweep, because on viruses the threshold does not behave as it does on whole
 communities: at these viral depths every threshold above 1 read *reduced* viral
 F1 on both modalities. With a median of 2 viral reads per

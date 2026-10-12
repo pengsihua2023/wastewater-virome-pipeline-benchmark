@@ -1,6 +1,6 @@
 # Seven-pipeline viral-detection benchmark on simulated wastewater (Illumina vs PacBio HiFi)
 
-Code and data supporting: *[manuscript title]*, submitted to Water Research.
+Code and data supporting: *[paper title]*, submitted to Water Research.
 Archive DOI: **10.5281/zenodo.XXXXXXX** (release `v1.0-submission`). GitHub: pengsihua2023/wastewater-virome-pipeline-benchmark
 
 ## What this is
@@ -14,7 +14,7 @@ A benchmark of seven metagenomic pipelines (nf-core/taxprofiler, nf-core/taxtria
 | `data/regen/` | simulation design: genome lengths, per-sample read plans, ART/PBSIM task tables, per-member read counts, md5 manifests |
 | `data/genome_locations.tsv`, `data/distribution_{0,1,2}.txt` | genome list and per-sample abundance files used for the simulation |
 | `data/analysis_708/interim/` | parsed detections and metrics; `interim/coverage/` holds the sources of Supplementary Tables S1–S14 |
-| `data/analysis_708/figures_*` | manuscript figures |
+| `data/analysis_708/figures_*` | paper figures |
 | `data/Supplementary_Tables_coverage.xlsx` | Supplementary Tables S1–S14 (README sheet describes each) |
 | `data/Illumina/`, `data/Pacbio/` | raw outputs of the 42 pipeline runs (**not in this repository; download from the Zenodo archive and unpack into `data/`**) |
 | `docs/` | regeneration guide and the verification report of the simulated data |
@@ -39,11 +39,11 @@ Use `data/regen/plan_*.tsv` with `code/simulation/run_art.sh` (Illumina) and `co
 Versions of all pipelines, Kraken2/Bracken, CLARK, GOTTCHA2 (locally patched for PacBio), sourmash and databases: [to add — see Methods §2.2]; ccs version: [to add].
 
 ## Notes
-- Strong simplifications apply: three simulated replicates share the same genomes and abundance design; see the manuscript limitations.
+- Strong simplifications apply: three simulated replicates share the same genomes and abundance design; see the paper limitations.
 - Some very large files (CLARK per-read assignments, long-format detection tables) are provided as separate Zenodo files [to confirm].
 
 ## License and citation
-Code: MIT. Data and tables: CC BY 4.0. Cite the manuscript and the Zenodo DOI (`CITATION.cff`).
+Code: MIT. Data and tables: CC BY 4.0. Cite the paper and the Zenodo DOI (`CITATION.cff`).
 
 ## Contact
 Sihua Peng, College of Public Health, University of Georgia.

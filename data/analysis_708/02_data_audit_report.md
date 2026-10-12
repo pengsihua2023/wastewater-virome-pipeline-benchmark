@@ -39,7 +39,7 @@ normalised match keys — **no duplicates, no synonyms, no unresolvable entries.
 Viral members total 218 (67 phage + 151 non-phage virus).
 
 Any statement of the form "708 viruses" is incorrect and was not carried into
-the analysis or the manuscript.
+the analysis or the paper.
 
 ### 1.2 The document carries two mutually inconsistent specifications
 

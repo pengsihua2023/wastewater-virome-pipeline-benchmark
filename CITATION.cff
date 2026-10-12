@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite it and the associated manuscript."
+message: "If you use this repository, please cite it and the associated paper."
 title: "Benchmarking seven metagenomic pipelines for viral detection in simulated wastewater (Illumina and PacBio HiFi)"
 authors:
   - family-names: Peng

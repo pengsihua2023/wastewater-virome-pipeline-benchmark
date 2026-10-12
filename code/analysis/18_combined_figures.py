@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""VIRAL figures for the combined cross-modality manuscript.
+"""VIRAL figures for the combined cross-modality paper.
 
 Everything is scored against the 151 non-phage viral ground truth; non-viral
 detections and non-viral false positives are excluded throughout.
@@ -16,7 +16,7 @@ Seven figures written to figures_combined/ as 600-dpi PNG and vector PDF:
 
 Changes made in response to the figure-only review (Peer-review-figures-V3.md):
   F1  Figure 3 was titled "Viral detection does not transfer between
-      modalities" with rho as its evidence. The manuscript withdrew that
+      modalities" with rho as its evidence. The paper withdrew that
       inference, so the title is now descriptive and rho carries the same
       qualification as the legend.
   F2  Figure 1's annotation was struck through by an arrow, and Figure 6's
@@ -24,11 +24,11 @@ Changes made in response to the figure-only review (Peer-review-figures-V3.md):
   F3  Figure 5 used fixed 0-1 axes that left ~85% of the Illumina panel empty
       and collided the threshold annotations. Panels are now scaled to their
       data and only the primary operating point is annotated.
-  m1  Figures used internal identifiers; they now use the manuscript's
+  m1  Figures used internal identifiers; they now use the paper's
       pipeline names.
   m2/m7  Zero counts are labelled explicitly instead of being drawn as stubs.
   m3  Series that are identically zero are offset slightly so they are all
-      visible; stated in the manuscript legend.
+      visible; stated in the paper legend.
   m4  The right-hand panel repeats its y tick labels.
   m5  The FP series is hatched so it does not rely on the green/red contrast.
 """
@@ -60,7 +60,7 @@ COL = {"TaxProfiler": "#0072B2", "TaxTriage": "#56B4E9", "mag-nf": "#009E73",
        "KrakenMetaReads-nf": "#E69F00", "GOTTCHA2": "#D55E00",
        "CLARK": "#CC79A7", "sourmash": "#7F7F7F"}
 STYLE = {"TaxTriage": dict(ls="--", marker="s", mfc="none")}
-# the names used in the manuscript text and tables, so figures and tables agree
+# the names used in the paper text and tables, so figures and tables agree
 DISPLAY = {"TaxProfiler": "nf-core/taxprofiler", "TaxTriage": "nf-core/taxtriage",
            "mag-nf": "nf-core/mag", "KrakenMetaReads-nf": "KrakenMetaReads-nf",
            "GOTTCHA2": "GOTTCHA2", "CLARK": "CLARK", "sourmash": "sourmash"}
@@ -258,7 +258,7 @@ def main():
     axes[0].set_ylabel("Viral precision")
     axes[1].legend(frameon=False, fontsize=6, loc="upper left",
                    bbox_to_anchor=(1.02, 1))
-    # NOTE (V5): numbered Figure 6, not 5 -- the manuscript now places figures
+    # NOTE (V5): numbered Figure 6, not 5 -- the paper now places figures
     # inline at first reference, and the abundance figure below (Section 3.5)
     # precedes this threshold figure (Section 3.6) in body order, so the
     # numbering swaps relative to the original Figure-Legends-only ordering.

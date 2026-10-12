@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Name-standardisation / manual-review workbook and the manuscript tables."""
+"""Name-standardisation / manual-review workbook and the paper tables."""
 import re
 import sys
 from pathlib import Path

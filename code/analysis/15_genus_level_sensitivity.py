@@ -19,7 +19,7 @@ A genus-level TRUE POSITIVE is a ground-truth virus for which the pipeline
 reported any species-or-below node in the same genus. A genus-level FALSE
 POSITIVE is a reported viral genus containing no ground-truth member.
 
-Main results in the manuscripts remain the strict species-level ones; this
+Main results in the papers remain the strict species-level ones; this
 script quantifies how much of the strict false-positive burden is nomenclatural.
 
 Writes 12_genus_level_sensitivity.xlsx.

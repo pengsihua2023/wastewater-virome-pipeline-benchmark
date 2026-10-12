@@ -474,7 +474,7 @@ for s in code/analysis/[0-9][0-9]_*.py; do python3 "$s" || break; done
 
 ---
 
-## Step 8: what the manuscript must re-measure after regeneration
+## Step 8: what the paper must re-measure after regeneration
 
 | Conclusion | Re-measurement needed? | Notes |
 |---|---|---|
@@ -488,7 +488,7 @@ for s in code/analysis/[0-9][0-9]_*.py; do python3 "$s" || break; done
 | Three pipelines return zero on PacBio | Expected to hold | A qualitative fact; but GOTTCHA2 additionally has an unvalidated patch problem |
 
 The extent of the defect in the existing data is in `Verification-simulated-data-vs-design.md`: of 151 viruses, 97
-have not one read in the raw FASTQ, and the total viral share is 0.009%. The absolute metrics currently in the manuscript are therefore neither a
+have not one read in the raw FASTQ, and the total viral share is 0.009%. The absolute metrics currently in the paper are therefore neither a
 "lower bound" nor a "conservative estimate" but **numbers measured on a community that does not match the design**, and must not be used to
 characterise pipeline capability.
 

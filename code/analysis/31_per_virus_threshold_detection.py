@@ -88,7 +88,7 @@ out = out.reset_index().sort_values(["sentinel", "designed_relative_abundance_pc
 out.to_csv(INT / "coverage" / "per_virus_detection_by_threshold.tsv", sep="\t", index=False)
 print("wrote", INT / "coverage" / "per_virus_detection_by_threshold.tsv", out.shape)
 
-# summary used in the manuscript text
+# summary used in the paper text
 for platform in ["Illumina", "PacBio"]:
     for lab in THR:
         c = out[f"{platform}: pipelines detecting (of 7), {lab}"]
