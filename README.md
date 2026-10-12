@@ -58,4 +58,4 @@ Known limitations of the record: the GOTTCHA2 PacBio result comes from a locally
 Code: MIT. Data and tables: CC BY 4.0. Cite the paper and the Zenodo DOI (`CITATION.cff`).
 
 ## Contact
-Sihua Peng, College of Public Health, University of Georgia.
+Sihua Peng, Department of Infectious Diseases, College of Veterinary Medicine, University of Georgia.

@@ -4,7 +4,7 @@ title: "Benchmarking Seven Metagenomics Pipelines for Viral Detection Using Simu
 authors:
   - family-names: Peng
     given-names: Sihua
-    affiliation: "College of Public Health, University of Georgia"
+    affiliation: "Department of Infectious Diseases, College of Veterinary Medicine, University of Georgia"
 license: MIT
 repository-code: "https://github.com/pengsihua2023/wastewater-virome-pipeline-benchmark"
 # doi: 10.5281/zenodo.XXXXXXX   (add after the Zenodo release)
