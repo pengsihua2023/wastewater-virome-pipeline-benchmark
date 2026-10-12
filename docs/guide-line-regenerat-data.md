@@ -470,7 +470,7 @@ Gate 3 is **auxiliary**: it goes through a classifier and underestimates the def
 for s in code/analysis/[0-9][0-9]_*.py; do python3 "$s" || break; done
 ```
 
-`13_consistency_check.py` must report **0 failures**.
+`12_consistency_check.py` must report **0 failures**.
 
 ---
 

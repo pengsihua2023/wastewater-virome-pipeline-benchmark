@@ -3,9 +3,9 @@
 
 Everything is scored against the 151 non-phage viral ground truth; non-viral
 detections and non-viral false positives are excluded. Sources:
-interim/viral_sample_metrics.tsv, viral_aggregate_metrics.tsv (script 14),
+interim/viral_sample_metrics.tsv, viral_aggregate_metrics.tsv (script 13),
 viral_abundance_recall.tsv, viral_abundance_correlation.tsv, viral_tp_reads.tsv
-(script 16).
+(script 15).
 
 Five figures per platform, written to figures_illumina/ and figures_pacbio/ as
 600-dpi PNG and vector PDF:

@@ -5,7 +5,7 @@ Three things the review asked for that the existing scripts did not produce.
 
 (M1) All three cross-modality rank correlations, computed in one place.
      Only the viral-F1 correlation was previously computed (in
-     18_combined_figures.py); the recall and precision values quoted in the
+     17_combined_figures.py); the recall and precision values quoted in the
      paper were carried over from an analysis that predated the GOTTCHA2
      evidence-stream correction, and the recall value was wrong in sign.
 

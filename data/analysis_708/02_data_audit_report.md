@@ -88,7 +88,7 @@ is explained — quantitatively — by genome length.
 
 The design document states a read count for every member, so the simplest test
 is to compare it with what the datasets delivered
-(`scripts/07_designed_vs_observed_reads.py`, `09_designed_vs_observed_reads.xlsx`).
+(`code/analysis/07_designed_vs_observed_reads.py`, `09_designed_vs_observed_reads.xlsx`).
 Scaling the design read budget up to the realised Illumina library size
 (16.6 M reads versus a 1.02 M design budget, a factor of 16.4):
 
@@ -132,7 +132,7 @@ design percentages are copy abundances, then for each domain
     (total observed clade reads) / (total designed abundance)
 
 normalised to bacteria should equal that domain's mean genome length divided by
-the mean bacterial genome length — not 1. `scripts/06_abundance_scale_diagnosis.py`
+the mean bacterial genome length — not 1. `code/analysis/06_abundance_scale_diagnosis.py`
 measures this (mean of three samples per platform):
 
 | Platform | Domain | Observed reads per unit abundance (bacteria = 1) | Observed deficit | Deficit predicted by genome length |

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Per-virus detection of the 151 non-phage ground-truth viruses at the three read-count thresholds.
 
-Re-applies the rules of 14_viral_only_scoring.py (species-or-below nodes, exact taxid match, sourmash matched by
+Re-applies the rules of 13_viral_only_scoring.py (species-or-below nodes, exact taxid match, sourmash matched by
 normalised name, node kept when reads > 0 / 9 / 99, i.e. >=1 / >=10 / >=100 clade reads) to the stored
 interim/viral_detections_long.tsv, and checks the result against interim/viral_sample_metrics.tsv.
 
@@ -18,7 +18,7 @@ import pandas as pd
 REPO = Path(__file__).resolve().parents[2]
 ROOT = REPO / "data"      # all data live under data/
 INT = ROOT / "analysis_708" / "interim"
-spec = importlib.util.spec_from_file_location("m14", REPO / "code" / "analysis" / "14_viral_only_scoring.py")
+spec = importlib.util.spec_from_file_location("m14", REPO / "code" / "analysis" / "13_viral_only_scoring.py")
 m14 = importlib.util.module_from_spec(spec)
 sys.modules["m14"] = m14
 spec.loader.exec_module(m14)

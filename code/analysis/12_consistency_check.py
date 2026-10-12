@@ -7,7 +7,7 @@ Baseline updated 2026-09-28 for analysis version V4, after the simulated data wa
 regenerated to fix an abundance-unit bug (see guide-line-regenerat-data.md and
 Verification-simulated-data-vs-design.md) and after a PacBio nf-core/mag
 read-level-report duplicate-file bug was found and fixed (see 03_score.py and
-14_viral_only_scoring.py). The V3 baseline this replaces remains available in
+13_viral_only_scoring.py). The V3 baseline this replaces remains available in
 git history for anyone re-checking the pre-regeneration numbers.
 """
 import sys
@@ -43,7 +43,7 @@ CHECKS_FP = [
 # "non-phage viral recall" is the domain-stratified recall from the 708-member
 # community-wide scoring (03_score.py -> 04_aggregate_errors_abundance.py's
 # domain_recall.tsv), NOT the dedicated viral-only re-scoring in
-# 14_viral_only_scoring.py that the paper's Table 3 reports. The two are
+# 13_viral_only_scoring.py that the paper's Table 3 reports. The two are
 # related but not numerically identical, since community-wide scoring's FP
 # accounting differs from the viral-only rules (Section 2.4 of the paper).
 CHECKS_VIRAL_RECALL = [

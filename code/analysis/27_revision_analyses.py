@@ -102,9 +102,9 @@ for pipe in PIPES:
 pd.DataFrame(rows).to_csv(COV / "floor_excluded_metrics.tsv", sep="\t", index=False)
 
 # ------------------------------------------------------------------ 3. false-positive profile
-spec = importlib.util.spec_from_file_location("m14", REPO / "code" / "analysis" / "14_viral_only_scoring.py")
+spec = importlib.util.spec_from_file_location("m14", REPO / "code" / "analysis" / "13_viral_only_scoring.py")
 m14 = importlib.util.module_from_spec(spec); sys.modules["m14"] = m14; spec.loader.exec_module(m14)
-spec = importlib.util.spec_from_file_location("m15", REPO / "code" / "analysis" / "15_genus_level_sensitivity.py")
+spec = importlib.util.spec_from_file_location("m15", REPO / "code" / "analysis" / "14_genus_level_sensitivity.py")
 m15 = importlib.util.module_from_spec(spec); sys.modules["m15"] = m15; spec.loader.exec_module(m15)
 tax2genus, _, _ = m15.build_maps(m15.MAP_SOURCE)
 

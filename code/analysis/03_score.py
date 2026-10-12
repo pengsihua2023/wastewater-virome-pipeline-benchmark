@@ -56,7 +56,7 @@ PRIMARY = {
     # why "mag_reads_SUSPECT" was kept out of PRIMARY and "mag_contigs" used
     # instead. That bug is fixed in the regenerated data (MD5-verified distinct
     # per-sample reports), so the read-level stream is primary here too,
-    # matching 14_viral_only_scoring.py's PRIMARY_FILES choice.
+    # matching 13_viral_only_scoring.py's PRIMARY_FILES choice.
     ("PacBio", "mag-nf"): "mag_reads_SUSPECT",
     ("PacBio", "TaxProfiler"): "taxprofiler_kraken2",
     ("PacBio", "TaxTriage"): "taxtriage_kraken2",

@@ -27,10 +27,10 @@ so the 88 / 8 / 4 input produced a viral **read** share of 0.020% (Illumina) and
 missing the per-member design read counts by 10^4 or more (*Mamastrovirus 1*
 559,347 specified vs 606 delivered). Two independent tests establish this:
 per-domain read yield per unit abundance matches the genome-length prediction to
-within ~20% on Illumina (`scripts/06_abundance_scale_diagnosis.py`), and
+within ~20% on Illumina (`code/analysis/06_abundance_scale_diagnosis.py`), and
 length-weighting the two candidate input columns predicts 2.84% versus 0.017%
 viral read share against 0.017% measured, identifying the 88 / 8 / 4 column as
-the input (`scripts/07_designed_vs_observed_reads.py`).
+the input (`code/analysis/07_designed_vs_observed_reads.py`).
 
 **Action required — re-simulation.** The copy abundances that would deliver the
 intended read shares are in `interim/abundance_correction_required.tsv`:

@@ -1,8 +1,8 @@
 # Statistical analysis — methods, effect sizes and what was deliberately not computed
 
 Covers the **virus-only** analysis that the three papers report. All
-numbers are produced by `scripts/14_viral_only_scoring.py`,
-`15_genus_level_sensitivity.py` and `16_viral_stratified_tables.py` from
+numbers are produced by `code/analysis/13_viral_only_scoring.py`,
+`14_genus_level_sensitivity.py` and `15_viral_stratified_tables.py` from
 `interim/viral_detections_long.tsv`.
 
 ---
