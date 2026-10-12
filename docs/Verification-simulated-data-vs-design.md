@@ -114,7 +114,7 @@ Kraken2 reports **2.2 times more** viral reads than are actually present. The ex
 
 Taking Illumina sample_0 as an example, using the 54 viruses actually present in the data as the denominator:
 
-| Pipeline | Reported in the paper (over 151) | Actually detectable (over 54) | Detected from nothing ᶜ |
+| Pipeline | Reported in the earlier analysis (over 151) | Actually detectable (over 54) | Detected from nothing ᶜ |
 |---|---|---|---|
 | sourmash | 0.298 | **0.833** | 0 |
 | nf-core/taxprofiler | 0.298 | **0.796** | 2 |
@@ -126,7 +126,7 @@ Taking Illumina sample_0 as an example, using the 54 viruses actually present in
 
 ᶜ Number of viruses counted as true positives although they have 0 reads in the raw data
 
-**Actual pipeline performance is far better than reported in the paper**: the true recall of the leading pipelines is about 0.80–0.83, not 0.30. The absolute metrics currently in the paper seriously underestimate pipeline capability.
+**Actual pipeline performance is far better than reported in the earlier analysis**: the true recall of the leading pipelines is about 0.80–0.83, not 0.30. The absolute metrics computed on the defective data seriously underestimate pipeline capability.
 
 ### 6.2 Some "true positives" cannot be true
 
@@ -134,7 +134,7 @@ The viruses in the "detected from nothing" column have no reads in the data, yet
 
 ### 6.3 Rankings may change
 
-Ranked by recall over 54, sourmash comes first (0.833), GOTTCHA2 drops to fifth (0.667) and CLARK to second-to-last (0.389), whereas in the paper GOTTCHA2 has the highest F1 on Illumina. The ranking conclusions must be re-measured on correct data.
+Ranked by recall over 54, sourmash comes first (0.833), GOTTCHA2 drops to fifth (0.667) and CLARK to second-to-last (0.389), whereas in the earlier analysis GOTTCHA2 has the highest F1 on Illumina. The ranking conclusions must be re-measured on correct data.
 
 ---
 
@@ -208,10 +208,10 @@ zcat data/Illumina/sample_708_0_01.fq.gz \
 2. **The defect is in the simulation step; the classification step has been excluded.**
 3. **The data must be regenerated.** The steps are in `guide-line-regenerat-data.md`.
 4. **Acceptance after regeneration must use the method of this report** — parse the FASTQ headers member by member and compare with the design values, rather than relying on classifier output. Step 7 of the guide has been updated accordingly.
-5. Until the new data are produced, none of the absolute metrics, pipeline rankings or sentinel detection rates in the paper should be released. Within-data controlled comparisons (reads vs contigs, ±fastp) do not depend on absolute depth and are expected to still hold.
+5. Until the new data are produced, none of the absolute metrics, pipeline rankings or sentinel detection rates from the defective data should be released. Within-data controlled comparisons (reads vs contigs, ±fastp) do not depend on absolute depth and are expected to still hold.
 
 **Outcome (2026-09-03):** all of the above recommendations have been implemented. The six datasets were regenerated and passed the member-by-member acceptance check,
 with viral shares of 3.84–4.02% (three Illumina samples) and 3.84–3.95% (three PacBio samples); the number of the 151 viruses with zero output
 is 0 in all six samples, consistent with the 88/8/4 target required by this report (maximum deviation 0.293 pp). Detailed data and the two further multi-contig-related defects found on the PacBio side
-(wrong abundance plan, collapsed read names) are in `guide-line-regenerat-data.md`, step 7, "Measured results". **Recommendation 5 is now lifted**: the paper may re-measure absolute
+(wrong abundance plan, collapsed read names) are in `guide-line-regenerat-data.md`, step 7, "Measured results". **Recommendation 5 is now lifted**: the analysis can re-measure absolute
 metrics and pipeline rankings on the new data.
