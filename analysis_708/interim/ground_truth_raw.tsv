@@ -1,0 +1,709 @@
+section	category	raw_name	taxid	ncbi_rank	actual_reads_clade	actual_reads_direct	actual_reads_any	design_reads	relative_abundance_pct	parent_species_node	rationale	design_reads_num	relative_abundance_num	taxid_num	std_name	match_key	is_viral	rank_class
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Phocaeicola vulgatus	821	S	2124		2124	2124	3.270723%			2124.0	3.270723	821	Phocaeicola vulgatus	phocaeicola vulgatus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Agathobacter rectalis	39491	S	1909		1909	1909	2.939647%			1909.0	2.939647	39491	Agathobacter rectalis	agathobacter rectalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Uruburuella suis	252130	S	1855		1855	1855	2.856493%			1855.0	2.856493	252130	Uruburuella suis	uruburuella suis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Segatella copri	165179	S	1669		1669	1669	2.570074%			1669.0	2.570074	165179	Segatella copri	segatella copri	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aliarcobacter cryaerophilus	28198	S	1427		1427	1427	2.197421%			1427.0	2.197421	28198	Aliarcobacter cryaerophilus	aliarcobacter cryaerophilus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sebaldella termitidis	826	S	1202		1202	1202	1.850946%			1202.0	1.850946	826	Sebaldella termitidis	sebaldella termitidis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aquaspirillum sp. LM1	1938604	S	949		949	949	1.461354%			949.0	1.461354	1938604	Aquaspirillum sp. LM1	aquaspirillum sp lm1	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Acetobacteroides sp.	1760811	S	947		947	947	1.458274%			947.0	1.458274	1760811	uncultured Acetobacteroides sp.	uncultured acetobacteroides sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Cetobacterium somerae	188913	S	940		940	940	1.447495%			940.0	1.447495	188913	Cetobacterium somerae	cetobacterium somerae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fusobacterium varium	856	S	815		815	815	1.255009%			815.0	1.255009	856	Fusobacterium varium	fusobacterium varium	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sneathia vaginalis	187101	S	791		791	791	1.218052%			791.0	1.218052	187101	Sneathia vaginalis	sneathia vaginalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Simiaoa sunii	2763672	S	787		787	787	1.211892%			787.0	1.211892	2763672	Simiaoa sunii	simiaoa sunii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Vitreoscilla massiliensis	1689272	S	780		780	780	1.201113%			780.0	1.201113	1689272	Vitreoscilla massiliensis	vitreoscilla massiliensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fusobacterium canifelinum	285729	S	776		776	776	1.194953%			776.0	1.194953	285729	Fusobacterium canifelinum	fusobacterium canifelinum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Propionivibrio sp.	426737	S	763		763	763	1.174935%			763.0	1.174935	426737	uncultured Propionivibrio sp.	uncultured propionivibrio sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Haliovirga abyssi	2996794	S	739		739	739	1.137977%			739.0	1.137977	2996794	Haliovirga abyssi	haliovirga abyssi	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	[Ruminococcus] torques	33039	S	685		685	685	1.054824%			685.0	1.054824	33039	[Ruminococcus] torques	ruminococcus torques	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Blautia obeum	40520	S	641		641	641	0.987068%			641.0	0.987068	40520	Blautia obeum	blautia obeum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Ilyobacter sp.	544433	S	611		611	611	0.940872%			611.0	0.940872	544433	uncultured Ilyobacter sp.	uncultured ilyobacter sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides graminisolvens	477666	S	520		520	520	0.800742%			520.0	0.800742	477666	Bacteroides graminisolvens	bacteroides graminisolvens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Psychrobacter sp. M13	3067275	S	464		464	464	0.714508%			464.0	0.714508	3067275	Psychrobacter sp. M13	psychrobacter sp m13	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptococcus parasuis	1501662	S	450		450	450	0.692950%			450.0	0.69295	1501662	Streptococcus parasuis	streptococcus parasuis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptobacillus moniliformis	34105	S	444		444	444	0.683710%			444.0	0.68371	34105	Streptobacillus moniliformis	streptobacillus moniliformis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides stercoris	46506	S	437		437	437	0.672931%			437.0	0.672931	46506	Bacteroides stercoris	bacteroides stercoris	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Faecalibacterium prausnitzii	853	S	428		428	428	0.659072%			428.0	0.659072	853	Faecalibacterium prausnitzii	faecalibacterium prausnitzii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Staphylococcus epidermidis	1282	S	418		418	418	0.643673%			418.0	0.643673	1282	Staphylococcus epidermidis	staphylococcus epidermidis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fusobacterium necrophorum	859	S	394		394	394	0.606716%			394.0	0.606716	859	Fusobacterium necrophorum	fusobacterium necrophorum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Macellibacteroides sp.	1243007	S	383		383	383	0.589777%			383.0	0.589777	1243007	uncultured Macellibacteroides sp.	uncultured macellibacteroides sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides uniformis	820	S	370		370	370	0.569759%			370.0	0.569759	820	Bacteroides uniformis	bacteroides uniformis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Halomonas sp. JS92-SW72	2306583	S	356		356	356	0.548200%			356.0	0.5482	2306583	Halomonas sp. JS92-SW72	halomonas sp js92 sw72	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacillus velezensis	492670	S	354		354	354	0.545120%			354.0	0.54512	492670	Bacillus velezensis	bacillus velezensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ruminococcus bicirculans (ex Wegman et al. 2014)	1160721	S	342		342	342	0.526642%			342.0	0.526642	1160721	Ruminococcus bicirculans	ruminococcus bicirculans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Phocaeicola coprophilus	387090	S	321		321	321	0.494304%			321.0	0.494304	387090	Phocaeicola coprophilus	phocaeicola coprophilus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Tolumonas sp.	263765	S	321		321	321	0.494304%			321.0	0.494304	263765	uncultured Tolumonas sp.	uncultured tolumonas sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteriovorax stolpii	960	S	315		315	315	0.485065%			315.0	0.485065	960	Bacteriovorax stolpii	bacteriovorax stolpii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Phocaeicola dorei	357276	S	315		315	315	0.485065%			315.0	0.485065	357276	Phocaeicola dorei	phocaeicola dorei	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Flavobacterium sp. K5-23	2746225	S	314		314	314	0.483525%			314.0	0.483525	2746225	Flavobacterium sp. K5-23	flavobacterium sp k5 23	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Wujia chipingensis	2763670	S	301		301	301	0.463506%			301.0	0.463506	2763670	Wujia chipingensis	wujia chipingensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Laribacter hongkongensis	168471	S	295		295	295	0.454267%			295.0	0.454267	168471	Laribacter hongkongensis	laribacter hongkongensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Paralysiella testudinis	2809020	S	289		289	289	0.445028%			289.0	0.445028	2809020	Paralysiella testudinis	paralysiella testudinis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ruminococcus champanellensis	1161942	S	278		278	278	0.428089%			278.0	0.428089	1161942	Ruminococcus champanellensis	ruminococcus champanellensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas sp. CIP-10	2892442	S	277		277	277	0.426549%			277.0	0.426549	2892442	Pseudomonas sp. CIP-10	pseudomonas sp cip 10	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Lachnospira eligens	39485	S	276		276	276	0.425009%			276.0	0.425009	39485	Lachnospira eligens	lachnospira eligens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Tolumonas auensis	43948	S	274		274	274	0.421929%			274.0	0.421929	43948	Tolumonas auensis	tolumonas auensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Coprococcus eutactus	33043	S	267		267	267	0.411150%			267.0	0.41115	33043	Coprococcus eutactus	coprococcus eutactus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Cloacibacterium caeni	2004710	S	254		254	254	0.391132%			254.0	0.391132	2004710	Cloacibacterium caeni	cloacibacterium caeni	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Azospira inquinata	2785627	S	247		247	247	0.380352%			247.0	0.380352	2785627	Azospira inquinata	azospira inquinata	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fusobacterium gonidiaformans	849	S	243		243	243	0.374193%			243.0	0.374193	849	Fusobacterium gonidiaformans	fusobacterium gonidiaformans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Thauera aminoaromatica	164330	S	237		237	237	0.364954%			237.0	0.364954	164330	Thauera aminoaromatica	thauera aminoaromatica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Roseburia sp. 831b	1261635	S	236		236	236	0.363414%			236.0	0.363414	1261635	Roseburia sp. 831b	roseburia sp 831b	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Flavobacterium channae	2897181	S	233		233	233	0.358794%			233.0	0.358794	2897181	Flavobacterium channae	flavobacterium channae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Stenotrophomonas maltophilia	40324	S	232		232	232	0.357254%			232.0	0.357254	40324	Stenotrophomonas maltophilia	stenotrophomonas maltophilia	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Flavobacterium nackdongense	2547394	S	217		217	217	0.334156%			217.0	0.334156	2547394	Flavobacterium nackdongense	flavobacterium nackdongense	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas simiae	321846	S	217		217	217	0.334156%			217.0	0.334156	321846	Pseudomonas simiae	pseudomonas simiae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Anaerostipes hadrus	649756	S	215		215	215	0.331076%			215.0	0.331076	649756	Anaerostipes hadrus	anaerostipes hadrus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Mediterraneibacter gnavus	33038	S	212		212	212	0.326456%			212.0	0.326456	33038	Mediterraneibacter gnavus	mediterraneibacter gnavus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Neisseria zalophi	640030	S	209		209	209	0.321837%			209.0	0.321837	640030	Neisseria zalophi	neisseria zalophi	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudoleptotrichia goodfellowii	157692	S	207		207	207	0.318757%			207.0	0.318757	157692	Pseudoleptotrichia goodfellowii	pseudoleptotrichia goodfellowii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Mycoplasma miroungirhinis	754516	S	206		206	206	0.317217%			206.0	0.317217	754516	Mycoplasma miroungirhinis	mycoplasma miroungirhinis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Roseburia hominis	301301	S	201		201	201	0.309518%			201.0	0.309518	301301	Roseburia hominis	roseburia hominis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Thauera sp. K11	2005884	S	200		200	200	0.307978%			200.0	0.307978	2005884	Thauera sp. K11	thauera sp k11	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Duodenibacillus massiliensis	1852381	S	194		194	194	0.298738%			194.0	0.298738	1852381	Duodenibacillus massiliensis	duodenibacillus massiliensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Acetoanaerobium sticklandii	1511	S	191		191	191	0.294119%			191.0	0.294119	1511	Acetoanaerobium sticklandii	acetoanaerobium sticklandii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Eubacterium ventriosum	39496	S	190		190	190	0.292579%			190.0	0.292579	39496	Eubacterium ventriosum	eubacterium ventriosum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fusobacterium hwasookii	1583098	S	187		187	187	0.287959%			187.0	0.287959	1583098	Fusobacterium hwasookii	fusobacterium hwasookii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Staphylococcus haemolyticus	1283	S	182		182	182	0.280260%			182.0	0.28026	1283	Staphylococcus haemolyticus	staphylococcus haemolyticus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas aeruginosa	287	S	179		179	179	0.275640%			179.0	0.27564	287	Pseudomonas aeruginosa	pseudomonas aeruginosa	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pyramidobacter piscolens	638849	S	178		178	178	0.274100%			178.0	0.2741	638849	Pyramidobacter piscolens	pyramidobacter piscolens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Saccharimonas aalborgensis	1332188	S	176		176	176	0.271020%			176.0	0.27102	1332188	Candidatus Saccharimonas aalborgensis	candidatus saccharimonas aalborgensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Coprococcus sp. ART55/1	751585	S	166		166	166	0.255621%			166.0	0.255621	751585	Coprococcus sp. ART55/1	coprococcus sp art55 1	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Roseburia intestinalis	166486	S	164		164	164	0.252542%			164.0	0.252542	166486	Roseburia intestinalis	roseburia intestinalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Vescimonas fastidiosa	2714353	S	162		162	162	0.249462%			162.0	0.249462	2714353	Vescimonas fastidiosa	vescimonas fastidiosa	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Moraxella osloensis	34062	S	161		161	161	0.247922%			161.0	0.247922	34062	Moraxella osloensis	moraxella osloensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Azonexus hydrophilus	418702	S	160		160	160	0.246382%			160.0	0.246382	418702	Azonexus hydrophilus	azonexus hydrophilus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Selenomonas ruminantium	971	S	158		158	158	0.243302%			158.0	0.243302	971	Selenomonas ruminantium	selenomonas ruminantium	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fibrobacter succinogenes	833	S	156		156	156	0.240223%			156.0	0.240223	833	Fibrobacter succinogenes	fibrobacter succinogenes	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Escherichia coli	562	S	154		154	154	0.237143%			154.0	0.237143	562	Escherichia coli	escherichia coli	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Leptotrichia sp. oral taxon 212	712357	S	153		153	153	0.235603%			153.0	0.235603	712357	Leptotrichia sp. oral taxon 212	leptotrichia sp oral taxon 212	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Megaera polyxenophila	988779	S	148		148	148	0.227903%			148.0	0.227903	988779	Candidatus Megaera polyxenophila	candidatus megaera polyxenophila	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Anaerolinea thermophila	167964	S	147		147	147	0.226364%			147.0	0.226364	167964	Anaerolinea thermophila	anaerolinea thermophila	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Blautia wexlerae	418240	S	146		146	146	0.224824%			146.0	0.224824	418240	Blautia wexlerae	blautia wexlerae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Epilithonimonas vandammei	2487072	S	144		144	144	0.221744%			144.0	0.221744	2487072	Epilithonimonas vandammei	epilithonimonas vandammei	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Paludibacter propionicigenes	185300	S	144		144	144	0.221744%			144.0	0.221744	185300	Paludibacter propionicigenes	paludibacter propionicigenes	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Parabacteroides distasonis	823	S	141		141	141	0.217124%			141.0	0.217124	823	Parabacteroides distasonis	parabacteroides distasonis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sutterella wadsworthensis	40545	S	136		136	136	0.209425%			136.0	0.209425	40545	Sutterella wadsworthensis	sutterella wadsworthensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Gracilinema caldarium	215591	S	134		134	134	0.206345%			134.0	0.206345	215591	Gracilinema caldarium	gracilinema caldarium	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Mycosynbacter amalyticus	2665156	S	133		133	133	0.204805%			133.0	0.204805	2665156	Candidatus Mycosynbacter amalyticus	candidatus mycosynbacter amalyticus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Peredibacter starrii	28202	S	133		133	133	0.204805%			133.0	0.204805	28202	Peredibacter starrii	peredibacter starrii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fusobacterium nucleatum	851	S	129		129	129	0.198646%			129.0	0.198646	851	Fusobacterium nucleatum	fusobacterium nucleatum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Flavobacterium faecale	1355330	S	129		129	129	0.198646%			129.0	0.198646	1355330	Flavobacterium faecale	flavobacterium faecale	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Desulfobulbus sp.	239745	S	126		126	126	0.194026%			126.0	0.194026	239745	uncultured Desulfobulbus sp.	uncultured desulfobulbus sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Klebsiella pneumoniae	573	S	125		125	125	0.192486%			125.0	0.192486	573	Klebsiella pneumoniae	klebsiella pneumoniae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Quatrionicoccus australiensis	138118	S	124		124	124	0.190946%			124.0	0.190946	138118	Quatrionicoccus australiensis	quatrionicoccus australiensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pelolinea submarina	913107	S	120		120	120	0.184787%			120.0	0.184787	913107	Pelolinea submarina	pelolinea submarina	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sphaerotilus microaerophilus	2914710	S	119		119	119	0.183247%			119.0	0.183247	2914710	Sphaerotilus microaerophilus	sphaerotilus microaerophilus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aquirhabdus parva	2283318	S	119		119	119	0.183247%			119.0	0.183247	2283318	Aquirhabdus parva	aquirhabdus parva	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Haliangium ochraceum	80816	S	119		119	119	0.183247%			119.0	0.183247	80816	Haliangium ochraceum	haliangium ochraceum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Brevefilum fermentans	1986204	S	117		117	117	0.180167%			117.0	0.180167	1986204	Brevefilum fermentans	brevefilum fermentans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Brucepastera parasyntrophica	2880008	S	116		116	116	0.178627%			116.0	0.178627	2880008	Brucepastera parasyntrophica	brucepastera parasyntrophica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Salmonella enterica	28901	S	115		115	115	0.177087%			115.0	0.177087	28901	Salmonella enterica	salmonella enterica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Selenobaculum gbiensis	3054208	S	115		115	115	0.177087%			115.0	0.177087	3054208	Selenobaculum gbiensis	selenobaculum gbiensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Anaerotruncus colihominis	169435	S	115		115	115	0.177087%			115.0	0.177087	169435	Anaerotruncus colihominis	anaerotruncus colihominis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ferribacterium limneticum	76259	S	114		114	114	0.175547%			114.0	0.175547	76259	Ferribacterium limneticum	ferribacterium limneticum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Azospira restricta	404405	S	113		113	113	0.174007%			113.0	0.174007	404405	Azospira restricta	azospira restricta	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Solibaculum mannosilyticum	2780922	S	112		112	112	0.172467%			112.0	0.172467	2780922	Solibaculum mannosilyticum	solibaculum mannosilyticum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Flavonifractor plautii	292800	S	112		112	112	0.172467%			112.0	0.172467	292800	Flavonifractor plautii	flavonifractor plautii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Bacteroides sp.	162156	S	110		110	110	0.169388%			110.0	0.169388	162156	uncultured Bacteroides sp.	uncultured bacteroides sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Neisseria bacilliformis	267212	S	110		110	110	0.169388%			110.0	0.169388	267212	Neisseria bacilliformis	neisseria bacilliformis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Conchiformibius steedae	153493	S	110		110	110	0.169388%			110.0	0.169388	153493	Conchiformibius steedae	conchiformibius steedae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Prevotella herbatica	2801997	S	110		110	110	0.169388%			110.0	0.169388	2801997	Prevotella herbatica	prevotella herbatica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Dechloromonas sp. A34	447588	S	109		109	109	0.167848%			109.0	0.167848	447588	Dechloromonas sp. A34	dechloromonas sp a34	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Odoribacter splanchnicus	28118	S	109		109	109	0.167848%			109.0	0.167848	28118	Odoribacter splanchnicus	odoribacter splanchnicus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Arcobacter acticola	1849015	S	108		108	108	0.166308%			108.0	0.166308	1849015	Arcobacter acticola	arcobacter acticola	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides eggerthii	28111	S	106		106	106	0.163228%			106.0	0.163228	28111	Bacteroides eggerthii	bacteroides eggerthii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Dechloromonas denitrificans	281362	S	106		106	106	0.163228%			106.0	0.163228	281362	Dechloromonas denitrificans	dechloromonas denitrificans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Leptotrichia sp. oral taxon 221	712362	S	103		103	103	0.158609%			103.0	0.158609	712362	Leptotrichia sp. oral taxon 221	leptotrichia sp oral taxon 221	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Paludicola sp. MB14-C6	3070656	S	103		103	103	0.158609%			103.0	0.158609	3070656	Paludicola sp. MB14-C6	paludicola sp mb14 c6	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Solimonas sp. K1W22B-7	2303331	S	102		102	102	0.157069%			102.0	0.157069	2303331	Solimonas sp. K1W22B-7	solimonas sp k1w22b 7	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Blautia luti	89014	S	102		102	102	0.157069%			102.0	0.157069	89014	Blautia luti	blautia luti	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Neisseria brasiliensis	2666100	S	102		102	102	0.157069%			102.0	0.157069	2666100	Neisseria brasiliensis	neisseria brasiliensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Anaerobutyricum hallii	39488	S	101		101	101	0.155529%			101.0	0.155529	39488	Anaerobutyricum hallii	anaerobutyricum hallii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sterolibacterium denitrificans	157592	S	101		101	101	0.155529%			101.0	0.155529	157592	Sterolibacterium denitrificans	sterolibacterium denitrificans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sphaerotilus sulfidivorans	639200	S	101		101	101	0.155529%			101.0	0.155529	639200	Sphaerotilus sulfidivorans	sphaerotilus sulfidivorans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptomyces sp. T12	477697	S	101		101	101	0.155529%			101.0	0.155529	477697	Streptomyces sp. T12	streptomyces sp t12	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Psychrobacter sp. van23A	3064892	S	101		101	101	0.155529%			101.0	0.155529	3064892	Psychrobacter sp. van23A	psychrobacter sp van23a	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptococcus oriscaviae	2781599	S	100		100	100	0.153989%			100.0	0.153989	2781599	Streptococcus oriscaviae	streptococcus oriscaviae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Rheinheimera sp. F8	1763998	S	99		99	99	0.152449%			99.0	0.152449	1763998	Rheinheimera sp. F8	rheinheimera sp f8	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Polyangium aurulentum	2567896	S	99		99	99	0.152449%			99.0	0.152449	2567896	Polyangium aurulentum	polyangium aurulentum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas putida	303	S	99		99	99	0.152449%			99.0	0.152449	303	Pseudomonas putida	pseudomonas putida	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ruminococcus bovis	2564099	S	98		98	98	0.150909%			98.0	0.150909	2564099	Ruminococcus bovis	ruminococcus bovis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Arcobacter sp. FWKO B	2593672	S	98		98	98	0.150909%			98.0	0.150909	2593672	Arcobacter sp. FWKO B	arcobacter sp fwko b	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Blautia producta	33035	S	97		97	97	0.149369%			97.0	0.149369	33035	Blautia producta	blautia producta	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aquella oligotrophica	2067065	S	97		97	97	0.149369%			97.0	0.149369	2067065	Aquella oligotrophica	aquella oligotrophica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pusillibacter faecalis	2714358	S	96		96	96	0.147829%			96.0	0.147829	2714358	Pusillibacter faecalis	pusillibacter faecalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Blautia liquoris	2779518	S	96		96	96	0.147829%			96.0	0.147829	2779518	Blautia liquoris	blautia liquoris	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Paraprevotella clara	454154	S	96		96	96	0.147829%			96.0	0.147829	454154	Paraprevotella clara	paraprevotella clara	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Parabacteroides merdae	46503	S	96		96	96	0.147829%			96.0	0.147829	46503	Parabacteroides merdae	parabacteroides merdae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Lawsonibacter asaccharolyticus	2108523	S	94		94	94	0.144750%			94.0	0.14475	2108523	Lawsonibacter asaccharolyticus	lawsonibacter asaccharolyticus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Arcobacter ellisii	913109	S	94		94	94	0.144750%			94.0	0.14475	913109	Arcobacter ellisii	arcobacter ellisii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sulfuritortus calidifontis	1914471	S	93		93	93	0.143210%			93.0	0.14321	1914471	Sulfuritortus calidifontis	sulfuritortus calidifontis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aromatoleum bremense	76115	S	93		93	93	0.143210%			93.0	0.14321	76115	Aromatoleum bremense	aromatoleum bremense	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Chondromyces crocatus	52	S	91		91	91	0.140130%			91.0	0.14013	52	Chondromyces crocatus	chondromyces crocatus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ethanoligenens harbinense	253239	S	91		91	91	0.140130%			91.0	0.14013	253239	Ethanoligenens harbinense	ethanoligenens harbinense	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aeromonas salmonicida	645	S	91		91	91	0.140130%			91.0	0.14013	645	Aeromonas salmonicida	aeromonas salmonicida	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Desulfobulbus propionicus	894	S	91		91	91	0.140130%			91.0	0.14013	894	Desulfobulbus propionicus	desulfobulbus propionicus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sutterella faecalis	2584944	S	90		90	90	0.138590%			90.0	0.13859	2584944	Sutterella faecalis	sutterella faecalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudobutyrivibrio xylanivorans	185007	S	90		90	90	0.138590%			90.0	0.13859	185007	Pseudobutyrivibrio xylanivorans	pseudobutyrivibrio xylanivorans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Dorea longicatena	88431	S	89		89	89	0.137050%			89.0	0.13705	88431	Dorea longicatena	dorea longicatena	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Blautia sp. SC05B48	2479767	S	87		87	87	0.133970%			87.0	0.13397	2479767	Blautia sp. SC05B48	blautia sp sc05b48	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Vescimonas coprocola	2714355	S	86		86	86	0.132430%			86.0	0.13243	2714355	Vescimonas coprocola	vescimonas coprocola	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Blautia hansenii	1322	S	86		86	86	0.132430%			86.0	0.13243	1322	Blautia hansenii	blautia hansenii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Riemerella anatipestifer	34085	S	84		84	84	0.129351%			84.0	0.129351	34085	Riemerella anatipestifer	riemerella anatipestifer	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Azoarcus sp. KH32C	748247	S	83		83	83	0.127811%			83.0	0.127811	748247	Azoarcus sp. KH32C	azoarcus sp kh32c	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Acinetobacter baumannii	470	S	83		83	83	0.127811%			83.0	0.127811	470	Acinetobacter baumannii	acinetobacter baumannii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ruminococcus albus	1264	S	83		83	83	0.127811%			83.0	0.127811	1264	Ruminococcus albus	ruminococcus albus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Intestinibacillus sp. NTUH-41-i26	3079303	S	82		82	82	0.126271%			82.0	0.126271	3079303	Intestinibacillus sp. NTUH-41-i26	intestinibacillus sp ntuh 41 i26	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Flavobacterium cyclinae	2895947	S	81		81	81	0.124731%			81.0	0.124731	2895947	Flavobacterium cyclinae	flavobacterium cyclinae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Moraxella canis	90239	S	80		80	80	0.123191%			80.0	0.123191	90239	Moraxella canis	moraxella canis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Carboxylicivirga sp.	1628156	S	80		80	80	0.123191%			80.0	0.123191	1628156	uncultured Carboxylicivirga sp.	uncultured carboxylicivirga sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Moraxella bovoculi	386891	S	80		80	80	0.123191%			80.0	0.123191	386891	Moraxella bovoculi	moraxella bovoculi	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Haliscomenobacter hydrossis	2350	S	79		79	79	0.121651%			79.0	0.121651	2350	Haliscomenobacter hydrossis	haliscomenobacter hydrossis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Eikenella exigua	2528037	S	78		78	78	0.120111%			78.0	0.120111	2528037	Eikenella exigua	eikenella exigua	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Coprococcus catus	116085	S	78		78	78	0.120111%			78.0	0.120111	116085	Coprococcus catus	coprococcus catus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacillus cereus	1396	S	78		78	78	0.120111%			78.0	0.120111	1396	Bacillus cereus	bacillus cereus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Faecalibacillus intestinalis	1982626	S	77		77	77	0.118571%			77.0	0.118571	1982626	Faecalibacillus intestinalis	faecalibacillus intestinalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ruthenibacterium lactatiformans	1550024	S	76		76	76	0.117032%			76.0	0.117032	1550024	Ruthenibacterium lactatiformans	ruthenibacterium lactatiformans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Oscillibacter hominis	2763056	S	75		75	75	0.115492%			75.0	0.115492	2763056	Oscillibacter hominis	oscillibacter hominis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas fragi	296	S	75		75	75	0.115492%			75.0	0.115492	296	Pseudomonas fragi	pseudomonas fragi	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Arcobacter suis	1278212	S	75		75	75	0.115492%			75.0	0.115492	1278212	Arcobacter suis	arcobacter suis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Xanthomonas albilineans	29447	S	74		74	74	0.113952%			74.0	0.113952	29447	Xanthomonas albilineans	xanthomonas albilineans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Verrucomicrobium spinosum	2736	S	72		72	72	0.110872%			72.0	0.110872	2736	Verrucomicrobium spinosum	verrucomicrobium spinosum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Anaeromusa sp.	673273	S	71		71	71	0.109332%			71.0	0.109332	673273	uncultured Anaeromusa sp.	uncultured anaeromusa sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Tenuifilum thalassicum	2590900	S	71		71	71	0.109332%			71.0	0.109332	2590900	Tenuifilum thalassicum	tenuifilum thalassicum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Cytophaga hutchinsonii	985	S	71		71	71	0.109332%			71.0	0.109332	985	Cytophaga hutchinsonii	cytophaga hutchinsonii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Capnocytophaga haemolytica	45243	S	70		70	70	0.107792%			70.0	0.107792	45243	Capnocytophaga haemolytica	capnocytophaga haemolytica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Oryzomicrobium terrae	1735038	S	70		70	70	0.107792%			70.0	0.107792	1735038	Oryzomicrobium terrae	oryzomicrobium terrae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Chitinimonas arctica	2594795	S	70		70	70	0.107792%			70.0	0.107792	2594795	Chitinimonas arctica	chitinimonas arctica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fluviicola taffensis	191579	S	70		70	70	0.107792%			70.0	0.107792	191579	Fluviicola taffensis	fluviicola taffensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aurantibacillus circumpalustris	3036359	S	69		69	69	0.106252%			69.0	0.106252	3036359	Aurantibacillus circumpalustris	aurantibacillus circumpalustris	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptococcus iniae	1346	S	69		69	69	0.106252%			69.0	0.106252	1346	Streptococcus iniae	streptococcus iniae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Mariniblastus fucicola	980251	S	69		69	69	0.106252%			69.0	0.106252	980251	Mariniblastus fucicola	mariniblastus fucicola	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides fragilis	817	S	69		69	69	0.106252%			69.0	0.106252	817	Bacteroides fragilis	bacteroides fragilis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudobdellovibrio exovorus	453816	S	68		68	68	0.104712%			68.0	0.104712	453816	Pseudobdellovibrio exovorus	pseudobdellovibrio exovorus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Acinetobacter lanii	2715163	S	66		66	66	0.101633%			66.0	0.101633	2715163	Acinetobacter lanii	acinetobacter lanii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Anaerocolumna cellulosilytica	433286	S	66		66	66	0.101633%			66.0	0.101633	433286	Anaerocolumna cellulosilytica	anaerocolumna cellulosilytica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Phascolarctobacterium faecium	33025	S	66		66	66	0.101633%			66.0	0.101633	33025	Phascolarctobacterium faecium	phascolarctobacterium faecium	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Methyloversatilis sp. RAC08	1842540	S	64		64	64	0.098553%			64.0	0.098553	1842540	Methyloversatilis sp. RAC08	methyloversatilis sp rac08	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Alkalitalea saponilacus	889453	S	64		64	64	0.098553%			64.0	0.098553	889453	Alkalitalea saponilacus	alkalitalea saponilacus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Turicimonas muris	1796652	S	64		64	64	0.098553%			64.0	0.098553	1796652	Turicimonas muris	turicimonas muris	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Nannocystis poenicansa	2995304	S	63		63	63	0.097013%			63.0	0.097013	2995304	Nannocystis poenicansa	nannocystis poenicansa	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Phototrophicus methaneseepsis	2710758	S	63		63	63	0.097013%			63.0	0.097013	2710758	Phototrophicus methaneseepsis	phototrophicus methaneseepsis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Xiashengella succiniciproducens	2949635	S	62		62	62	0.095473%			62.0	0.095473	2949635	Xiashengella succiniciproducens	xiashengella succiniciproducens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas syringae	317	S	62		62	62	0.095473%			62.0	0.095473	317	Pseudomonas syringae	pseudomonas syringae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Marvinbryantia formatexigens	168384	S	62		62	62	0.095473%			62.0	0.095473	168384	Marvinbryantia formatexigens	marvinbryantia formatexigens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Romboutsia ilealis	1115758	S	61		61	61	0.093933%			61.0	0.093933	1115758	Romboutsia ilealis	romboutsia ilealis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptococcus ferus	1345	S	61		61	61	0.093933%			61.0	0.093933	1345	Streptococcus ferus	streptococcus ferus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Dorea formicigenerans	39486	S	61		61	61	0.093933%			61.0	0.093933	39486	Dorea formicigenerans	dorea formicigenerans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Alistipes onderdonkii	328813	S	61		61	61	0.093933%			61.0	0.093933	328813	Alistipes onderdonkii	alistipes onderdonkii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Turneriella parva	29510	S	61		61	61	0.093933%			61.0	0.093933	29510	Turneriella parva	turneriella parva	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sutterella megalosphaeroides	2494234	S	60		60	60	0.092393%			60.0	0.092393	2494234	Sutterella megalosphaeroides	sutterella megalosphaeroides	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aquipluma nitroreducens	2010828	S	59		59	59	0.090853%			59.0	0.090853	2010828	Aquipluma nitroreducens	aquipluma nitroreducens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Intestinimonas butyriciproducens	1297617	S	58		58	58	0.089314%			58.0	0.089314	1297617	Intestinimonas butyriciproducens	intestinimonas butyriciproducens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Oxalobacter formigenes	847	S	58		58	58	0.089314%			58.0	0.089314	847	Oxalobacter formigenes	oxalobacter formigenes	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Desulfovibrio desulfuricans	876	S	57		57	57	0.087774%			57.0	0.087774	876	Desulfovibrio desulfuricans	desulfovibrio desulfuricans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Viadribacter manganicus	1759059	S	56		56	56	0.086234%			56.0	0.086234	1759059	Candidatus Viadribacter manganicus	candidatus viadribacter manganicus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Alistipes communis	2585118	S	56		56	56	0.086234%			56.0	0.086234	2585118	Alistipes communis	alistipes communis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ferriphaselus amnicola	1188319	S	56		56	56	0.086234%			56.0	0.086234	1188319	Ferriphaselus amnicola	ferriphaselus amnicola	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bdellovibrio bacteriovorus	959	S	56		56	56	0.086234%			56.0	0.086234	959	Bdellovibrio bacteriovorus	bdellovibrio bacteriovorus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudothauera hydrothermalis	2184083	S	55		55	55	0.084694%			55.0	0.084694	2184083	Pseudothauera hydrothermalis	pseudothauera hydrothermalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Segatella hominis	2518605	S	55		55	55	0.084694%			55.0	0.084694	2518605	Segatella hominis	segatella hominis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Chitinimonas koreensis	356302	S	55		55	55	0.084694%			55.0	0.084694	356302	Chitinimonas koreensis	chitinimonas koreensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	[Ruminococcus] lactaris	46228	S	55		55	55	0.084694%			55.0	0.084694	46228	[Ruminococcus] lactaris	ruminococcus lactaris	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Butyrivibrio crossotus	45851	S	53		53	53	0.081614%			53.0	0.081614	45851	Butyrivibrio crossotus	butyrivibrio crossotus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Coprococcus comes	410072	S	53		53	53	0.081614%			53.0	0.081614	410072	Coprococcus comes	coprococcus comes	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Diaphorobacter limosus	3036128	S	53		53	53	0.081614%			53.0	0.081614	3036128	Diaphorobacter limosus	diaphorobacter limosus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sulfurospirillum cavolei	366522	S	53		53	53	0.081614%			53.0	0.081614	366522	Sulfurospirillum cavolei	sulfurospirillum cavolei	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fusobacterium mortiferum	850	S	53		53	53	0.081614%			53.0	0.081614	850	Fusobacterium mortiferum	fusobacterium mortiferum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Succinivibrio dextrinosolvens	83771	S	52		52	52	0.080074%			52.0	0.080074	83771	Succinivibrio dextrinosolvens	succinivibrio dextrinosolvens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Clostridium sp. M62/1	411486	S	52		52	52	0.080074%			52.0	0.080074	411486	Clostridium sp. M62/1	clostridium sp m62 1	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Rugosibacter aromaticivorans	1565605	S	52		52	52	0.080074%			52.0	0.080074	1565605	Rugosibacter aromaticivorans	rugosibacter aromaticivorans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pelobacter propionicus	29543	S	52		52	52	0.080074%			52.0	0.080074	29543	Pelobacter propionicus	pelobacter propionicus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sulfuritalea hydrogenivorans	748811	S	52		52	52	0.080074%			52.0	0.080074	748811	Sulfuritalea hydrogenivorans	sulfuritalea hydrogenivorans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Sulfidibacterium hydrothermale	2875962	S	51		51	51	0.078534%			51.0	0.078534	2875962	Candidatus Sulfidibacterium hydrothermale	candidatus sulfidibacterium hydrothermale	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Moraxella ovis	29433	S	51		51	51	0.078534%			51.0	0.078534	29433	Moraxella ovis	moraxella ovis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Clostridium sp. SY8519	1042156	S	51		51	51	0.078534%			51.0	0.078534	1042156	Clostridium sp. SY8519	clostridium sp sy8519	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Cellvibrio sp. PSBB006	1987723	S	51		51	51	0.078534%			51.0	0.078534	1987723	Cellvibrio sp. PSBB006	cellvibrio sp psbb006	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Leptotrichia wadei	157687	S	51		51	51	0.078534%			51.0	0.078534	157687	Leptotrichia wadei	leptotrichia wadei	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Symbiobacter mobilis	1436290	S	51		51	51	0.078534%			51.0	0.078534	1436290	Candidatus Symbiobacter mobilis	candidatus symbiobacter mobilis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Desulfomicrobium orale	132132	S	51		51	51	0.078534%			51.0	0.078534	132132	Desulfomicrobium orale	desulfomicrobium orale	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Phocaeicola salanitronis	376805	S	51		51	51	0.078534%			51.0	0.078534	376805	Phocaeicola salanitronis	phocaeicola salanitronis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Flintibacter sp. KGMB00164	2610895	S	50		50	50	0.076994%			50.0	0.076994	2610895	Flintibacter sp. KGMB00164	flintibacter sp kgmb00164	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudoprevotella muciniphila	2133944	S	50		50	50	0.076994%			50.0	0.076994	2133944	Pseudoprevotella muciniphila	pseudoprevotella muciniphila	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aeromonas veronii	654	S	50		50	50	0.076994%			50.0	0.076994	654	Aeromonas veronii	aeromonas veronii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides caccae	47678	S	50		50	50	0.076994%			50.0	0.076994	47678	Bacteroides caccae	bacteroides caccae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Alistipes shahii	328814	S	50		50	50	0.076994%			50.0	0.076994	328814	Alistipes shahii	alistipes shahii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Neisseria sp. KEM232	655307	S	49		49	49	0.075455%			49.0	0.075455	655307	Neisseria sp. KEM232	neisseria sp kem232	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Niveibacterium microcysteis	2811415	S	49		49	49	0.075455%			49.0	0.075455	2811415	Niveibacterium microcysteis	niveibacterium microcysteis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Treponema pallidum	160	S	49		49	49	0.075455%			49.0	0.075455	160	Treponema pallidum	treponema pallidum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Thermocaproicibacter melissae	2966552	S	49		49	49	0.075455%			49.0	0.075455	2966552	Thermocaproicibacter melissae	thermocaproicibacter melissae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sediminibacterium sp. TEGAF015	575378	S	48		48	48	0.073915%			48.0	0.073915	575378	Sediminibacterium sp. TEGAF015	sediminibacterium sp tegaf015	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides ovatus	28116	S	48		48	48	0.073915%			48.0	0.073915	28116	Bacteroides ovatus	bacteroides ovatus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Roseimicrobium sp. ORNL1	2711231	S	47		47	47	0.072375%			47.0	0.072375	2711231	Roseimicrobium sp. ORNL1	roseimicrobium sp ornl1	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides cellulosilyticus	246787	S	47		47	47	0.072375%			47.0	0.072375	246787	Bacteroides cellulosilyticus	bacteroides cellulosilyticus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Roseburia rectibacter	2763062	S	47		47	47	0.072375%			47.0	0.072375	2763062	Roseburia rectibacter	roseburia rectibacter	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptococcus pantholopis	1811193	S	47		47	47	0.072375%			47.0	0.072375	1811193	Streptococcus pantholopis	streptococcus pantholopis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Leptotrichia sp. oral taxon 218	712361	S	47		47	47	0.072375%			47.0	0.072375	712361	Leptotrichia sp. oral taxon 218	leptotrichia sp oral taxon 218	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Treponema primitia	88058	S	47		47	47	0.072375%			47.0	0.072375	88058	Treponema primitia	treponema primitia	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Moraxella nasovis	2904121	S	46		46	46	0.070835%			46.0	0.070835	2904121	Moraxella nasovis	moraxella nasovis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aquabacterium olei	1296669	S	46		46	46	0.070835%			46.0	0.070835	1296669	Aquabacterium olei	aquabacterium olei	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Collinsella aerofaciens	74426	S	46		46	46	0.070835%			46.0	0.070835	74426	Collinsella aerofaciens	collinsella aerofaciens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptococcus dysgalactiae	1334	S	45		45	45	0.069295%			45.0	0.069295	1334	Streptococcus dysgalactiae	streptococcus dysgalactiae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pararhizobium sp. BT-229	2986923	S	45		45	45	0.069295%			45.0	0.069295	2986923	Pararhizobium sp. BT-229	pararhizobium sp bt 229	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ferrigenium kumadai	1682490	S	45		45	45	0.069295%			45.0	0.069295	1682490	Ferrigenium kumadai	ferrigenium kumadai	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Acutalibacter muris	1796620	S	45		45	45	0.069295%			45.0	0.069295	1796620	Acutalibacter muris	acutalibacter muris	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides thetaiotaomicron	818	S	45		45	45	0.069295%			45.0	0.069295	818	Bacteroides thetaiotaomicron	bacteroides thetaiotaomicron	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptococcus anginosus	1328	S	45		45	45	0.069295%			45.0	0.069295	1328	Streptococcus anginosus	streptococcus anginosus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Alistipes indistinctus	626932	S	45		45	45	0.069295%			45.0	0.069295	626932	Alistipes indistinctus	alistipes indistinctus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Caldilinea aerophila	133453	S	45		45	45	0.069295%			45.0	0.069295	133453	Caldilinea aerophila	caldilinea aerophila	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Micropruina glycogenica	75385	S	44		44	44	0.067755%			44.0	0.067755	75385	Micropruina glycogenica	micropruina glycogenica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Lacrimispora xylanolytica	29375	S	44		44	44	0.067755%			44.0	0.067755	29375	Lacrimispora xylanolytica	lacrimispora xylanolytica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fastidiosipila sanguinis	236753	S	44		44	44	0.067755%			44.0	0.067755	236753	Fastidiosipila sanguinis	fastidiosipila sanguinis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptococcus thermophilus	1308	S	44		44	44	0.067755%			44.0	0.067755	1308	Streptococcus thermophilus	streptococcus thermophilus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Chromulinivorax destructor	2066483	S	43		43	43	0.066215%			43.0	0.066215	2066483	Candidatus Chromulinivorax destructor	candidatus chromulinivorax destructor	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Leptolyngbya sp. 7M	2812896	S	43		43	43	0.066215%			43.0	0.066215	2812896	Leptolyngbya sp. 7M	leptolyngbya sp 7m	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Vandammella animalimorsus	2029117	S	43		43	43	0.066215%			43.0	0.066215	2029117	Vandammella animalimorsus	vandammella animalimorsus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Dysgonomonas capnocytophagoides	45254	S	43		43	43	0.066215%			43.0	0.066215	45254	Dysgonomonas capnocytophagoides	dysgonomonas capnocytophagoides	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Anaeromicropila herbilytica	2785025	S	43		43	43	0.066215%			43.0	0.066215	2785025	Anaeromicropila herbilytica	anaeromicropila herbilytica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas lundensis	86185	S	42		42	42	0.064675%			42.0	0.064675	86185	Pseudomonas lundensis	pseudomonas lundensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Acinetobacter sp. Marseille-Q1620	2714110	S	42		42	42	0.064675%			42.0	0.064675	2714110	Acinetobacter sp. Marseille-Q1620	acinetobacter sp marseille q1620	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Agathobaculum sp. NTUH-O15-33	3079302	S	42		42	42	0.064675%			42.0	0.064675	3079302	Agathobaculum sp. NTUH-O15-33	agathobaculum sp ntuh o15 33	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Leptospira interrogans	173	S	41		41	41	0.063135%			41.0	0.063135	173	Leptospira interrogans	leptospira interrogans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aquincola tertiaricarbonis	391953	S	40		40	40	0.061596%			40.0	0.061596	391953	Aquincola tertiaricarbonis	aquincola tertiaricarbonis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Alistipes sp.	538949	S	40		40	40	0.061596%			40.0	0.061596	538949	uncultured Alistipes sp.	uncultured alistipes sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Cellvibrio sp. KY-GH-1	2303332	S	40		40	40	0.061596%			40.0	0.061596	2303332	Cellvibrio sp. KY-GH-1	cellvibrio sp ky gh 1	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas alcaligenes	43263	S	40		40	40	0.061596%			40.0	0.061596	43263	Pseudomonas alcaligenes	pseudomonas alcaligenes	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Clostridium perfringens	1502	S	40		40	40	0.061596%			40.0	0.061596	1502	Clostridium perfringens	clostridium perfringens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Micavibrio aeruginosavorus	349221	S	40		40	40	0.061596%			40.0	0.061596	349221	Micavibrio aeruginosavorus	micavibrio aeruginosavorus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Simonsiella muelleri	72	S	39		39	39	0.060056%			39.0	0.060056	72	Simonsiella muelleri	simonsiella muelleri	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Chryseobacterium sp. POL2	2713414	S	39		39	39	0.060056%			39.0	0.060056	2713414	Chryseobacterium sp. POL2	chryseobacterium sp pol2	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Neisseria shayeganii	607712	S	39		39	39	0.060056%			39.0	0.060056	607712	Neisseria shayeganii	neisseria shayeganii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ottowia oryzae	2109914	S	39		39	39	0.060056%			39.0	0.060056	2109914	Ottowia oryzae	ottowia oryzae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Enterobacter sp. T2	2707174	S	39		39	39	0.060056%			39.0	0.060056	2707174	Enterobacter sp. T2	enterobacter sp t2	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Paracidovorax avenae	80867	S	39		39	39	0.060056%			39.0	0.060056	80867	Paracidovorax avenae	paracidovorax avenae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Treponema brennaborense	81028	S	39		39	39	0.060056%			39.0	0.060056	81028	Treponema brennaborense	treponema brennaborense	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Vibrio sp.	114054	S	38		38	38	0.058516%			38.0	0.058516	114054	uncultured Vibrio sp.	uncultured vibrio sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Caproicibacterium lactatifermentans	2666138	S	38		38	38	0.058516%			38.0	0.058516	2666138	Caproicibacterium lactatifermentans	caproicibacterium lactatifermentans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Tepidimonas taiwanensis	307486	S	38		38	38	0.058516%			38.0	0.058516	307486	Tepidimonas taiwanensis	tepidimonas taiwanensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Arcobacter nitrofigilis	28199	S	38		38	38	0.058516%			38.0	0.058516	28199	Arcobacter nitrofigilis	arcobacter nitrofigilis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Megamonas funiformis	437897	S	37		37	37	0.056976%			37.0	0.056976	437897	Megamonas funiformis	megamonas funiformis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Selenomonas sputigena	69823	S	37		37	37	0.056976%			37.0	0.056976	69823	Selenomonas sputigena	selenomonas sputigena	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Paracaedibacter acanthamoebae	91604	S	37		37	37	0.056976%			37.0	0.056976	91604	Candidatus Paracaedibacter acanthamoebae	candidatus paracaedibacter acanthamoebae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Desulfobulbus oralis	1986146	S	37		37	37	0.056976%			37.0	0.056976	1986146	Desulfobulbus oralis	desulfobulbus oralis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Leptotrichia trevisanii	109328	S	37		37	37	0.056976%			37.0	0.056976	109328	Leptotrichia trevisanii	leptotrichia trevisanii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Niveibacterium sp. SC-1	3135646	S	37		37	37	0.056976%			37.0	0.056976	3135646	Niveibacterium sp. SC-1	niveibacterium sp sc 1	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Tessaracoccus flavescens	399497	S	36		36	36	0.055436%			36.0	0.055436	399497	Tessaracoccus flavescens	tessaracoccus flavescens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Steroidobacter denitrificans	465721	S	36		36	36	0.055436%			36.0	0.055436	465721	Steroidobacter denitrificans	steroidobacter denitrificans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudazoarcus pumilus	2067960	S	36		36	36	0.055436%			36.0	0.055436	2067960	Pseudazoarcus pumilus	pseudazoarcus pumilus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Magnetospirillum gryphiswaldense	55518	S	36		36	36	0.055436%			36.0	0.055436	55518	Magnetospirillum gryphiswaldense	magnetospirillum gryphiswaldense	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Roseateles amylovorans	2978473	S	36		36	36	0.055436%			36.0	0.055436	2978473	Roseateles amylovorans	roseateles amylovorans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Limnohabitans sp. 103DPR2	1678129	S	36		36	36	0.055436%			36.0	0.055436	1678129	Limnohabitans sp. 103DPR2	limnohabitans sp 103dpr2	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Neisseria lisongii	2912188	S	36		36	36	0.055436%			36.0	0.055436	2912188	Neisseria lisongii	neisseria lisongii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Serratia symbiotica	138074	S	35		35	35	0.053896%			35.0	0.053896	138074	Serratia symbiotica	serratia symbiotica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas sp. S150	2559074	S	35		35	35	0.053896%			35.0	0.053896	2559074	Pseudomonas sp. S150	pseudomonas sp s150	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas guguanensis	1198456	S	35		35	35	0.053896%			35.0	0.053896	1198456	Pseudomonas guguanensis	pseudomonas guguanensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Terricaulis silvestris	2686094	S	35		35	35	0.053896%			35.0	0.053896	2686094	Terricaulis silvestris	terricaulis silvestris	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Labilithrix luteola	1391654	S	35		35	35	0.053896%			35.0	0.053896	1391654	Labilithrix luteola	labilithrix luteola	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Qiania dongpingensis	2763669	S	35		35	35	0.053896%			35.0	0.053896	2763669	Qiania dongpingensis	qiania dongpingensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ottowia sp. oral taxon 894	1658672	S	35		35	35	0.053896%			35.0	0.053896	1658672	Ottowia sp. oral taxon 894	ottowia sp oral taxon 894	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Kineothrix sp. MB12-C1	3070215	S	35		35	35	0.053896%			35.0	0.053896	3070215	Kineothrix sp. MB12-C1	kineothrix sp mb12 c1	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Treponema phagedenis	162	S	35		35	35	0.053896%			35.0	0.053896	162	Treponema phagedenis	treponema phagedenis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bifidobacterium longum	216816	S	35		35	35	0.053896%			35.0	0.053896	216816	Bifidobacterium longum	bifidobacterium longum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Buchnera aphidicola	9	S	35		35	35	0.053896%			35.0	0.053896	9	Buchnera aphidicola	buchnera aphidicola	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides helcogenes	290053	S	35		35	35	0.053896%			35.0	0.053896	290053	Bacteroides helcogenes	bacteroides helcogenes	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sinimarinibacterium sp. NLF-5-8	2698684	S	34		34	34	0.052356%			34.0	0.052356	2698684	Sinimarinibacterium sp. NLF-5-8	sinimarinibacterium sp nlf 5 8	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Propioniciclava coleopterorum	2714937	S	34		34	34	0.052356%			34.0	0.052356	2714937	Propioniciclava coleopterorum	propioniciclava coleopterorum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Prevotella sp. E9-3	2913621	S	34		34	34	0.052356%			34.0	0.052356	2913621	Prevotella sp. E9-3	prevotella sp e9 3	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sodaliphilus pleomorphus	2606626	S	34		34	34	0.052356%			34.0	0.052356	2606626	Sodaliphilus pleomorphus	sodaliphilus pleomorphus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Moraxella haemolytica	2904119	S	34		34	34	0.052356%			34.0	0.052356	2904119	Moraxella haemolytica	moraxella haemolytica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas fluorescens	294	S	34		34	34	0.052356%			34.0	0.052356	294	Pseudomonas fluorescens	pseudomonas fluorescens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aliarcobacter thereius	544718	S	34		34	34	0.052356%			34.0	0.052356	544718	Aliarcobacter thereius	aliarcobacter thereius	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Anaerostipes rhamnosivorans	1229621	S	33		33	33	0.050816%			33.0	0.050816	1229621	Anaerostipes rhamnosivorans	anaerostipes rhamnosivorans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas hefeiensis	2738125	S	33		33	33	0.050816%			33.0	0.050816	2738125	Pseudomonas hefeiensis	pseudomonas hefeiensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Oceanirhabdus sp. W0125-5	2999116	S	33		33	33	0.050816%			33.0	0.050816	2999116	Oceanirhabdus sp. W0125-5	oceanirhabdus sp w0125 5	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Cloacibacillus porcorum	1197717	S	33		33	33	0.050816%			33.0	0.050816	1197717	Cloacibacillus porcorum	cloacibacillus porcorum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Dialister succinatiphilus	487173	S	33		33	33	0.050816%			33.0	0.050816	487173	Dialister succinatiphilus	dialister succinatiphilus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	[Clostridium] scindens	29347	S	33		33	33	0.050816%			33.0	0.050816	29347	[Clostridium] scindens	clostridium scindens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Cloacibacterium sp. TD35	2976818	S	33		33	33	0.050816%			33.0	0.050816	2976818	Cloacibacterium sp. TD35	cloacibacterium sp td35	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Oxalobacter vibrioformis	933080	S	33		33	33	0.050816%			33.0	0.050816	933080	Oxalobacter vibrioformis	oxalobacter vibrioformis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Melaminivora suipulveris	2109913	S	33		33	33	0.050816%			33.0	0.050816	2109913	Melaminivora suipulveris	melaminivora suipulveris	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Leptospira biflexa	172	S	33		33	33	0.050816%			33.0	0.050816	172	Leptospira biflexa	leptospira biflexa	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Prevotella dentalis	52227	S	33		33	33	0.050816%			33.0	0.050816	52227	Prevotella dentalis	prevotella dentalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Roseateles sp. SL47	2995138	S	32		32	32	0.049276%			32.0	0.049276	2995138	Roseateles sp. SL47	roseateles sp sl47	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Changpingibacter yushuensis	2758440	S	32		32	32	0.049276%			32.0	0.049276	2758440	Changpingibacter yushuensis	changpingibacter yushuensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Denitratisoma sp. DHT3	1981880	S	32		32	32	0.049276%			32.0	0.049276	1981880	Denitratisoma sp. DHT3	denitratisoma sp dht3	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Methylomusa anaerophila	1930071	S	32		32	32	0.049276%			32.0	0.049276	1930071	Methylomusa anaerophila	methylomusa anaerophila	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Blautia massiliensis (ex Durand et al. 2017)	1737424	S	32		32	32	0.049276%			32.0	0.049276	1737424	Blautia massiliensis	blautia massiliensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Thermosulfidibacter takaii	412593	S	32		32	32	0.049276%			32.0	0.049276	412593	Thermosulfidibacter takaii	thermosulfidibacter takaii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Comamonas terrigena	32013	S	32		32	32	0.049276%			32.0	0.049276	32013	Comamonas terrigena	comamonas terrigena	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Cytomitobacter indipagum	2601575	S	31		31	31	0.047737%			31.0	0.047737	2601575	Candidatus Cytomitobacter indipagum	candidatus cytomitobacter indipagum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Paucibacter aquatile	2070761	S	31		31	31	0.047737%			31.0	0.047737	2070761	Paucibacter aquatile	paucibacter aquatile	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Granulicella sp. WH15	2602070	S	31		31	31	0.047737%			31.0	0.047737	2602070	Granulicella sp. WH15	granulicella sp wh15	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Babela massiliensis	673862	S	31		31	31	0.047737%			31.0	0.047737	673862	Candidatus Babela massiliensis	candidatus babela massiliensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Megasphaera massiliensis	1232428	S	31		31	31	0.047737%			31.0	0.047737	1232428	Megasphaera massiliensis	megasphaera massiliensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Holophaga sp.	188475	S	31		31	31	0.047737%			31.0	0.047737	188475	uncultured Holophaga sp.	uncultured holophaga sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Acidovorax sp. HDW3	2714923	S	31		31	31	0.047737%			31.0	0.047737	2714923	Acidovorax sp. HDW3	acidovorax sp hdw3	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Microvirgula aerodenitrificans	57480	S	31		31	31	0.047737%			31.0	0.047737	57480	Microvirgula aerodenitrificans	microvirgula aerodenitrificans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Acinetobacter johnsonii	40214	S	31		31	31	0.047737%			31.0	0.047737	40214	Acinetobacter johnsonii	acinetobacter johnsonii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Legionella israelensis	454	S	30		30	30	0.046197%			30.0	0.046197	454	Legionella israelensis	legionella israelensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Hyphomonas sp.	225298	S	30		30	30	0.046197%			30.0	0.046197	225298	uncultured Hyphomonas sp.	uncultured hyphomonas sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Chryseolinea soli	2321403	S	30		30	30	0.046197%			30.0	0.046197	2321403	Chryseolinea soli	chryseolinea soli	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Christensenella minuta	626937	S	30		30	30	0.046197%			30.0	0.046197	626937	Christensenella minuta	christensenella minuta	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Denitratisoma oestradiolicum	311182	S	30		30	30	0.046197%			30.0	0.046197	311182	Denitratisoma oestradiolicum	denitratisoma oestradiolicum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Haemophilus parainfluenzae	729	S	30		30	30	0.046197%			30.0	0.046197	729	Haemophilus parainfluenzae	haemophilus parainfluenzae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Arcobacter venerupis	1054033	S	30		30	30	0.046197%			30.0	0.046197	1054033	Arcobacter venerupis	arcobacter venerupis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Prevotella sp. Rep29	2691580	S	30		30	30	0.046197%			30.0	0.046197	2691580	Prevotella sp. Rep29	prevotella sp rep29	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Morganella morganii	582	S	30		30	30	0.046197%			30.0	0.046197	582	Morganella morganii	morganella morganii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sulfurospirillum deleyianum	65553	S	30		30	30	0.046197%			30.0	0.046197	65553	Sulfurospirillum deleyianum	sulfurospirillum deleyianum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Nitratidesulfovibrio vulgaris	881	S	29		29	29	0.044657%			29.0	0.044657	881	Nitratidesulfovibrio vulgaris	nitratidesulfovibrio vulgaris	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bifidobacterium adolescentis	1680	S	29		29	29	0.044657%			29.0	0.044657	1680	Bifidobacterium adolescentis	bifidobacterium adolescentis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Staphylococcus aureus	1280	S	29		29	29	0.044657%			29.0	0.044657	1280	Staphylococcus aureus	staphylococcus aureus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Thauera humireducens	1134435	S	29		29	29	0.044657%			29.0	0.044657	1134435	Thauera humireducens	thauera humireducens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Breznakiella homolactica	2798577	S	29		29	29	0.044657%			29.0	0.044657	2798577	Breznakiella homolactica	breznakiella homolactica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Maliibacterium massiliense	2086585	S	29		29	29	0.044657%			29.0	0.044657	2086585	Maliibacterium massiliense	maliibacterium massiliense	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Petroclostridium sp. X23	3045146	S	29		29	29	0.044657%			29.0	0.044657	3045146	Petroclostridium sp. X23	petroclostridium sp x23	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Arcobacter aquimarinus	1315211	S	29		29	29	0.044657%			29.0	0.044657	1315211	Arcobacter aquimarinus	arcobacter aquimarinus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Tissierella sp. MB52-C2	3070999	S	29		29	29	0.044657%			29.0	0.044657	3070999	Tissierella sp. MB52-C2	tissierella sp mb52 c2	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fusobacterium animalis	76859	S	29		29	29	0.044657%			29.0	0.044657	76859	Fusobacterium animalis	fusobacterium animalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Treponema succinifaciens	167	S	29		29	29	0.044657%			29.0	0.044657	167	Treponema succinifaciens	treponema succinifaciens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Lachnoclostridium phytofermentans	66219	S	29		29	29	0.044657%			29.0	0.044657	66219	Lachnoclostridium phytofermentans	lachnoclostridium phytofermentans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Blautia hydrogenotrophica	53443	S	29		29	29	0.044657%			29.0	0.044657	53443	Blautia hydrogenotrophica	blautia hydrogenotrophica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Monoglobus pectinilyticus	1981510	S	28		28	28	0.043117%			28.0	0.043117	1981510	Monoglobus pectinilyticus	monoglobus pectinilyticus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Nitratidesulfovibrio liaohensis	2604158	S	28		28	28	0.043117%			28.0	0.043117	2604158	Nitratidesulfovibrio liaohensis	nitratidesulfovibrio liaohensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Leptotrichia sp. oral taxon 847	1785996	S	28		28	28	0.043117%			28.0	0.043117	1785996	Leptotrichia sp. oral taxon 847	leptotrichia sp oral taxon 847	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ruminococcus gauvreauii	438033	S	28		28	28	0.043117%			28.0	0.043117	438033	Ruminococcus gauvreauii	ruminococcus gauvreauii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Halobacteriovorax sp. BALOs_7	2109558	S	28		28	28	0.043117%			28.0	0.043117	2109558	Halobacteriovorax sp. BALOs_7	halobacteriovorax sp balos 7	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Treponema bryantii	163	S	28		28	28	0.043117%			28.0	0.043117	163	Treponema bryantii	treponema bryantii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Rhodoferax sp. BAB1	2741720	S	28		28	28	0.043117%			28.0	0.043117	2741720	Rhodoferax sp. BAB1	rhodoferax sp bab1	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sulfurospirillum barnesii	44674	S	28		28	28	0.043117%			28.0	0.043117	44674	Sulfurospirillum barnesii	sulfurospirillum barnesii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Faecalibacterium duncaniae	411483	S	27		27	27	0.041577%			27.0	0.041577	411483	Faecalibacterium duncaniae	faecalibacterium duncaniae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Silvimonas soli	2980100	S	27		27	27	0.041577%			27.0	0.041577	2980100	Silvimonas soli	silvimonas soli	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Thauera sp. JM12B12	3142262	S	27		27	27	0.041577%			27.0	0.041577	3142262	Thauera sp. JM12B12	thauera sp jm12b12	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Thomasclavelia ramosa	1547	S	27		27	27	0.041577%			27.0	0.041577	1547	Thomasclavelia ramosa	thomasclavelia ramosa	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Butyrivibrio fibrisolvens	831	S	27		27	27	0.041577%			27.0	0.041577	831	Butyrivibrio fibrisolvens	butyrivibrio fibrisolvens	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aeromonas simiae	218936	S	27		27	27	0.041577%			27.0	0.041577	218936	Aeromonas simiae	aeromonas simiae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Alistipes finegoldii	214856	S	27		27	27	0.041577%			27.0	0.041577	214856	Alistipes finegoldii	alistipes finegoldii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ramlibacter tataouinensis	94132	S	27		27	27	0.041577%			27.0	0.041577	94132	Ramlibacter tataouinensis	ramlibacter tataouinensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Mageeibacillus indolicus	884684	S	27		27	27	0.041577%			27.0	0.041577	884684	Mageeibacillus indolicus	mageeibacillus indolicus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Faecalibaculum rodentium	1702221	S	26		26	26	0.040037%			26.0	0.040037	1702221	Faecalibaculum rodentium	faecalibaculum rodentium	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Comamonas thiooxydans	363952	S	26		26	26	0.040037%			26.0	0.040037	363952	Comamonas thiooxydans	comamonas thiooxydans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Rheinheimera sp. D18	2545632	S	26		26	26	0.040037%			26.0	0.040037	2545632	Rheinheimera sp. D18	rheinheimera sp d18	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Acinetobacter bouvetii	202951	S	26		26	26	0.040037%			26.0	0.040037	202951	Acinetobacter bouvetii	acinetobacter bouvetii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Opitutus sp. GAS368	1882749	S	26		26	26	0.040037%			26.0	0.040037	1882749	Opitutus sp. GAS368	opitutus sp gas368	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Enterocloster bolteae	208479	S	26		26	26	0.040037%			26.0	0.040037	208479	Enterocloster bolteae	enterocloster bolteae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pedobacter sp. SL55	2995161	S	26		26	26	0.040037%			26.0	0.040037	2995161	Pedobacter sp. SL55	pedobacter sp sl55	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Faecalibacterium sp. I3-3-33	2929492	S	26		26	26	0.040037%			26.0	0.040037	2929492	Faecalibacterium sp. I3-3-33	faecalibacterium sp i3 3 33	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacterioplanes sanyensis	1249553	S	26		26	26	0.040037%			26.0	0.040037	1249553	Bacterioplanes sanyensis	bacterioplanes sanyensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Megalodesulfovibrio gigas	879	S	26		26	26	0.040037%			26.0	0.040037	879	Megalodesulfovibrio gigas	megalodesulfovibrio gigas	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Helicobacter hepaticus	32025	S	26		26	26	0.040037%			26.0	0.040037	32025	Helicobacter hepaticus	helicobacter hepaticus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Hirschia baltica	2724	S	26		26	26	0.040037%			26.0	0.040037	2724	Hirschia baltica	hirschia baltica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Crenobacter cavernae	2290923	S	25		25	25	0.038497%			25.0	0.038497	2290923	Crenobacter cavernae	crenobacter cavernae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fontisphaera persica	2974023	S	25		25	25	0.038497%			25.0	0.038497	2974023	Fontisphaera persica	fontisphaera persica	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Chordicoccus furentiruminis	2709410	S	25		25	25	0.038497%			25.0	0.038497	2709410	Chordicoccus furentiruminis	chordicoccus furentiruminis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pajaroellobacter abortibovis	1882918	S	25		25	25	0.038497%			25.0	0.038497	1882918	Pajaroellobacter abortibovis	pajaroellobacter abortibovis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Flagellatimonas centrodinii	2806210	S	25		25	25	0.038497%			25.0	0.038497	2806210	Flagellatimonas centrodinii	flagellatimonas centrodinii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptococcus suis	1307	S	25		25	25	0.038497%			25.0	0.038497	1307	Streptococcus suis	streptococcus suis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Subdoligranulum variabile	214851	S	24		24	24	0.036957%			24.0	0.036957	214851	Subdoligranulum variabile	subdoligranulum variabile	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Dechloromonas sp. TW-R-39-2	2654218	S	24		24	24	0.036957%			24.0	0.036957	2654218	Dechloromonas sp. TW-R-39-2	dechloromonas sp tw r 39 2	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Pseudomonas adelgestsugas	1302376	S	24		24	24	0.036957%			24.0	0.036957	1302376	Candidatus Pseudomonas adelgestsugas	candidatus pseudomonas adelgestsugas	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Treponema parvum	138851	S	24		24	24	0.036957%			24.0	0.036957	138851	Treponema parvum	treponema parvum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pectinatus frisingensis	865	S	24		24	24	0.036957%			24.0	0.036957	865	Pectinatus frisingensis	pectinatus frisingensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Helicobacter pylori	210	S	24		24	24	0.036957%			24.0	0.036957	210	Helicobacter pylori	helicobacter pylori	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Gemmobacter fulvus	2840474	S	24		24	24	0.036957%			24.0	0.036957	2840474	Gemmobacter fulvus	gemmobacter fulvus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Caproiciproducens sp. CPB-2	3030017	S	24		24	24	0.036957%			24.0	0.036957	3030017	Caproiciproducens sp. CPB-2	caproiciproducens sp cpb 2	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ottowia sp. SB7-C50	3081231	S	24		24	24	0.036957%			24.0	0.036957	3081231	Ottowia sp. SB7-C50	ottowia sp sb7 c50	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Larkinella insperata	332158	S	24		24	24	0.036957%			24.0	0.036957	332158	Larkinella insperata	larkinella insperata	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Verminephrobacter eiseniae	364317	S	24		24	24	0.036957%			24.0	0.036957	364317	Verminephrobacter eiseniae	verminephrobacter eiseniae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Methylobacterium sp. FF17	2984843	S	23		23	23	0.035417%			23.0	0.035417	2984843	Methylobacterium sp. FF17	methylobacterium sp ff17	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Acinetobacter sp. WCHA45	2004644	S	23		23	23	0.035417%			23.0	0.035417	2004644	Acinetobacter sp. WCHA45	acinetobacter sp wcha45	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aeromonas sp. CU5	2033033	S	23		23	23	0.035417%			23.0	0.035417	2033033	Aeromonas sp. CU5	aeromonas sp cu5	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Enterobacter ludwigii	299767	S	23		23	23	0.035417%			23.0	0.035417	299767	Enterobacter ludwigii	enterobacter ludwigii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Amniculibacterium sp. G2-70	2767188	S	23		23	23	0.035417%			23.0	0.035417	2767188	Amniculibacterium sp. G2-70	amniculibacterium sp g2 70	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Methanoplasma termitum	1577791	S	23		23	23	0.035417%			23.0	0.035417	1577791	Candidatus Methanoplasma termitum	candidatus methanoplasma termitum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sandaracinus amylolyticus	927083	S	23		23	23	0.035417%			23.0	0.035417	927083	Sandaracinus amylolyticus	sandaracinus amylolyticus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Promineifilum breve	1806508	S	23		23	23	0.035417%			23.0	0.035417	1806508	Candidatus Promineifilum breve	candidatus promineifilum breve	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Faecalibacterium sp. I3-3-89	2929493	S	23		23	23	0.035417%			23.0	0.035417	2929493	Faecalibacterium sp. I3-3-89	faecalibacterium sp i3 3 89	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Romboutsia sp. 13368	2708053	S	23		23	23	0.035417%			23.0	0.035417	2708053	Romboutsia sp. 13368	romboutsia sp 13368	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Anaeropeptidivorans aminofermentans	2934315	S	23		23	23	0.035417%			23.0	0.035417	2934315	Anaeropeptidivorans aminofermentans	anaeropeptidivorans aminofermentans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Agarilytica rhodophyticola	1737490	S	23		23	23	0.035417%			23.0	0.035417	1737490	Agarilytica rhodophyticola	agarilytica rhodophyticola	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Hoylesella buccalis	28127	S	23		23	23	0.035417%			23.0	0.035417	28127	Hoylesella buccalis	hoylesella buccalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Clostridioides difficile	1496	S	23		23	23	0.035417%			23.0	0.035417	1496	Clostridioides difficile	clostridioides difficile	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Hungatella hathewayi	154046	S	23		23	23	0.035417%			23.0	0.035417	154046	Hungatella hathewayi	hungatella hathewayi	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Paracoccus aminophilus	34003	S	23		23	23	0.035417%			23.0	0.035417	34003	Paracoccus aminophilus	paracoccus aminophilus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Synechococcus sp. JA-3-3Ab	321327	S	22		22	22	0.033878%			22.0	0.033878	321327	Synechococcus sp. JA-3-3Ab	synechococcus sp ja 3 3ab	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fuerstiella marisgermanici	1891926	S	22		22	22	0.033878%			22.0	0.033878	1891926	Fuerstiella marisgermanici	fuerstiella marisgermanici	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Humisphaera borealis	2807512	S	22		22	22	0.033878%			22.0	0.033878	2807512	Humisphaera borealis	humisphaera borealis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Streptococcus merionis	400065	S	22		22	22	0.033878%			22.0	0.033878	400065	Streptococcus merionis	streptococcus merionis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Lactococcus raffinolactis	1366	S	22		22	22	0.033878%			22.0	0.033878	1366	Lactococcus raffinolactis	lactococcus raffinolactis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	[Clostridium] innocuum	1522	S	22		22	22	0.033878%			22.0	0.033878	1522	[Clostridium] innocuum	clostridium innocuum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bdellovibrio sp. 22V	3044166	S	22		22	22	0.033878%			22.0	0.033878	3044166	Bdellovibrio sp. 22V	bdellovibrio sp 22v	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Wansuia hejianensis	2763667	S	22		22	22	0.033878%			22.0	0.033878	2763667	Wansuia hejianensis	wansuia hejianensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Beggiatoa leptomitoformis	288004	S	22		22	22	0.033878%			22.0	0.033878	288004	Beggiatoa leptomitoformis	beggiatoa leptomitoformis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Caproicibacterium sp. BJN0003	2994078	S	22		22	22	0.033878%			22.0	0.033878	2994078	Caproicibacterium sp. BJN0003	caproicibacterium sp bjn0003	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Ereboglobus luteus	1796921	S	22		22	22	0.033878%			22.0	0.033878	1796921	Ereboglobus luteus	ereboglobus luteus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Petrimonas mucosa	1642646	S	22		22	22	0.033878%			22.0	0.033878	1642646	Petrimonas mucosa	petrimonas mucosa	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sorangium cellulosum	56	S	22		22	22	0.033878%			22.0	0.033878	56	Sorangium cellulosum	sorangium cellulosum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Lachnoclostridium phocaeense	1871021	S	22		22	22	0.033878%			22.0	0.033878	1871021	Lachnoclostridium phocaeense	lachnoclostridium phocaeense	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Jeongeupia sp. HS-3	1009682	S	22		22	22	0.033878%			22.0	0.033878	1009682	Jeongeupia sp. HS-3	jeongeupia sp hs 3	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Fusobacterium polymorphum	76857	S	22		22	22	0.033878%			22.0	0.033878	76857	Fusobacterium polymorphum	fusobacterium polymorphum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Karelsulcia muelleri	336810	S	22		22	22	0.033878%			22.0	0.033878	336810	Candidatus Karelsulcia muelleri	candidatus karelsulcia muelleri	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Neisseria gonorrhoeae	485	S	22		22	22	0.033878%			22.0	0.033878	485	Neisseria gonorrhoeae	neisseria gonorrhoeae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Enterocloster asparagiformis	333367	S	22		22	22	0.033878%			22.0	0.033878	333367	Enterocloster asparagiformis	enterocloster asparagiformis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Roseburia sp. 499	1261634	S	21		21	21	0.032338%			21.0	0.032338	1261634	Roseburia sp. 499	roseburia sp 499	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Capsulimonas corticalis	2219043	S	21		21	21	0.032338%			21.0	0.032338	2219043	Capsulimonas corticalis	capsulimonas corticalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Stomatobaculum sp. F0698	3059030	S	21		21	21	0.032338%			21.0	0.032338	3059030	Stomatobaculum sp. F0698	stomatobaculum sp f0698	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Oscillibacter sp. PEA192	2109687	S	21		21	21	0.032338%			21.0	0.032338	2109687	Oscillibacter sp. PEA192	oscillibacter sp pea192	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Tichowtungia aerotolerans	2697043	S	21		21	21	0.032338%			21.0	0.032338	2697043	Tichowtungia aerotolerans	tichowtungia aerotolerans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Aliarcobacter cibarius	255507	S	21		21	21	0.032338%			21.0	0.032338	255507	Aliarcobacter cibarius	aliarcobacter cibarius	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Marinifilum sp.	1127472	S	21		21	21	0.032338%			21.0	0.032338	1127472	uncultured Marinifilum sp.	uncultured marinifilum sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Faecalibacterium sp. IP-1-18	2929488	S	21		21	21	0.032338%			21.0	0.032338	2929488	Faecalibacterium sp. IP-1-18	faecalibacterium sp ip 1 18	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Azoarcus olearius	418699	S	21		21	21	0.032338%			21.0	0.032338	418699	Azoarcus olearius	azoarcus olearius	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Porphyromonas gingivalis	837	S	21		21	21	0.032338%			21.0	0.032338	837	Porphyromonas gingivalis	porphyromonas gingivalis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Haematospirillum jordaniae	1549855	S	21		21	21	0.032338%			21.0	0.032338	1549855	Haematospirillum jordaniae	haematospirillum jordaniae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Desulfoluna limicola	2810562	S	21		21	21	0.032338%			21.0	0.032338	2810562	Desulfoluna limicola	desulfoluna limicola	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Chakrabartyella piscis	2918914	S	21		21	21	0.032338%			21.0	0.032338	2918914	Chakrabartyella piscis	chakrabartyella piscis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Alistipes senegalensis	1288121	S	21		21	21	0.032338%			21.0	0.032338	1288121	Alistipes senegalensis	alistipes senegalensis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	uncultured Caproiciproducens sp.	1738647	S	21		21	21	0.032338%			21.0	0.032338	1738647	uncultured Caproiciproducens sp.	uncultured caproiciproducens sp	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Methylogaea oryzae	1295382	S	20		20	20	0.030798%			20.0	0.030798	1295382	Methylogaea oryzae	methylogaea oryzae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Zobellella denitrificans	347534	S	20		20	20	0.030798%			20.0	0.030798	347534	Zobellella denitrificans	zobellella denitrificans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Heliorestis convoluta	356322	S	20		20	20	0.030798%			20.0	0.030798	356322	Heliorestis convoluta	heliorestis convoluta	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Bacteroides zoogleoformans	28119	S	20		20	20	0.030798%			20.0	0.030798	28119	Bacteroides zoogleoformans	bacteroides zoogleoformans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Piscinibacter gummiphilus	946333	S	20		20	20	0.030798%			20.0	0.030798	946333	Piscinibacter gummiphilus	piscinibacter gummiphilus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Clostridium butyricum	1492	S	20		20	20	0.030798%			20.0	0.030798	1492	Clostridium butyricum	clostridium butyricum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudobacter ginsenosidimutans	661488	S	20		20	20	0.030798%			20.0	0.030798	661488	Pseudobacter ginsenosidimutans	pseudobacter ginsenosidimutans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Hankyongella ginsenosidimutans	1763828	S	20		20	20	0.030798%			20.0	0.030798	1763828	Hankyongella ginsenosidimutans	hankyongella ginsenosidimutans	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Spirosoma pollinicola	2057025	S	20		20	20	0.030798%			20.0	0.030798	2057025	Spirosoma pollinicola	spirosoma pollinicola	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Treponema peruense	2787628	S	20		20	20	0.030798%			20.0	0.030798	2787628	Treponema peruense	treponema peruense	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Campylobacter gracilis	824	S	20		20	20	0.030798%			20.0	0.030798	824	Campylobacter gracilis	campylobacter gracilis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Casimicrobium huifangae	2591109	S	20		20	20	0.030798%			20.0	0.030798	2591109	Casimicrobium huifangae	casimicrobium huifangae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Leptotrichia hofstadii	157688	S	20		20	20	0.030798%			20.0	0.030798	157688	Leptotrichia hofstadii	leptotrichia hofstadii	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Candidatus Portiera aleyrodidarum	91844	S	20		20	20	0.030798%			20.0	0.030798	91844	Candidatus Portiera aleyrodidarum	candidatus portiera aleyrodidarum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Indioceanicola profundi	2220096	S	20		20	20	0.030798%			20.0	0.030798	2220096	Indioceanicola profundi	indioceanicola profundi	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Proteiniphilum propionicum	2829812	S	20		20	20	0.030798%			20.0	0.030798	2829812	Proteiniphilum propionicum	proteiniphilum propionicum	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Horticoccus luteus	2862869	S	20		20	20	0.030798%			20.0	0.030798	2862869	Horticoccus luteus	horticoccus luteus	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Sulfuriroseicoccus oceanibius	2707525	S	20		20	20	0.030798%			20.0	0.030798	2707525	Sulfuriroseicoccus oceanibius	sulfuriroseicoccus oceanibius	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Tannerella serpentiformis	712710	S	20		20	20	0.030798%			20.0	0.030798	712710	Tannerella serpentiformis	tannerella serpentiformis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Vibrio harveyi	669	S	20		20	20	0.030798%			20.0	0.030798	669	Vibrio harveyi	vibrio harveyi	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Photobacterium damselae	38293	S	20		20	20	0.030798%			20.0	0.030798	38293	Photobacterium damselae	photobacterium damselae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Vibrio cholerae	666	S	20		20	20	0.030798%			20.0	0.030798	666	Vibrio cholerae	vibrio cholerae	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Pseudomonas chlororaphis	587753	S	20		20	20	0.030798%			20.0	0.030798	587753	Pseudomonas chlororaphis	pseudomonas chlororaphis	False	species
+Section 1: Bacteria/Archaea	Bacteria/Archaea	Anaerotignum propionicum	28446	S	20		20	20	0.030798%			20.0	0.030798	28446	Anaerotignum propionicum	anaerotignum propionicum	False	species
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960799_40	2786599	S1	1625		1625	1625	1.272763%			1625.0	1.272763	2786599	ssRNA phage SRR6960799_40	ssrna phage srr6960799 40	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960803_7	2786623	S1	1181		1181	1181	0.925005%			1181.0	0.925005	2786623	ssRNA phage SRR6960803_7	ssrna phage srr6960803 7	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6049586_2	2786481	S1	663		663	663	0.519287%			663.0	0.519287	2786481	ssRNA phage SRR6049586_2	ssrna phage srr6049586 2	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976357_7	2786747	S1	561		561	561	0.439397%			561.0	0.439397	2786747	ssRNA phage SRR7976357_7	ssrna phage srr7976357 7	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976300_2	2786651	S1	474		474	474	0.371255%			474.0	0.371255	2786651	ssRNA phage SRR7976300_2	ssrna phage srr7976300 2	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5466727_7	2786436	S1	444		444	444	0.347758%			444.0	0.347758	2786436	ssRNA phage SRR5466727_7	ssrna phage srr5466727 7	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	Acinetobacter phage AP205	154784	S1	378		378	378	0.296064%			378.0	0.296064	154784	Acinetobacter phage AP205	acinetobacter phage ap205	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5466727_2	2786431	S1	311		311	311	0.243587%			311.0	0.243587	2786431	ssRNA phage SRR5466727_2	ssrna phage srr5466727 2	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960803_4	2786620	S1	269		269	269	0.210691%			269.0	0.210691	2786620	ssRNA phage SRR6960803_4	ssrna phage srr6960803 4	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960507_10	2786508	S1	269		269	269	0.210691%			269.0	0.210691	2786508	ssRNA phage SRR6960507_10	ssrna phage srr6960507 10	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5466369_1	2786404	S1	267		267	267	0.209125%			267.0	0.209125	2786404	ssRNA phage SRR5466369_1	ssrna phage srr5466369 1	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960509_17	2786528	S1	232		232	232	0.181711%			232.0	0.181711	2786528	ssRNA phage SRR6960509_17	ssrna phage srr6960509 17	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976300_8	2786657	S1	221		221	221	0.173096%			221.0	0.173096	2786657	ssRNA phage SRR7976300_8	ssrna phage srr7976300 8	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5466727_4	2786433	S1	194		194	194	0.151948%			194.0	0.151948	2786433	ssRNA phage SRR5466727_4	ssrna phage srr5466727 4	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Zoerhiza.1_5	2786783	S1	155		155	155	0.121402%			155.0	0.121402	2786783	ssRNA phage Zoerhiza.1_5	ssrna phage zoerhiza 1 5	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5466337_3	2786389	S1	149		149	149	0.116703%			149.0	0.116703	2786389	ssRNA phage SRR5466337_3	ssrna phage srr5466337 3	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976299_5	2786645	S1	147		147	147	0.115136%			147.0	0.115136	2786645	ssRNA phage SRR7976299_5	ssrna phage srr7976299 5	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976357_8	2786748	S1	139		139	139	0.108870%			139.0	0.10887	2786748	ssRNA phage SRR7976357_8	ssrna phage srr7976357 8	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960509_10	2786521	S1	119		119	119	0.093205%			119.0	0.093205	2786521	ssRNA phage SRR6960509_10	ssrna phage srr6960509 10	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Esthiorhiza.1_1	2786011	S1	102		102	102	0.079890%			102.0	0.07989	2786011	ssRNA phage Esthiorhiza.1_1	ssrna phage esthiorhiza 1 1	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960799_25	2786582	S1	101		101	101	0.079107%			101.0	0.079107	2786582	ssRNA phage SRR6960799_25	ssrna phage srr6960799 25	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976310_16	2786678	S1	98		98	98	0.076757%			98.0	0.076757	2786678	ssRNA phage SRR7976310_16	ssrna phage srr7976310 16	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5467137_1	2786475	S1	86		86	86	0.067359%			86.0	0.067359	2786475	ssRNA phage SRR5467137_1	ssrna phage srr5467137 1	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976325_7	2786722	S1	84		84	84	0.065792%			84.0	0.065792	2786722	ssRNA phage SRR7976325_7	ssrna phage srr7976325 7	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960549_3	2786540	S1	81		81	81	0.063442%			81.0	0.063442	2786540	ssRNA phage SRR6960549_3	ssrna phage srr6960549 3	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Esthiorhiza.1_2	2786017	S1	75		75	75	0.058743%			75.0	0.058743	2786017	ssRNA phage Esthiorhiza.1_2	ssrna phage esthiorhiza 1 2	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976299_8	2786648	S1	73		73	73	0.057176%			73.0	0.057176	2786648	ssRNA phage SRR7976299_8	ssrna phage srr7976299 8	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	Enterobacteria phage GA	12018	S1	73		73	73	0.057176%			73.0	0.057176	12018	Enterobacteria phage GA	enterobacteria phage ga	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage ESE006	2785996	S1	72		72	72	0.056393%			72.0	0.056393	2785996	ssRNA phage ESE006	ssrna phage ese006	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Zoerhiza.1_25	2786767	S1	68		68	68	0.053260%			68.0	0.05326	2786767	ssRNA phage Zoerhiza.1_25	ssrna phage zoerhiza 1 25	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976310_7	2786685	S1	67		67	67	0.052477%			67.0	0.052477	2786685	ssRNA phage SRR7976310_7	ssrna phage srr7976310 7	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5467091_15	2786465	S1	65		65	65	0.050911%			65.0	0.050911	2786465	ssRNA phage SRR5467091_15	ssrna phage srr5467091 15	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5466364_4	2786398	S1	65		65	65	0.050911%			65.0	0.050911	2786398	ssRNA phage SRR5466364_4	ssrna phage srr5466364 4	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960509_1	2786520	S1	65		65	65	0.050911%			65.0	0.050911	2786520	ssRNA phage SRR6960509_1	ssrna phage srr6960509 1	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Gephyllon.1_24	2786124	S1	64		64	64	0.050127%			64.0	0.050127	2786124	ssRNA phage Gephyllon.1_24	ssrna phage gephyllon 1 24	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976310_10	2786672	S1	62		62	62	0.048561%			62.0	0.048561	2786672	ssRNA phage SRR7976310_10	ssrna phage srr7976310 10	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5466725_16	2786414	S1	60		60	60	0.046994%			60.0	0.046994	2786414	ssRNA phage SRR5466725_16	ssrna phage srr5466725 16	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Zoerhiza.4_12	2786828	S1	60		60	60	0.046994%			60.0	0.046994	2786828	ssRNA phage Zoerhiza.4_12	ssrna phage zoerhiza 4 12	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage ESE029	2786005	S1	57		57	57	0.044645%			57.0	0.044645	2786005	ssRNA phage ESE029	ssrna phage ese029	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960799_27	2786584	S1	55		55	55	0.043078%			55.0	0.043078	2786584	ssRNA phage SRR6960799_27	ssrna phage srr6960799 27	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960799_30	2786588	S1	52		52	52	0.040728%			52.0	0.040728	2786588	ssRNA phage SRR6960799_30	ssrna phage srr6960799 30	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960797_1	2786561	S1	50		50	50	0.039162%			50.0	0.039162	2786561	ssRNA phage SRR6960797_1	ssrna phage srr6960797 1	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Gephyllon.2_8	2786147	S1	49		49	49	0.038379%			49.0	0.038379	2786147	ssRNA phage Gephyllon.2_8	ssrna phage gephyllon 2 8	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976357_6	2786746	S1	47		47	47	0.036812%			47.0	0.036812	2786746	ssRNA phage SRR7976357_6	ssrna phage srr7976357 6	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976327_1	2786730	S1	46		46	46	0.036029%			46.0	0.036029	2786730	ssRNA phage SRR7976327_1	ssrna phage srr7976327 1	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960799_17	2786573	S1	43		43	43	0.033679%			43.0	0.033679	2786573	ssRNA phage SRR6960799_17	ssrna phage srr6960799 17	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960799_10	2786566	S1	41		41	41	0.032113%			41.0	0.032113	2786566	ssRNA phage SRR6960799_10	ssrna phage srr6960799 10	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960509_7	2786534	S1	38		38	38	0.029763%			38.0	0.029763	2786534	ssRNA phage SRR6960509_7	ssrna phage srr6960509 7	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976325_29	2786717	S1	35		35	35	0.027413%			35.0	0.027413	2786717	ssRNA phage SRR7976325_29	ssrna phage srr7976325 29	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960799_15	2786571	S1	35		35	35	0.027413%			35.0	0.027413	2786571	ssRNA phage SRR6960799_15	ssrna phage srr6960799 15	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6255513_1	2786496	S1	34		34	34	0.026630%			34.0	0.02663	2786496	ssRNA phage SRR6255513_1	ssrna phage srr6255513 1	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5466365_2	2786401	S1	33		33	33	0.025847%			33.0	0.025847	2786401	ssRNA phage SRR5466365_2	ssrna phage srr5466365 2	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6253161_3	2786490	S1	32		32	32	0.025064%			32.0	0.025064	2786490	ssRNA phage SRR6253161_3	ssrna phage srr6253161 3	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5467091_3	2786468	S1	32		32	32	0.025064%			32.0	0.025064	2786468	ssRNA phage SRR5467091_3	ssrna phage srr5467091 3	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Zoerhiza.2_22	2786802	S1	31		31	31	0.024280%			31.0	0.02428	2786802	ssRNA phage Zoerhiza.2_22	ssrna phage zoerhiza 2 22	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960799_36	2786594	S1	28		28	28	0.021931%			28.0	0.021931	2786594	ssRNA phage SRR6960799_36	ssrna phage srr6960799 36	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976326_4	2786728	S1	28		28	28	0.021931%			28.0	0.021931	2786728	ssRNA phage SRR7976326_4	ssrna phage srr7976326 4	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Gerhypos.3_16	2786289	S1	28		28	28	0.021931%			28.0	0.021931	2786289	ssRNA phage Gerhypos.3_16	ssrna phage gerhypos 3 16	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	Caulobacter phage phiCb5	767473	S1	27		27	27	0.021147%			27.0	0.021147	767473	Caulobacter phage phiCb5	caulobacter phage phicb5	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	Enterobacteria phage Hgal1	1206300	S1	26		26	26	0.020364%			26.0	0.020364	1206300	Enterobacteria phage Hgal1	enterobacteria phage hgal1	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR6960551_9	2786560	S1	24		24	24	0.018798%			24.0	0.018798	2786560	ssRNA phage SRR6960551_9	ssrna phage srr6960551 9	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR7976357_2	2786742	S1	22		22	22	0.017231%			22.0	0.017231	2786742	ssRNA phage SRR7976357_2	ssrna phage srr7976357 2	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage SRR5467090_10	2786448	S1	21		21	21	0.016448%			21.0	0.016448	2786448	ssRNA phage SRR5467090_10	ssrna phage srr5467090 10	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage AVE016	2785988	S1	21		21	21	0.016448%			21.0	0.016448	2785988	ssRNA phage AVE016	ssrna phage ave016	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Gerhypos.1_12	2786193	S1	20		20	20	0.015665%			20.0	0.015665	2786193	ssRNA phage Gerhypos.1_12	ssrna phage gerhypos 1 12	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Esthiorhiza.2_21	2786038	S1	20		20	20	0.015665%			20.0	0.015665	2786038	ssRNA phage Esthiorhiza.2_21	ssrna phage esthiorhiza 2 21	True	strain (S1)
+Section 2: Bacteriophage	Bacteriophage	ssRNA phage Gephyllon.4_11	2786169	S1	20		20	20	0.015665%			20.0	0.015665	2786169	ssRNA phage Gephyllon.4_11	ssrna phage gephyllon 4 11	True	strain (S1)
+Section 3: Viruses - automated selection	Virus (automated)	Mamastrovirus 1	1239565	species	559347		559347	559347	2.355158%			559347.0	2.355158	1239565	Mamastrovirus 1	mamastrovirus 1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Norwalk virus	11983	species	83135		83135	83135	0.350044%			83135.0	0.350044	11983	Norwalk virus	norwalk virus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Sapporo virus	95342	species	70569		70569	70569	0.297134%			70569.0	0.297134	95342	Sapporo virus	sapporo virus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Mamastrovirus 6	1239570	species	57851		57851	57851	0.243584%			57851.0	0.243584	1239570	Mamastrovirus 6	mamastrovirus 6	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Mamastrovirus 9	1239573	species	21096		21096	21096	0.088826%			21096.0	0.088826	1239573	Mamastrovirus 9	mamastrovirus 9	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Astrovirus MLB2	683172	species	19441		19441	19441	0.081857%			19441.0	0.081857	683172	Astrovirus MLB2	astrovirus mlb2	True	species
+Section 3: Viruses - automated selection	Virus (automated)	HMO Astrovirus A	682382	species	18930		18930	18930	0.079706%			18930.0	0.079706	682382	HMO Astrovirus A	hmo astrovirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Husavirus sp.	1930509	species	14941		14941	14941	0.062910%			14941.0	0.06291	1930509	Husavirus sp.	husavirus sp	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Kobuvirus aichi	72149	species	13393		13393	13393	0.056392%			13393.0	0.056392	72149	Kobuvirus aichi	kobuvirus aichi	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Orthopicobirnavirus hominis	2956252	species	8992		8992	8992	0.037861%			8992.0	0.037861	2956252	Orthopicobirnavirus hominis	orthopicobirnavirus hominis	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Porcine picobirnavirus	442302	species	8939		8939	8939	0.037638%			8939.0	0.037638	442302	Porcine picobirnavirus	porcine picobirnavirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Canine astrovirus	1157338	species	7194		7194	7194	0.030291%			7194.0	0.030291	1157338	Canine astrovirus	canine astrovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Salivirus A	1330524	species	6118		6118	6118	0.025760%			6118.0	0.02576	1330524	Salivirus A	salivirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Enterovirus C	138950	species	5222		5222	5222	0.021987%			5222.0	0.021987	138950	Enterovirus C	enterovirus c	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Hudisavirus sp.	2021738	species	4786		4786	4786	0.020152%			4786.0	0.020152	2021738	Hudisavirus sp.	hudisavirus sp	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Astrovirus VA3	683174	species	3648		3648	3648	0.015360%			3648.0	0.01536	683174	Astrovirus VA3	astrovirus va3	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Genomoviridae sp.	2202565	species	3278		3278	3278	0.013802%			3278.0	0.013802	2202565	Genomoviridae sp.	genomoviridae sp	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Porcine torovirus	237020	species	3140		3140	3140	0.013221%			3140.0	0.013221	237020	Porcine torovirus	porcine torovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Astrovirus MLB3	1247114	species	1891		1891	1891	0.007962%			1891.0	0.007962	1247114	Astrovirus MLB3	astrovirus mlb3	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Alphacoronavirus 1	693997	species	1860		1860	1860	0.007832%			1860.0	0.007832	693997	Alphacoronavirus 1	alphacoronavirus 1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Human feces pecovirus	1820160	species	1810		1810	1810	0.007621%			1810.0	0.007621	1820160	Human feces pecovirus	human feces pecovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Picobirnavirus sp.	1907787	species	1632		1632	1632	0.006872%			1632.0	0.006872	1907787	Picobirnavirus sp.	picobirnavirus sp	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Picornavirales Tottori-HG1	1795648	species	1545		1545	1545	0.006505%			1545.0	0.006505	1795648	Picornavirales Tottori-HG1	picornavirales tottori hg1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rotavirus A	28875	species	1509		1509	1509	0.006354%			1509.0	0.006354	28875	Rotavirus A	rotavirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Bovine torovirus	74501	species	1456		1456	1456	0.006131%			1456.0	0.006131	74501	Bovine torovirus	bovine torovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rocahepevirus ratti	1678145	species	1365		1365	1365	0.005747%			1365.0	0.005747	1678145	Rocahepevirus ratti	rocahepevirus ratti	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Feline astrovirus 2	1389204	species	1356		1356	1356	0.005710%			1356.0	0.00571	1389204	Feline astrovirus 2	feline astrovirus 2	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Picobirnavirus Equ3	1673646	species	1191		1191	1191	0.005015%			1191.0	0.005015	1673646	Picobirnavirus Equ3	picobirnavirus equ3	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Mamastrovirus 2	1239566	species	1104		1104	1104	0.004648%			1104.0	0.004648	1239566	Mamastrovirus 2	mamastrovirus 2	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Goose astrovirus	1349999	species	983		983	983	0.004139%			983.0	0.004139	1349999	Goose astrovirus	goose astrovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Severe acute respiratory syndrome-related coronavirus	694009	species	934		934	934	0.003933%			934.0	0.003933	694009	Severe acute respiratory syndrome-related coronavirus	severe acute respiratory syndrome related coronavirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Enterovirus A	138948	species	844		844	844	0.003554%			844.0	0.003554	138948	Enterovirus A	enterovirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Sicinivirus A	1755588	species	726		726	726	0.003057%			726.0	0.003057	1755588	Sicinivirus A	sicinivirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Cressdnaviricota sp.	2748378	species	719		719	719	0.003027%			719.0	0.003027	2748378	Cressdnaviricota sp.	cressdnaviricota sp	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Cosavirus A	1330491	species	703		703	703	0.002960%			703.0	0.00296	1330491	Cosavirus A	cosavirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Otarine picobirnavirus	1187973	species	660		660	660	0.002779%			660.0	0.002779	1187973	Otarine picobirnavirus	otarine picobirnavirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Enterovirus B	138949	species	637		637	637	0.002682%			637.0	0.002682	138949	Enterovirus B	enterovirus b	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Avian coronavirus	694014	species	623		623	623	0.002623%			623.0	0.002623	694014	Avian coronavirus	avian coronavirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Cardiovirus B	1821750	species	622		622	622	0.002619%			622.0	0.002619	1821750	Cardiovirus B	cardiovirus b	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Canine kobuvirus	1836608	species	619		619	619	0.002606%			619.0	0.002606	1836608	Canine kobuvirus	canine kobuvirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Chicken picobirnavirus	1930304	species	587		587	587	0.002472%			587.0	0.002472	1930304	Chicken picobirnavirus	chicken picobirnavirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Primate norovirus	1903318	species	584		584	584	0.002459%			584.0	0.002459	1903318	Primate norovirus	primate norovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Megrivirus C	2170006	species	577		577	577	0.002429%			577.0	0.002429	2170006	Megrivirus C	megrivirus c	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Parechovirus A	1803956	species	553		553	553	0.002328%			553.0	0.002328	1803956	Parechovirus A	parechovirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Mischivirus D	2560598	species	521		521	521	0.002194%			521.0	0.002194	2560598	Mischivirus D	mischivirus d	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rotavirus C	36427	species	510		510	510	0.002147%			510.0	0.002147	36427	Rotavirus C	rotavirus c	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Astrovirus VA4	1247113	species	490		490	490	0.002063%			490.0	0.002063	1247113	Astrovirus VA4	astrovirus va4	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rhinovirus C	463676	species	459		459	459	0.001933%			459.0	0.001933	463676	Rhinovirus C	rhinovirus c	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Human fecal virus Jorvi2	2017081	species	441		441	441	0.001857%			441.0	0.001857	2017081	Human fecal virus Jorvi2	human fecal virus jorvi2	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rhinovirus A	147711	species	427		427	427	0.001798%			427.0	0.001798	147711	Rhinovirus A	rhinovirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Mouse astrovirus M-52/USA/2008	1074210	species	412		412	412	0.001735%			412.0	0.001735	1074210	Mouse astrovirus M-52/USA/2008	mouse astrovirus m 52 usa 2008	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Bovine astrovirus B18/HK	1027245	species	381		381	381	0.001604%			381.0	0.001604	1027245	Bovine astrovirus B18/HK	bovine astrovirus b18 hk	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rosavirus B	1902501	species	345		345	345	0.001453%			345.0	0.001453	1902501	Rosavirus B	rosavirus b	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Circular ssDNA virus sp.	2805939	species	315		315	315	0.001326%			315.0	0.001326	2805939	Circular ssDNA virus sp.	circular ssdna virus sp	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Cardiovirus C	1821751	species	305		305	305	0.001284%			305.0	0.001284	1821751	Cardiovirus C	cardiovirus c	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Bocaparvovirus carnivoran2	3052027	species	295		295	295	0.001242%			295.0	0.001242	3052027	Bocaparvovirus carnivoran2	bocaparvovirus carnivoran2	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Bocaparvovirus primate2	3052041	species	272		272	272	0.001145%			272.0	0.001145	3052041	Bocaparvovirus primate2	bocaparvovirus primate2	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Human cosavirus	1233383	species	269		269	269	0.001133%			269.0	0.001133	1233383	Human cosavirus	human cosavirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Kobuvirus bejaponia	194965	species	261		261	261	0.001099%			261.0	0.001099	194965	Kobuvirus bejaponia	kobuvirus bejaponia	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Murine astrovirus	1141625	species	240		240	240	0.001011%			240.0	0.001011	1141625	Murine astrovirus	murine astrovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Avastrovirus 2	1239438	species	212		212	212	0.000893%			212.0	0.000893	1239438	Avastrovirus 2	avastrovirus 2	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Gemykibivirus humas5	2844585	species	203		203	203	0.000855%			203.0	0.000855	2844585	Gemykibivirus humas5	gemykibivirus humas5	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Canine vesivirus	1176484	species	195		195	195	0.000821%			195.0	0.000821	1176484	Canine vesivirus	canine vesivirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Mamastrovirus 3	1239567	species	185		185	185	0.000779%			185.0	0.000779	1239567	Mamastrovirus 3	mamastrovirus 3	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Mamastrovirus 13	1239577	species	184		184	184	0.000775%			184.0	0.000775	1239577	Mamastrovirus 13	mamastrovirus 13	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Protoparvovirus carnivoran1	3052707	species	178		178	178	0.000749%			178.0	0.000749	3052707	Protoparvovirus carnivoran1	protoparvovirus carnivoran1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Cardiovirus D	2734523	species	166		166	166	0.000699%			166.0	0.000699	2734523	Cardiovirus D	cardiovirus d	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Chicken picornavirus 4	1534547	species	165		165	165	0.000695%			165.0	0.000695	1534547	Chicken picornavirus 4	chicken picornavirus 4	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Human smacovirus 1	1595998	species	155		155	155	0.000653%			155.0	0.000653	1595998	Human smacovirus 1	human smacovirus 1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Betacoronavirus 1	694003	species	150		150	150	0.000632%			150.0	0.000632	694003	Betacoronavirus 1	betacoronavirus 1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Dependoparvovirus primate1	1511891	species	146		146	146	0.000615%			146.0	0.000615	1511891	Dependoparvovirus primate1	dependoparvovirus primate1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rhinovirus B	147712	species	138		138	138	0.000581%			138.0	0.000581	147712	Rhinovirus B	rhinovirus b	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Human mastadenovirus F	130309	species	137		137	137	0.000577%			137.0	0.000577	130309	Human mastadenovirus F	human mastadenovirus f	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Kobuvirus cebes	1298633	species	136		136	136	0.000573%			136.0	0.000573	1298633	Kobuvirus cebes	kobuvirus cebes	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Tioga picorna-like virus 1	2029771	species	133		133	133	0.000560%			133.0	0.00056	2029771	Tioga picorna-like virus 1	tioga picorna like virus 1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Giant panda associated gemycircularvirus	2016461	species	133		133	133	0.000560%			133.0	0.00056	2016461	Giant panda associated gemycircularvirus	giant panda associated gemycircularvirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Astrovirus wild boar/WBAstV-1/2011/HUN	1137931	species	132		132	132	0.000556%			132.0	0.000556	1137931	Astrovirus wild boar/WBAstV-1/2011/HUN	astrovirus wild boar wbastv 1 2011 hun	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Melegrivirus A	1330070	species	128		128	128	0.000539%			128.0	0.000539	1330070	Melegrivirus A	melegrivirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Hunnivirus A	1431460	species	124		124	124	0.000522%			124.0	0.000522	1431460	Hunnivirus A	hunnivirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Bocaparvovirus primate1	3052040	species	115		115	115	0.000484%			115.0	0.000484	3052040	Bocaparvovirus primate1	bocaparvovirus primate1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Goat torovirus	1837217	species	115		115	115	0.000484%			115.0	0.000484	1837217	Goat torovirus	goat torovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Chicken associated smacovirus	1932006	species	109		109	109	0.000459%			109.0	0.000459	1932006	Chicken associated smacovirus	chicken associated smacovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Cosavirus D	2003650	species	100		100	100	0.000421%			100.0	0.000421	2003650	Cosavirus D	cosavirus d	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Nordland virus	2560615	species	95		95	95	0.000400%			95.0	0.0004	2560615	Nordland virus	nordland virus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Bocaparvovirus carnivoran1	3052026	species	94		94	94	0.000396%			94.0	0.000396	3052026	Bocaparvovirus carnivoran1	bocaparvovirus carnivoran1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Avian leukosis virus	11864	species	91		91	91	0.000383%			91.0	0.000383	11864	Avian leukosis virus	avian leukosis virus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Chicken picornavirus 1	1534544	species	86		86	86	0.000362%			86.0	0.000362	1534544	Chicken picornavirus 1	chicken picornavirus 1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rodent astrovirus	1914442	species	80		80	80	0.000337%			80.0	0.000337	1914442	Rodent astrovirus	rodent astrovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Human coronavirus 229E	11137	species	78		78	78	0.000328%			78.0	0.000328	11137	Human coronavirus 229E	human coronavirus 229e	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Gallivirus Pf-CHK1/GV	1766557	species	69		69	69	0.000291%			69.0	0.000291	1766557	Gallivirus Pf-CHK1/GV	gallivirus pf chk1 gv	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Ferret coronavirus	1264898	species	66		66	66	0.000278%			66.0	0.000278	1264898	Ferret coronavirus	ferret coronavirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Mamastrovirus 10	1239574	species	63		63	63	0.000265%			63.0	0.000265	1239574	Mamastrovirus 10	mamastrovirus 10	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Cosavirus E	2003651	species	57		57	57	0.000240%			57.0	0.00024	2003651	Cosavirus E	cosavirus e	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Qinghai Himalayan marmot astrovirus 1	1961665	species	50		50	50	0.000211%			50.0	0.000211	1961665	Qinghai Himalayan marmot astrovirus 1	qinghai himalayan marmot astrovirus 1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Bastrovirus BAS-3	2025398	species	47		47	47	0.000198%			47.0	0.000198	2025398	Bastrovirus BAS-3	bastrovirus bas 3	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Goose dicistrovirus	1776109	species	47		47	47	0.000198%			47.0	0.000198	1776109	Goose dicistrovirus	goose dicistrovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Porcine stool-associated circular virus 4	1475062	species	47		47	47	0.000198%			47.0	0.000198	1475062	Porcine stool-associated circular virus 4	porcine stool associated circular virus 4	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Enterovirus D	138951	species	46		46	46	0.000194%			46.0	0.000194	138951	Enterovirus D	enterovirus d	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Meles meles circovirus-like virus	1128073	species	46		46	46	0.000194%			46.0	0.000194	1128073	Meles meles circovirus-like virus	meles meles circovirus like virus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Calicivirus chicken/V0021/Bayern/2004	889389	species	45		45	45	0.000189%			45.0	0.000189	889389	Calicivirus chicken/V0021/Bayern/2004	calicivirus chicken v0021 bayern 2004	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Tremovirus A	70796	species	45		45	45	0.000189%			45.0	0.000189	70796	Tremovirus A	tremovirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Hepatovirus A	12092	species	44		44	44	0.000185%			44.0	0.000185	12092	Hepatovirus A	hepatovirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Bavaria virus	2560343	species	43		43	43	0.000181%			43.0	0.000181	2560343	Bavaria virus	bavaria virus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Cyclovirus humana	3047957	species	40		40	40	0.000168%			40.0	0.000168	3047957	Cyclovirus humana	cyclovirus humana	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rabovirus A	1603962	species	40		40	40	0.000168%			40.0	0.000168	1603962	Rabovirus A	rabovirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Burkina Faso astrovirus	1518574	species	40		40	40	0.000168%			40.0	0.000168	1518574	Burkina Faso astrovirus	burkina faso astrovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Gemykibivirus haeme2	2844576	species	38		38	38	0.000160%			38.0	0.00016	2844576	Gemykibivirus haeme2	gemykibivirus haeme2	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Canarypox virus	44088	species	37		37	37	0.000156%			37.0	0.000156	44088	Canarypox virus	canarypox virus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Blattambidensovirus incertum1	3059782	species	37		37	37	0.000156%			37.0	0.000156	3059782	Blattambidensovirus incertum1	blattambidensovirus incertum1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Cripavirus NB-1/2011/HUN	1541211	species	37		37	37	0.000156%			37.0	0.000156	1541211	Cripavirus NB-1/2011/HUN	cripavirus nb 1 2011 hun	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rabbit astrovirus TN/2208/2010	1161132	species	37		37	37	0.000156%			37.0	0.000156	1161132	Rabbit astrovirus TN/2208/2010	rabbit astrovirus tn 2208 2010	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Betapolyomavirus hominis	1891762	species	36		36	36	0.000152%			36.0	0.000152	1891762	Betapolyomavirus hominis	betapolyomavirus hominis	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Gemycircularvirus monas1	2844484	species	35		35	35	0.000147%			35.0	0.000147	2844484	Gemycircularvirus monas1	gemycircularvirus monas1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Gemycircularvirus porci1	2844505	species	34		34	34	0.000143%			34.0	0.000143	2844505	Gemycircularvirus porci1	gemycircularvirus porci1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Sakobuvirus A	1659771	species	34		34	34	0.000143%			34.0	0.000143	1659771	Sakobuvirus A	sakobuvirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Anativirus biphaco	2734519	species	33		33	33	0.000139%			33.0	0.000139	2734519	Anativirus biphaco	anativirus biphaco	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Porprismacovirus humas3	2845899	species	30		30	30	0.000126%			30.0	0.000126	2845899	Porprismacovirus humas3	porprismacovirus humas3	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Gemykibivirus canfam1	2844564	species	29		29	29	0.000122%			29.0	0.000122	2844564	Gemykibivirus canfam1	gemykibivirus canfam1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Posavirus sp.	1930510	species	29		29	29	0.000122%			29.0	0.000122	1930510	Posavirus sp.	posavirus sp	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Avisivirus C	1985983	species	28		28	28	0.000118%			28.0	0.000118	1985983	Avisivirus C	avisivirus c	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Posavirus 1	1105380	species	28		28	28	0.000118%			28.0	0.000118	1105380	Posavirus 1	posavirus 1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Sripuvirus almpiwar	1985693	species	27		27	27	0.000114%			27.0	0.000114	1985693	Sripuvirus almpiwar	sripuvirus almpiwar	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Picornavirales Bu-3	1813613	species	27		27	27	0.000114%			27.0	0.000114	1813613	Picornavirales Bu-3	picornavirales bu 3	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Gemykibivirus cynas1	2844567	species	26		26	26	0.000109%			26.0	0.000109	2844567	Gemykibivirus cynas1	gemykibivirus cynas1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Human associated porprismacovirus 2	2170114	species	26		26	26	0.000109%			26.0	0.000109	2170114	Human associated porprismacovirus 2	human associated porprismacovirus 2	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Bovine astrovirus B76-2/HK	1027247	species	26		26	26	0.000109%			26.0	0.000109	1027247	Bovine astrovirus B76-2/HK	bovine astrovirus b76 2 hk	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Chicken stool-associated circular virus	1930302	species	25		25	25	0.000105%			25.0	0.000105	1930302	Chicken stool-associated circular virus	chicken stool associated circular virus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Cadicivirus A	1330068	species	25		25	25	0.000105%			25.0	0.000105	1330068	Cadicivirus A	cadicivirus a	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Qinghai Himalayan marmot astrovirus 2	1961666	species	23		23	23	0.000097%			23.0	9.7e-05	1961666	Qinghai Himalayan marmot astrovirus 2	qinghai himalayan marmot astrovirus 2	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Avisivirus Pf-CHK1/AsV	1766559	species	23		23	23	0.000097%			23.0	9.7e-05	1766559	Avisivirus Pf-CHK1/AsV	avisivirus pf chk1 asv	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Pteropine orthoreovirus	1459003	species	23		23	23	0.000097%			23.0	9.7e-05	1459003	Pteropine orthoreovirus	pteropine orthoreovirus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Aalivirus apekidu	2169685	species	22		22	22	0.000093%			22.0	9.3e-05	2169685	Aalivirus apekidu	aalivirus apekidu	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Porcine astrovirus 3	1254425	species	22		22	22	0.000093%			22.0	9.3e-05	1254425	Porcine astrovirus 3	porcine astrovirus 3	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Astrovirus Er/SZAL6/HUN/2011	1671382	species	21		21	21	0.000088%			21.0	8.8e-05	1671382	Astrovirus Er/SZAL6/HUN/2011	astrovirus er szal6 hun 2011	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Rous sarcoma virus	11886	species	21		21	21	0.000088%			21.0	8.8e-05	11886	Rous sarcoma virus	rous sarcoma virus	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Inpeasmacovirus humas1	2845010	species	20		20	20	0.000084%			20.0	8.4e-05	2845010	Inpeasmacovirus humas1	inpeasmacovirus humas1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Gemycircularvirus lamas1	2844465	species	20		20	20	0.000084%			20.0	8.4e-05	2844465	Gemycircularvirus lamas1	gemycircularvirus lamas1	True	species
+Section 3: Viruses - automated selection	Virus (automated)	Betapolyomavirus secuhominis	1891763	species	20		20	20	0.000084%			20.0	8.4e-05	1891763	Betapolyomavirus secuhominis	betapolyomavirus secuhominis	True	species
+Section 4.1: Viruses - manually added, excluded by rank filter	Virus (manual, no-rank)	SARS-CoV-2	2697049	no rank		875	875	875	0.003684%	SARS-related coronavirus (694009, species)		875.0	0.003684	2697049	SARS-CoV-2	sars cov 2	True	no rank
+Section 4.1: Viruses - manually added, excluded by rank filter	Virus (manual, no-rank)	Human coronavirus OC43	31631	no rank		47	47	47	0.000198%	Betacoronavirus 1 (694003, species)		47.0	0.000198	31631	Human coronavirus OC43	human coronavirus oc43	True	no rank
+Section 4.2: Viruses - manually added, excluded by read-count filter	Virus (manual, low-read)	Influenza A virus (H3N2)	119210	serotype	1	0	0	80	0.000337%			80.0	0.000337	119210	Influenza A virus (H3N2)	influenza a virus h3n2	True	serotype
+Section 4.2: Viruses - manually added, excluded by read-count filter	Virus (manual, low-read)	Influenza A virus (H1N1)	114727	serotype	6	0	0	60	0.000253%			60.0	0.000253	114727	Influenza A virus (H1N1)	influenza a virus h1n1	True	serotype
+Section 4.2: Viruses - manually added, excluded by read-count filter	Virus (manual, low-read)	Influenza B virus	2955465	species	1	0	0	30	0.000126%			30.0	0.000126	2955465	Influenza B virus	influenza b virus	True	species
+Section 4.2: Viruses - manually added, excluded by read-count filter	Virus (manual, low-read)	Human orthopneumovirus A (RSV A)	11250	no rank	3	0	0	50	0.000211%			50.0	0.000211	11250	Human orthopneumovirus A	human orthopneumovirus a	True	no rank
+Section 4.2: Viruses - manually added, excluded by read-count filter	Virus (manual, low-read)	Human parainfluenza virus 3 (PIV3)	11216	no rank	1	1	1	20	0.000084%			20.0	8.4e-05	11216	Human parainfluenza virus 3	human parainfluenza virus 3	True	no rank
+Section 4.2: Viruses - manually added, excluded by read-count filter	Virus (manual, low-read)	Monkeypox virus	10244	species	6	6	6	6	0.000025%			6.0	2.5e-05	10244	Monkeypox virus	monkeypox virus	True	species
+Section 4.3: Viruses - manually added, not detected in sample	Virus (manual, not detected)	Influenza A virus H5N1 (A/goose/Guangdong/1/1996)	93838				0 (not detected)	4	0.000017%		Early spillover sentinel: low-level zoonotic spillover signal for HPAI H5N1 surveillance	4.0	1.7e-05	93838	Influenza A virus H5N1 (A/goose/Guangdong/1/1996)	influenza a virus h5n1 a goose guangdong 1 1996	True	unspecified
+Section 4.3: Viruses - manually added, not detected in sample	Virus (manual, not detected)	Human metapneumovirus (hMPV)	162145				0 (not detected)	35	0.000147%		Winter peak respiratory virus; co-circulates with RSV	35.0	0.000147	162145	Human metapneumovirus	human metapneumovirus	True	unspecified
+Section 4.3: Viruses - manually added, not detected in sample	Virus (manual, not detected)	Human astrovirus 1	37108				0 (not detected)	25	0.000105%		Ubiquitous enteric virus commonly detected in municipal wastewater	25.0	0.000105	37108	Human astrovirus 1	human astrovirus 1	True	unspecified
+Section 4.3: Viruses - manually added, not detected in sample	Virus (manual, not detected)	Human papillomavirus 16 (HPV 16)	333760				0 (not detected)	8	0.000034%		Low-abundance DNA virus; broadens community diversity	8.0	3.4e-05	333760	Human papillomavirus 16	human papillomavirus 16	True	unspecified
+Section 4.3: Viruses - manually added, not detected in sample	Virus (manual, not detected)	Poliovirus 1	12110				0 (not detected)	5	0.000021%		Environmental surveillance sentinel; monitored globally in WBE programs	5.0	2.1e-05	12110	Poliovirus 1	poliovirus 1	True	unspecified

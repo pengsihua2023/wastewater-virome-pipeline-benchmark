@@ -1,0 +1,152 @@
+taxid	virus	category	designed_relative_abundance_pct	sentinel	illumina_reads_mean	pacbio_reads_mean	Illumina: pipelines detecting (of 7), ≥1	Illumina: pipelines detecting (of 7), ≥10	Illumina: pipelines detecting (of 7), ≥100	PacBio: pipelines detecting (of 7), ≥1	PacBio: pipelines detecting (of 7), ≥10	PacBio: pipelines detecting (of 7), ≥100	Illumina | TaxProfiler | ≥1	Illumina | TaxProfiler | ≥10	Illumina | TaxProfiler | ≥100	Illumina | TaxTriage | ≥1	Illumina | TaxTriage | ≥10	Illumina | TaxTriage | ≥100	Illumina | mag-nf | ≥1	Illumina | mag-nf | ≥10	Illumina | mag-nf | ≥100	Illumina | KrakenMetaReads-nf | ≥1	Illumina | KrakenMetaReads-nf | ≥10	Illumina | KrakenMetaReads-nf | ≥100	Illumina | GOTTCHA2 | ≥1	Illumina | GOTTCHA2 | ≥10	Illumina | GOTTCHA2 | ≥100	Illumina | CLARK | ≥1	Illumina | CLARK | ≥10	Illumina | CLARK | ≥100	Illumina | sourmash | ≥1	Illumina | sourmash | ≥10	Illumina | sourmash | ≥100	PacBio | TaxProfiler | ≥1	PacBio | TaxProfiler | ≥10	PacBio | TaxProfiler | ≥100	PacBio | TaxTriage | ≥1	PacBio | TaxTriage | ≥10	PacBio | TaxTriage | ≥100	PacBio | mag-nf | ≥1	PacBio | mag-nf | ≥10	PacBio | mag-nf | ≥100	PacBio | KrakenMetaReads-nf | ≥1	PacBio | KrakenMetaReads-nf | ≥10	PacBio | KrakenMetaReads-nf | ≥100	PacBio | GOTTCHA2 | ≥1	PacBio | GOTTCHA2 | ≥10	PacBio | GOTTCHA2 | ≥100	PacBio | CLARK | ≥1	PacBio | CLARK | ≥10	PacBio | CLARK | ≥100	PacBio | sourmash | ≥1	PacBio | sourmash | ≥10	PacBio | sourmash | ≥100
+2697049	SARS-CoV-2	Virus (manual, no-rank)	0.003684	True	616.6666666666666	18.33333333333333	4	3	3	4	3	0	3	3	3	3	3	3	3	3	3	3	0	0	0	0	0	0	0	0	0	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	0	0	0
+119210	Influenza A virus (H3N2)	Virus (manual, low-read)	0.000337	True	55.0	8.333333333333334	4	3	0	3	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+114727	Influenza A virus (H1N1)	Virus (manual, low-read)	0.000253	True	38.66666666666666	8.0	4	4	0	3	3	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	0	0	0	0	0	0	3	3	0	3	3	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+11250	Human orthopneumovirus A	Virus (manual, low-read)	0.000211	True	35.0	1.6666666666666667	4	3	0	3	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31631	Human coronavirus OC43	Virus (manual, no-rank)	0.000198	True	33.0	1.3333333333333333	4	4	0	3	0	0	3	3	0	3	3	0	3	3	0	3	1	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+162145	Human metapneumovirus	Virus (manual, not detected)	0.000147	True	23.0	1.3333333333333333	4	3	0	3	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2955465	Influenza B virus	Virus (manual, low-read)	0.000126	True	21.33333333333333	8.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	1	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+37108	Human astrovirus 1	Virus (manual, not detected)	0.000105	True	17.333333333333332	1.3333333333333333	4	3	0	3	0	0	3	3	0	3	3	0	3	3	0	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11216	Human parainfluenza virus 3	Virus (manual, low-read)	8.4e-05	True	13.666666666666666	1.6666666666666667	4	3	0	3	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+333760	Human papillomavirus 16	Virus (manual, not detected)	3.4e-05	True	5.666666666666667	1.0	4	0	0	3	0	0	3	0	0	3	0	0	3	0	0	2	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+10244	Monkeypox virus	Virus (manual, low-read)	2.5e-05	True	4.0	1.3333333333333333	4	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	2	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12110	Poliovirus 1	Virus (manual, not detected)	2.1e-05	True	3.333333333333333	1.0	4	0	0	3	0	0	3	0	0	3	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+93838	Influenza A virus H5N1 (A/goose/Guangdong/1/1996)	Virus (manual, not detected)	1.7e-05	True	17.0	8.0	4	3	0	3	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1239565	Mamastrovirus 1	Virus (automated)	2.355158	False	388779.3333333333	11005.0	6	6	6	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	0	0	0	0	0	0	0	0	0
+11983	Norwalk virus	Virus (automated)	0.350044	False	54214.333333333336	1550.0	6	6	5	4	4	4	3	3	3	3	3	3	3	3	3	3	3	0	3	3	3	0	0	0	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	3	3	3	0	0	0	0	0	0
+95342	Sapporo virus	Virus (automated)	0.297134	False	48698.333333333336	1391.0	5	4	4	3	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	0	0	0	0	0	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	0	0	0	0	0	0	0	0	0
+1239570	Mamastrovirus 6	Virus (automated)	0.243584	False	40179.333333333336	1140.6666666666667	6	6	5	4	4	4	3	3	3	3	3	3	3	3	3	3	2	0	3	3	3	0	0	0	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	3	3	3	0	0	0	0	0	0
+1239573	Mamastrovirus 9	Virus (automated)	0.088826	False	15128.666666666666	437.3333333333333	6	5	5	4	4	4	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	3	3	3	0	0	0	0	0	0
+683172	Astrovirus MLB2	Virus (automated)	0.081857	False	13512.333333333334	389.6666666666667	7	6	6	5	5	5	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	3	3	3	3	3	3	0	0	0
+682382	HMO Astrovirus A	Virus (automated)	0.079706	False	13428.0	386.3333333333333	7	5	5	5	5	5	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	3	0	0	0	3	3	3	3	3	3	0	0	0
+1930509	Husavirus sp.	Virus (automated)	0.06291	False	9879.333333333334	279.3333333333333	7	6	6	5	5	5	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	3	3	3	3	3	3	0	0	0
+72149	Kobuvirus aichi	Virus (automated)	0.056392	False	8997.0	254.66666666666663	5	5	5	1	0	0	3	3	3	3	3	3	3	3	3	0	0	0	0	0	0	3	3	3	3	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+2956252	Orthopicobirnavirus hominis	Virus (automated)	0.037861	False	5986.0	171.66666666666666	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+442302	Porcine picobirnavirus	Virus (automated)	0.037638	False	5800.0	174.0	7	6	6	5	5	5	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	3	3	3	3	3	3	0	0	0
+1157338	Canine astrovirus	Virus (automated)	0.030291	False	4945.333333333333	140.33333333333334	7	6	6	6	5	5	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	0	0	0
+1330524	Salivirus A	Virus (automated)	0.02576	False	4017.3333333333335	115.0	6	5	5	4	4	4	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	3	3	3	3	3	3	3	3	3	3	0	0	0	3	3	3	0	0	0	0	0	0
+138950	Enterovirus C	Virus (automated)	0.021987	False	3684.6666666666665	105.33333333333331	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2021738	Hudisavirus sp.	Virus (automated)	0.020152	False	3388.333333333333	99.0	6	5	5	4	4	4	3	3	3	3	3	3	3	3	3	3	0	0	0	0	0	3	3	3	3	3	3	3	3	1	3	3	1	3	3	1	0	0	0	0	0	0	3	3	1	0	0	0
+683174	Astrovirus VA3	Virus (automated)	0.01536	False	2524.333333333333	72.66666666666667	7	6	6	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+2202565	Genomoviridae sp.	Virus (automated)	0.013802	False	2185.0	67.0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+237020	Porcine torovirus	Virus (automated)	0.013221	False	2277.333333333333	65.33333333333333	6	5	5	6	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	3	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	3	0
+1247114	Astrovirus MLB3	Virus (automated)	0.007962	False	1339.0	39.333333333333336	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+693997	Alphacoronavirus 1	Virus (automated)	0.007832	False	1235.6666666666667	35.666666666666664	6	5	4	6	4	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	3	0	0	3	0	0	0	0	0	3	3	0
+1820160	Human feces pecovirus	Virus (automated)	0.007621	False	1221.3333333333333	36.333333333333336	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+1907787	Picobirnavirus sp.	Virus (automated)	0.006872	False	1151.3333333333333	34.666666666666664	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+1795648	Picornavirales Tottori-HG1	Virus (automated)	0.006505	False	1056.0	31.33333333333333	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+28875	Rotavirus A	Virus (automated)	0.006354	False	999.0	32.666666666666664	2	2	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+74501	Bovine torovirus	Virus (automated)	0.006131	False	1074.6666666666667	31.33333333333333	6	5	4	6	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	2	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	3	0
+1678145	Rocahepevirus ratti	Virus (automated)	0.005747	False	915.6666666666666	27.0	6	5	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	0	0	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+1389204	Feline astrovirus 2	Virus (automated)	0.00571	False	923.3333333333334	26.666666666666668	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+1673646	Picobirnavirus Equ3	Virus (automated)	0.005015	False	790.6666666666666	23.666666666666668	6	5	4	4	4	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	0	0	0	0	0	0
+1239566	Mamastrovirus 2	Virus (automated)	0.004648	False	785.0	22.666666666666668	6	5	4	4	4	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	0	0	0	0	0	0
+1349999	Goose astrovirus	Virus (automated)	0.004139	False	665.3333333333334	19.0	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+694009	Severe acute respiratory syndrome-related coronavirus	Virus (automated)	0.003933	False	655.3333333333334	18.33333333333333	6	5	4	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	0	0	0	3	3	0
+138948	Enterovirus A	Virus (automated)	0.003554	False	590.0	17.333333333333332	5	4	0	3	3	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+1755588	Sicinivirus A	Virus (automated)	0.003057	False	513.0	15.0	6	5	4	4	4	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	0	0	0	0	0	0
+2748378	Cressdnaviricota sp.	Virus (automated)	0.003027	False	509.3333333333333	15.333333333333334	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+1330491	Cosavirus A	Virus (automated)	0.00296	False	480.0	13.666666666666666	6	5	3	3	3	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	0	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+1187973	Otarine picobirnavirus	Virus (automated)	0.002779	False	454.0	14.0	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+138949	Enterovirus B	Virus (automated)	0.002682	False	445.3333333333333	13.0	5	4	1	3	3	0	3	3	0	3	3	0	3	3	3	3	0	0	0	0	0	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+694014	Avian coronavirus	Virus (automated)	0.002623	False	453.0	13.666666666666666	5	5	3	4	3	0	3	3	3	3	3	3	3	3	3	3	2	0	3	3	0	0	0	0	0	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	0	0	0
+1821750	Cardiovirus B	Virus (automated)	0.002619	False	453.3333333333333	13.333333333333334	6	5	3	3	3	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	0	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+1836608	Canine kobuvirus	Virus (automated)	0.002606	False	431.3333333333333	12.666666666666666	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+1930304	Chicken picobirnavirus	Virus (automated)	0.002472	False	397.6666666666667	12.666666666666666	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	3	3	0	0	0	0
+1903318	Primate norovirus	Virus (automated)	0.002459	False	386.6666666666667	11.0	6	5	4	4	4	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	0	0	0	0	0	0
+2170006	Megrivirus C	Virus (automated)	0.002429	False	387.0	11.333333333333334	5	4	3	3	3	0	3	3	3	3	3	3	3	3	3	3	0	0	0	0	0	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+1803956	Parechovirus A	Virus (automated)	0.002328	False	387.6666666666667	11.333333333333334	5	4	1	3	3	0	3	3	0	3	3	0	3	3	3	3	0	0	0	0	0	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+2560598	Mischivirus D	Virus (automated)	0.002194	False	346.6666666666667	10.333333333333334	6	5	4	4	4	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	3	0	0	0	0	0	0	0
+36427	Rotavirus C	Virus (automated)	0.002147	False	334.0	11.333333333333334	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1247113	Astrovirus VA4	Virus (automated)	0.002063	False	341.3333333333333	10.0	7	6	5	5	5	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	2	0	3	2	0	3	2	0	0	0	0	3	2	0	3	2	0	0	0	0
+463676	Rhinovirus C	Virus (automated)	0.001933	False	319.3333333333333	9.333333333333334	5	4	3	3	3	0	3	3	3	3	3	3	3	3	3	3	0	0	0	0	0	0	0	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+2017081	Human fecal virus Jorvi2	Virus (automated)	0.001857	False	310.6666666666667	9.0	7	6	5	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+147711	Rhinovirus A	Virus (automated)	0.001798	False	291.6666666666667	9.0	5	4	0	3	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1074210	Mouse astrovirus M-52/USA/2008	Virus (automated)	0.001735	False	276.3333333333333	8.0	7	6	5	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1027245	Bovine astrovirus B18/HK	Virus (automated)	0.001604	False	259.3333333333333	7.666666666666667	7	6	5	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1902501	Rosavirus B	Virus (automated)	0.001453	False	240.0	7.0	6	5	4	4	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+2805939	Circular ssDNA virus sp.	Virus (automated)	0.001326	False	218.66666666666663	6.666666666666667	7	6	5	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1821751	Cardiovirus C	Virus (automated)	0.001284	False	219.33333333333331	6.333333333333333	6	5	3	3	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	0	0	0	0	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3052027	Bocaparvovirus carnivoran2	Virus (automated)	0.001242	False	204.0	6.0	7	6	5	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+3052041	Bocaparvovirus primate2	Virus (automated)	0.001145	False	187.0	5.666666666666667	7	6	4	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	0	3	3	3	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1233383	Human cosavirus	Virus (automated)	0.001133	False	197.0	6.0	7	6	5	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+194965	Kobuvirus bejaponia	Virus (automated)	0.001099	False	175.0	5.0	7	5	2	4	0	0	3	3	0	3	3	0	3	3	3	3	0	0	2	0	0	3	3	3	3	3	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+1141625	Murine astrovirus	Virus (automated)	0.001011	False	166.66666666666666	5.0	7	6	5	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	1	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1239438	Avastrovirus 2	Virus (automated)	0.000893	False	149.33333333333334	4.333333333333333	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2844585	Gemykibivirus humas5	Virus (automated)	0.000855	False	147.0	4.333333333333333	7	5	5	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1176484	Canine vesivirus	Virus (automated)	0.000821	False	136.0	4.0	7	5	5	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	3	3	3	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1239567	Mamastrovirus 3	Virus (automated)	0.000779	False	127.33333333333331	4.0	6	5	4	4	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	1	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+1239577	Mamastrovirus 13	Virus (automated)	0.000775	False	126.0	3.6666666666666665	6	4	4	4	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	3	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+3052707	Protoparvovirus carnivoran1	Virus (automated)	0.000749	False	125.66666666666669	4.0	7	5	4	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	0	3	3	3	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2734523	Cardiovirus D	Virus (automated)	0.000699	False	112.33333333333331	3.0	5	3	0	0	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1534547	Chicken picornavirus 4	Virus (automated)	0.000695	False	108.0	3.0	7	5	4	5	0	0	3	3	3	3	3	3	3	3	3	3	0	0	3	3	0	3	3	3	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1595998	Human smacovirus 1	Virus (automated)	0.000653	False	107.66666666666669	3.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+694003	Betacoronavirus 1	Virus (automated)	0.000632	False	106.33333333333331	4.0	6	5	3	6	1	0	3	3	3	3	3	3	3	3	3	3	3	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	1	0	0	3	0	0	0	0	0	1	1	0
+1511891	Dependoparvovirus primate1	Virus (automated)	0.000615	False	99.0	3.0	7	5	4	5	0	0	3	3	2	3	3	2	3	3	2	3	0	0	3	1	0	3	3	2	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+147712	Rhinovirus B	Virus (automated)	0.000581	False	97.0	2.6666666666666665	5	3	0	3	0	0	3	2	0	3	2	0	3	3	0	3	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+130309	Human mastadenovirus F	Virus (automated)	0.000577	False	100.33333333333331	3.333333333333333	6	5	0	4	0	0	3	3	0	3	3	0	3	3	0	3	3	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+1298633	Kobuvirus cebes	Virus (automated)	0.000573	False	94.0	3.0	7	5	2	4	0	0	3	3	0	3	3	0	3	3	1	3	0	0	3	3	0	3	3	3	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+2029771	Tioga picorna-like virus 1	Virus (automated)	0.00056	False	94.33333333333331	3.0	7	5	1	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	3	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2016461	Giant panda associated gemycircularvirus	Virus (automated)	0.00056	False	88.33333333333333	3.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1137931	Astrovirus wild boar/WBAstV-1/2011/HUN	Virus (automated)	0.000556	False	92.33333333333331	3.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1330070	Melegrivirus A	Virus (automated)	0.000539	False	90.33333333333331	3.0	6	5	3	4	0	0	3	3	3	3	3	3	3	3	3	3	2	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+1431460	Hunnivirus A	Virus (automated)	0.000522	False	87.33333333333333	2.6666666666666665	6	3	0	3	0	0	3	3	0	3	3	0	3	3	0	3	0	0	1	0	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3052040	Bocaparvovirus primate1	Virus (automated)	0.000484	False	76.0	1.6666666666666667	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1837217	Goat torovirus	Virus (automated)	0.000484	False	81.33333333333333	2.0	7	6	0	5	0	0	3	3	0	3	3	0	3	3	0	3	1	0	3	1	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1932006	Chicken associated smacovirus	Virus (automated)	0.000459	False	71.33333333333333	2.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2003650	Cosavirus D	Virus (automated)	0.000421	False	71.33333333333333	2.0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2560615	Nordland virus	Virus (automated)	0.0004	False	67.66666666666667	2.0	6	5	1	4	0	0	3	3	0	3	3	0	3	3	0	3	1	0	3	3	3	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+3052026	Bocaparvovirus carnivoran1	Virus (automated)	0.000396	False	67.33333333333333	2.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+11864	Avian leukosis virus	Virus (automated)	0.000383	False	63.0	2.0	6	3	0	3	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1534544	Chicken picornavirus 1	Virus (automated)	0.000362	False	61.0	2.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1914442	Rodent astrovirus	Virus (automated)	0.000337	False	56.0	2.0	7	6	0	5	0	0	3	3	0	3	3	0	3	3	0	3	1	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+11137	Human coronavirus 229E	Virus (automated)	0.000328	False	53.0	2.0	6	5	0	4	0	0	3	3	0	3	3	0	3	3	0	3	1	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0
+1766557	Gallivirus Pf-CHK1/GV	Virus (automated)	0.000291	False	47.333333333333336	1.3333333333333333	7	6	0	5	0	0	3	3	0	3	3	0	3	3	0	3	2	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1264898	Ferret coronavirus	Virus (automated)	0.000278	False	45.0	1.3333333333333333	6	5	0	4	0	0	3	3	0	3	3	0	3	3	0	3	1	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+1239574	Mamastrovirus 10	Virus (automated)	0.000265	False	45.333333333333336	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+2003651	Cosavirus E	Virus (automated)	0.00024	False	39.0	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+1961665	Qinghai Himalayan marmot astrovirus 1	Virus (automated)	0.000211	False	33.666666666666664	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2025398	Bastrovirus BAS-3	Virus (automated)	0.000198	False	31.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1776109	Goose dicistrovirus	Virus (automated)	0.000198	False	33.333333333333336	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1475062	Porcine stool-associated circular virus 4	Virus (automated)	0.000198	False	32.666666666666664	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+138951	Enterovirus D	Virus (automated)	0.000194	False	29.666666666666668	1.0	6	4	0	3	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+1128073	Meles meles circovirus-like virus	Virus (automated)	0.000194	False	31.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+889389	Calicivirus chicken/V0021/Bayern/2004	Virus (automated)	0.000189	False	31.666666666666668	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+70796	Tremovirus A	Virus (automated)	0.000189	False	30.33333333333333	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+12092	Hepatovirus A	Virus (automated)	0.000185	False	30.666666666666668	1.0	6	4	0	2	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	2	0	0	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2560343	Bavaria virus	Virus (automated)	0.000181	False	30.33333333333333	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+3047957	Cyclovirus humana	Virus (automated)	0.000168	False	25.666666666666668	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1603962	Rabovirus A	Virus (automated)	0.000168	False	27.0	1.0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1518574	Burkina Faso astrovirus	Virus (automated)	0.000168	False	27.666666666666668	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2844576	Gemykibivirus haeme2	Virus (automated)	0.00016	False	25.33333333333333	1.0	7	4	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	0	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+44088	Canarypox virus	Virus (automated)	0.000156	False	25.666666666666668	1.6666666666666667	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	1	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+3059782	Blattambidensovirus incertum1	Virus (automated)	0.000156	False	26.33333333333333	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	3	0	0	0	0	0
+1541211	Cripavirus NB-1/2011/HUN	Virus (automated)	0.000156	False	26.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1161132	Rabbit astrovirus TN/2208/2010	Virus (automated)	0.000156	False	27.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1891762	Betapolyomavirus hominis	Virus (automated)	0.000152	False	25.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	1	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2844484	Gemycircularvirus monas1	Virus (automated)	0.000147	False	25.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2844505	Gemycircularvirus porci1	Virus (automated)	0.000143	False	22.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1659771	Sakobuvirus A	Virus (automated)	0.000143	False	25.0	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+2734519	Anativirus biphaco	Virus (automated)	0.000139	False	24.33333333333333	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2845899	Porprismacovirus humas3	Virus (automated)	0.000126	False	20.33333333333333	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2844564	Gemykibivirus canfam1	Virus (automated)	0.000122	False	19.33333333333333	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	1	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1930510	Posavirus sp.	Virus (automated)	0.000122	False	19.666666666666668	1.0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1985983	Avisivirus C	Virus (automated)	0.000118	False	19.33333333333333	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+1105380	Posavirus 1	Virus (automated)	0.000118	False	20.33333333333333	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	2	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1985693	Sripuvirus almpiwar	Virus (automated)	0.000114	False	19.33333333333333	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1813613	Picornavirales Bu-3	Virus (automated)	0.000114	False	19.666666666666668	1.0	7	5	0	6	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0
+2844567	Gemykibivirus cynas1	Virus (automated)	0.000109	False	17.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2170114	Human associated porprismacovirus 2	Virus (automated)	0.000109	False	16.333333333333332	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	1	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+1027247	Bovine astrovirus B76-2/HK	Virus (automated)	0.000109	False	18.0	1.0	7	4	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	2	0	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1930302	Chicken stool-associated circular virus	Virus (automated)	0.000105	False	17.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1330068	Cadicivirus A	Virus (automated)	0.000105	False	17.666666666666668	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+1961666	Qinghai Himalayan marmot astrovirus 2	Virus (automated)	9.7e-05	False	16.666666666666668	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1766559	Avisivirus Pf-CHK1/AsV	Virus (automated)	9.7e-05	False	16.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1459003	Pteropine orthoreovirus	Virus (automated)	9.7e-05	False	17.0	10.0	6	4	0	5	4	0	3	3	0	3	3	0	3	3	0	0	0	0	3	0	0	3	3	0	3	0	0	3	3	0	3	3	0	3	3	0	0	0	0	2	0	0	3	3	0	0	0	0
+2169685	Aalivirus apekidu	Virus (automated)	9.3e-05	False	15.333333333333334	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1254425	Porcine astrovirus 3	Virus (automated)	9.3e-05	False	15.666666666666666	1.0	6	4	0	4	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+1671382	Astrovirus Er/SZAL6/HUN/2011	Virus (automated)	8.8e-05	False	15.333333333333334	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+11886	Rous sarcoma virus	Virus (automated)	8.8e-05	False	14.333333333333334	1.0	5	3	0	3	0	0	3	3	0	3	3	0	3	3	0	3	0	0	0	0	0	0	0	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2845010	Inpeasmacovirus humas1	Virus (automated)	8.4e-05	False	14.333333333333334	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+2844465	Gemycircularvirus lamas1	Virus (automated)	8.4e-05	False	14.0	1.0	7	5	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	3	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0
+1891763	Betapolyomavirus secuhominis	Virus (automated)	8.4e-05	False	14.666666666666666	1.0	7	4	0	5	0	0	3	3	0	3	3	0	3	3	0	3	0	0	3	0	0	3	3	0	3	0	0	3	0	0	3	0	0	3	0	0	0	0	0	3	0	0	3	0	0	0	0	0

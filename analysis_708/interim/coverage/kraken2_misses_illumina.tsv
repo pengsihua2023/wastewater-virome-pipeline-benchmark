@@ -1,0 +1,10 @@
+virus	taxid	designed_relative_abundance_pct	simulated_read_pairs_sample0	taxid_present_in_kraken2_report	kraken2_clade_reads_sample0	samples_detected_by_TaxProfiler	samples_detected_by_TaxTriage	samples_detected_by_mag-nf	samples_detected_by_KrakenMetaReads-nf	samples_detected_by_GOTTCHA2	samples_detected_by_CLARK	samples_detected_by_sourmash
+Orthopicobirnavirus hominis	2956252	0.037861	6211	True	0.0	0	0	0	0	0	0	3
+Enterovirus C	138950	0.021987	3647	True	0.0	0	0	0	0	0	0	3
+Genomoviridae sp.	2202565	0.013802	2161	True	0.0	0	0	0	0	0	0	3
+Rotavirus A	28875	0.006354	1013	True	21.0	0	0	3	0	0	0	3
+Rotavirus C	36427	0.002147	340	True	0.0	0	0	0	0	0	0	3
+Avastrovirus 2	1239438	0.000893	149	False		0	0	0	0	0	0	3
+Cosavirus D	2003650	0.000421	69	True	0.0	0	0	0	0	0	0	3
+Rabovirus A	1603962	0.000168	28	False		0	0	0	0	3	0	3
+Posavirus sp.	1930510	0.000122	20	True	0.0	0	0	0	0	0	1	3

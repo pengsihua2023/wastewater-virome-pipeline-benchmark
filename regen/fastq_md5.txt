@@ -1,0 +1,9 @@
+5386c480b58099ad29574a3abb5482d6  *illumina/sample_708R_0_01.fq.gz
+df54adb63114e74c8a47584f93dd947f  *illumina/sample_708R_0_02.fq.gz
+c7142b2bf3834d0f312798b372ec9ff0  *illumina/sample_708R_1_01.fq.gz
+17985660b51d98157951515da80d3118  *illumina/sample_708R_1_02.fq.gz
+18ec8be58f2763d9ba507cc5ac3b1248  *illumina/sample_708R_2_01.fq.gz
+ec56ac6bc97d95e2670d0f4a88a49a8b  *illumina/sample_708R_2_02.fq.gz
+95e3c89226a0ba980ef07575d8349e18  *pacbio/pacbio_hifi_reads_sample_0.fastq.gz
+9da7e22f98933526cf977de4d29152bf  *pacbio/pacbio_hifi_reads_sample_1.fastq.gz
+6004d76dcdc07306180094e003544024  *pacbio/pacbio_hifi_reads_sample_2.fastq.gz

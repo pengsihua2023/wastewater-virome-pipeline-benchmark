@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it and the associated manuscript."
+title: "Benchmarking seven metagenomic pipelines for viral detection in simulated wastewater (Illumina and PacBio HiFi)"
+authors:
+  - family-names: Peng
+    given-names: Sihua
+    affiliation: "College of Public Health, University of Georgia"
+license: MIT
+repository-code: "https://github.com/pengsihua2023/wastewater-virome-pipeline-benchmark"
+# doi: 10.5281/zenodo.XXXXXXX   (add after the Zenodo release)

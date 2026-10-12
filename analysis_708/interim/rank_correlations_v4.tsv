@@ -1,0 +1,13 @@
+analysis_set	metric	n	rho	p
+All seven pipelines	viral recall	7	0.645	0.117
+All seven pipelines	viral precision	7	0.336	0.461
+All seven pipelines	viral F1	7	0.336	0.461
+Illumina duplicate removed	viral recall	6	0.464	0.354
+Illumina duplicate removed	viral precision	6	0.348	0.499
+Illumina duplicate removed	viral F1	6	0.348	0.499
+Given reads on both modalities	viral recall	5	0.921	0.026
+Given reads on both modalities	viral precision	5	0.763	0.133
+Given reads on both modalities	viral F1	5	0.763	0.133
+Reads both sides, de-duplicated	viral recall	4	0.949	0.051
+Reads both sides, de-duplicated	viral precision	4	0.949	0.051
+Reads both sides, de-duplicated	viral F1	4	0.949	0.051

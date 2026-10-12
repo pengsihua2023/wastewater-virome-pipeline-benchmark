@@ -1,0 +1,43 @@
+platform	pipeline	domain	recall_mean	recall_sd	TP_mean	n_truth
+Illumina	CLARK	Bacteria/Archaea	0.9122448979591837	0.002040816326530623	447.0	490.0
+Illumina	CLARK	Bacteriophage	0.0	0.0	0.0	67.0
+Illumina	CLARK	Virus (non-phage)	0.5187637969094923	0.0038235117164876074	78.33333333333333	151.0
+Illumina	GOTTCHA2	Bacteria/Archaea	0.5789115646258504	0.0011782658554890303	283.6666666666667	490.0
+Illumina	GOTTCHA2	Bacteriophage	0.0	0.0	0.0	67.0
+Illumina	GOTTCHA2	Virus (non-phage)	0.7196467991169978	0.010116061136767883	108.66666666666667	151.0
+Illumina	KrakenMetaReads-nf	Bacteria/Archaea	0.9972789115646258	0.0011782658554890543	488.6666666666667	490.0
+Illumina	KrakenMetaReads-nf	Bacteriophage	1.0	0.0	67.0	67.0
+Illumina	KrakenMetaReads-nf	Virus (non-phage)	0.9050772626931568	0.007647023432975135	136.66666666666666	151.0
+Illumina	TaxProfiler	Bacteria/Archaea	1.0	0.0	490.0	490.0
+Illumina	TaxProfiler	Bacteriophage	1.0	0.0	67.0	67.0
+Illumina	TaxProfiler	Virus (non-phage)	0.9403973509933775	0.0	142.0	151.0
+Illumina	TaxTriage	Bacteria/Archaea	1.0	0.0	490.0	490.0
+Illumina	TaxTriage	Bacteriophage	1.0	0.0	67.0	67.0
+Illumina	TaxTriage	Virus (non-phage)	0.9403973509933775	0.0	142.0	151.0
+Illumina	mag-nf	Bacteria/Archaea	1.0	0.0	490.0	490.0
+Illumina	mag-nf	Bacteriophage	1.0	0.0	67.0	67.0
+Illumina	mag-nf	Virus (non-phage)	0.9470198675496689	0.0	143.0	151.0
+Illumina	sourmash	Bacteria/Archaea	0.5517006802721088	0.0011782658554890543	270.3333333333333	490.0
+Illumina	sourmash	Bacteriophage	0.0	0.0	0.0	67.0
+Illumina	sourmash	Virus (non-phage)	0.9072847682119205	0.0	137.0	151.0
+PacBio	CLARK	Bacteria/Archaea	0.9047619047619048	0.0023565317109780284	443.3333333333333	490.0
+PacBio	CLARK	Bacteriophage	0.0	0.0	0.0	67.0
+PacBio	CLARK	Virus (non-phage)	0.512141280353201	0.0038235117164875272	77.33333333333333	151.0
+PacBio	GOTTCHA2	Bacteria/Archaea	0.5564625850340136	0.0011782658554890543	272.6666666666667	490.0
+PacBio	GOTTCHA2	Bacteriophage	0.0	0.0	0.0	67.0
+PacBio	GOTTCHA2	Virus (non-phage)	0.6401766004415012	0.0038235117164875433	96.66666666666667	151.0
+PacBio	KrakenMetaReads-nf	Bacteria/Archaea	0.0	0.0	0.0	490.0
+PacBio	KrakenMetaReads-nf	Bacteriophage	0.014925373134328358	0.0	1.0	67.0
+PacBio	KrakenMetaReads-nf	Virus (non-phage)	0.05518763796909493	0.003823511716487588	8.333333333333334	151.0
+PacBio	TaxProfiler	Bacteria/Archaea	0.9979591836734695	0.0	489.0	490.0
+PacBio	TaxProfiler	Bacteriophage	1.0	0.0	67.0	67.0
+PacBio	TaxProfiler	Virus (non-phage)	0.9271523178807947	0.0	140.0	151.0
+PacBio	TaxTriage	Bacteria/Archaea	0.9979591836734695	0.0	489.0	490.0
+PacBio	TaxTriage	Bacteriophage	1.0	0.0	67.0	67.0
+PacBio	TaxTriage	Virus (non-phage)	0.9116997792494481	0.0038235117164876074	137.66666666666666	151.0
+PacBio	mag-nf	Bacteria/Archaea	0.9979591836734695	0.0	489.0	490.0
+PacBio	mag-nf	Bacteriophage	1.0	0.0	67.0	67.0
+PacBio	mag-nf	Virus (non-phage)	0.9271523178807947	0.0	140.0	151.0
+PacBio	sourmash	Bacteria/Archaea	0.49727891156462584	0.009644521686229814	243.66666666666666	490.0
+PacBio	sourmash	Bacteriophage	0.0	0.0	0.0	67.0
+PacBio	sourmash	Virus (non-phage)	0.028697571743929357	0.0038235117164875897	4.333333333333333	151.0

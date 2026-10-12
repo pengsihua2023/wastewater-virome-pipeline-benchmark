@@ -1,0 +1,4 @@
+sample	viruses_target_eq_1	viruses_expected_lt_1	min_expected	min_observed_pacbio	min_observed_illumina	illumina_min_designed_pairs
+0	60	53	0.08261268999999999	1	3	3
+1	61	50	0.084796181	1	4	3
+2	59	54	0.08722317850000001	1	3	3

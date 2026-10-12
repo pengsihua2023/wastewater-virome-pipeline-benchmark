@@ -1,0 +1,4 @@
+sample	taxprofiler_total	taxprofiler_unclassified_pct	taxprofiler_viral_reads	taxprofiler_TP	taxprofiler_FP	mag-nf_total	mag-nf_unclassified_pct	mag-nf_viral_reads	mag-nf_TP	mag-nf_FP	mag_only_FP	taxprofiler_only_FP	mag_only_FP_median_reads	mag_only_FP_frac_single_read	shared_TP	TP_read_ratio_median
+sample_0	16583465.0	6.521061792574712	1895290.0	142	317	16583465.0	5.296504681018111	1899524.0	143	529	212	0	2.0	0.4716981132075472	142	1.0
+sample_1	16502313.0	6.546324748536766	1900550.0	142	295	16502313.0	5.31923009822926	1904701.0	143	505	210	0	2.0	0.4666666666666667	142	1.0
+sample_2	16583179.0	6.6094082443420525	1874466.0	142	304	16583180.0	5.358194266720858	1878645.0	143	540	236	0	1.0	0.5677966101694916	142	1.0

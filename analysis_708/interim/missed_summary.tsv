@@ -1,0 +1,1182 @@
+key	name	category	rel_abundance_pct	n_runs_missed	frac_runs_missed
+2956252	Orthopicobirnavirus hominis	Virus (automated)	0.037861	36	0.8571428571428571
+138950	Enterovirus C	Virus (automated)	0.021987	36	0.8571428571428571
+2202565	Genomoviridae sp.	Virus (automated)	0.013802	36	0.8571428571428571
+36427	Rotavirus C	Virus (automated)	0.002147	36	0.8571428571428571
+1239438	Avastrovirus 2	Virus (automated)	0.000893	36	0.8571428571428571
+2003650	Cosavirus D	Virus (automated)	0.000421	36	0.8571428571428571
+1603962	Rabovirus A	Virus (automated)	0.000168	36	0.8571428571428571
+1930510	Posavirus sp.	Virus (automated)	0.000122	35	0.8333333333333334
+28875	Rotavirus A	Virus (automated)	0.006354	33	0.7857142857142857
+2734523	Cardiovirus D	Virus (automated)	0.000699	24	0.5714285714285714
+72149	Kobuvirus aichi	Virus (automated)	0.056392	23	0.5476190476190477
+1737424	Blautia massiliensis	Bacteria/Archaea	0.049276	21	0.5
+10244	Monkeypox virus	Virus (manual, low-read)	2.5e-05	19	0.4523809523809524
+44088	Canarypox virus	Virus (automated)	0.000156	17	0.40476190476190477
+37108	Human astrovirus 1	Virus (manual, not detected)	0.000105	17	0.40476190476190477
+12110	Poliovirus 1	Virus (manual, not detected)	2.1e-05	17	0.40476190476190477
+333760	Human papillomavirus 16	Virus (manual, not detected)	3.4e-05	16	0.38095238095238093
+1760811	uncultured Acetobacteroides sp.	Bacteria/Archaea	1.458274	15	0.35714285714285715
+2786599	ssRNA phage SRR6960799_40	Bacteriophage	1.272763	15	0.35714285714285715
+426737	uncultured Propionivibrio sp.	Bacteria/Archaea	1.174935	15	0.35714285714285715
+544433	uncultured Ilyobacter sp.	Bacteria/Archaea	0.940872	15	0.35714285714285715
+2786623	ssRNA phage SRR6960803_7	Bacteriophage	0.925005	15	0.35714285714285715
+1243007	uncultured Macellibacteroides sp.	Bacteria/Archaea	0.589777	15	0.35714285714285715
+2306583	Halomonas sp. JS92-SW72	Bacteria/Archaea	0.5482	15	0.35714285714285715
+2786481	ssRNA phage SRR6049586_2	Bacteriophage	0.519287	15	0.35714285714285715
+263765	uncultured Tolumonas sp.	Bacteria/Archaea	0.494304	15	0.35714285714285715
+2786747	ssRNA phage SRR7976357_7	Bacteriophage	0.439397	15	0.35714285714285715
+2786651	ssRNA phage SRR7976300_2	Bacteriophage	0.371255	15	0.35714285714285715
+2786436	ssRNA phage SRR5466727_7	Bacteriophage	0.347758	15	0.35714285714285715
+2005884	Thauera sp. K11	Bacteria/Archaea	0.307978	15	0.35714285714285715
+95342	Sapporo virus	Virus (automated)	0.297134	15	0.35714285714285715
+154784	Acinetobacter phage AP205	Bacteriophage	0.296064	15	0.35714285714285715
+751585	Coprococcus sp. ART55/1	Bacteria/Archaea	0.255621	15	0.35714285714285715
+2786431	ssRNA phage SRR5466727_2	Bacteriophage	0.243587	15	0.35714285714285715
+2786508	ssRNA phage SRR6960507_10	Bacteriophage	0.210691	15	0.35714285714285715
+2786620	ssRNA phage SRR6960803_4	Bacteriophage	0.210691	15	0.35714285714285715
+2786404	ssRNA phage SRR5466369_1	Bacteriophage	0.209125	15	0.35714285714285715
+239745	uncultured Desulfobulbus sp.	Bacteria/Archaea	0.194026	15	0.35714285714285715
+2786528	ssRNA phage SRR6960509_17	Bacteriophage	0.181711	15	0.35714285714285715
+2786657	ssRNA phage SRR7976300_8	Bacteriophage	0.173096	15	0.35714285714285715
+162156	uncultured Bacteroides sp.	Bacteria/Archaea	0.169388	15	0.35714285714285715
+1763998	Rheinheimera sp. F8	Bacteria/Archaea	0.152449	15	0.35714285714285715
+2786433	ssRNA phage SRR5466727_4	Bacteriophage	0.151948	15	0.35714285714285715
+2593672	Arcobacter sp. FWKO B	Bacteria/Archaea	0.150909	15	0.35714285714285715
+1628156	uncultured Carboxylicivirga sp.	Bacteria/Archaea	0.123191	15	0.35714285714285715
+2786783	ssRNA phage Zoerhiza.1_5	Bacteriophage	0.121402	15	0.35714285714285715
+2763056	Oscillibacter hominis	Bacteria/Archaea	0.115492	15	0.35714285714285715
+2786645	ssRNA phage SRR7976299_5	Bacteriophage	0.115136	15	0.35714285714285715
+673273	uncultured Anaeromusa sp.	Bacteria/Archaea	0.109332	15	0.35714285714285715
+2786748	ssRNA phage SRR7976357_8	Bacteriophage	0.10887	15	0.35714285714285715
+2786521	ssRNA phage SRR6960509_10	Bacteriophage	0.093205	15	0.35714285714285715
+2786011	ssRNA phage Esthiorhiza.1_1	Bacteriophage	0.07989	15	0.35714285714285715
+2786582	ssRNA phage SRR6960799_25	Bacteriophage	0.079107	15	0.35714285714285715
+2786678	ssRNA phage SRR7976310_16	Bacteriophage	0.076757	15	0.35714285714285715
+2986923	Pararhizobium sp. BT-229	Bacteria/Archaea	0.069295	15	0.35714285714285715
+2786475	ssRNA phage SRR5467137_1	Bacteriophage	0.067359	15	0.35714285714285715
+2812896	Leptolyngbya sp. 7M	Bacteria/Archaea	0.066215	15	0.35714285714285715
+2786722	ssRNA phage SRR7976325_7	Bacteriophage	0.065792	15	0.35714285714285715
+2714110	Acinetobacter sp. Marseille-Q1620	Bacteria/Archaea	0.064675	15	0.35714285714285715
+2786540	ssRNA phage SRR6960549_3	Bacteriophage	0.063442	15	0.35714285714285715
+2786017	ssRNA phage Esthiorhiza.1_2	Bacteriophage	0.058743	15	0.35714285714285715
+114054	uncultured Vibrio sp.	Bacteria/Archaea	0.058516	15	0.35714285714285715
+12018	Enterobacteria phage GA	Bacteriophage	0.057176	15	0.35714285714285715
+2786648	ssRNA phage SRR7976299_8	Bacteriophage	0.057176	15	0.35714285714285715
+2785996	ssRNA phage ESE006	Bacteriophage	0.056393	15	0.35714285714285715
+2786767	ssRNA phage Zoerhiza.1_25	Bacteriophage	0.05326	15	0.35714285714285715
+2786685	ssRNA phage SRR7976310_7	Bacteriophage	0.052477	15	0.35714285714285715
+2786398	ssRNA phage SRR5466364_4	Bacteriophage	0.050911	15	0.35714285714285715
+2786465	ssRNA phage SRR5467091_15	Bacteriophage	0.050911	15	0.35714285714285715
+2786520	ssRNA phage SRR6960509_1	Bacteriophage	0.050911	15	0.35714285714285715
+2786124	ssRNA phage Gephyllon.1_24	Bacteriophage	0.050127	15	0.35714285714285715
+1981880	Denitratisoma sp. DHT3	Bacteria/Archaea	0.049276	15	0.35714285714285715
+2995138	Roseateles sp. SL47	Bacteria/Archaea	0.049276	15	0.35714285714285715
+2786672	ssRNA phage SRR7976310_10	Bacteriophage	0.048561	15	0.35714285714285715
+188475	uncultured Holophaga sp.	Bacteria/Archaea	0.047737	15	0.35714285714285715
+2601575	Candidatus Cytomitobacter indipagum	Bacteria/Archaea	0.047737	15	0.35714285714285715
+2786414	ssRNA phage SRR5466725_16	Bacteriophage	0.046994	15	0.35714285714285715
+2786828	ssRNA phage Zoerhiza.4_12	Bacteriophage	0.046994	15	0.35714285714285715
+225298	uncultured Hyphomonas sp.	Bacteria/Archaea	0.046197	15	0.35714285714285715
+2786005	ssRNA phage ESE029	Bacteriophage	0.044645	15	0.35714285714285715
+2786584	ssRNA phage SRR6960799_27	Bacteriophage	0.043078	15	0.35714285714285715
+2786588	ssRNA phage SRR6960799_30	Bacteriophage	0.040728	15	0.35714285714285715
+1882749	Opitutus sp. GAS368	Bacteria/Archaea	0.040037	15	0.35714285714285715
+2995161	Pedobacter sp. SL55	Bacteria/Archaea	0.040037	15	0.35714285714285715
+2786561	ssRNA phage SRR6960797_1	Bacteriophage	0.039162	15	0.35714285714285715
+2786147	ssRNA phage Gephyllon.2_8	Bacteriophage	0.038379	15	0.35714285714285715
+2786746	ssRNA phage SRR7976357_6	Bacteriophage	0.036812	15	0.35714285714285715
+2786730	ssRNA phage SRR7976327_1	Bacteriophage	0.036029	15	0.35714285714285715
+2708053	Romboutsia sp. 13368	Bacteria/Archaea	0.035417	15	0.35714285714285715
+1871021	Lachnoclostridium phocaeense	Bacteria/Archaea	0.033878	15	0.35714285714285715
+2786573	ssRNA phage SRR6960799_17	Bacteriophage	0.033679	15	0.35714285714285715
+1127472	uncultured Marinifilum sp.	Bacteria/Archaea	0.032338	15	0.35714285714285715
+1738647	uncultured Caproiciproducens sp.	Bacteria/Archaea	0.032338	15	0.35714285714285715
+2786566	ssRNA phage SRR6960799_10	Bacteriophage	0.032113	15	0.35714285714285715
+2786534	ssRNA phage SRR6960509_7	Bacteriophage	0.029763	15	0.35714285714285715
+2786571	ssRNA phage SRR6960799_15	Bacteriophage	0.027413	15	0.35714285714285715
+2786717	ssRNA phage SRR7976325_29	Bacteriophage	0.027413	15	0.35714285714285715
+2786496	ssRNA phage SRR6255513_1	Bacteriophage	0.02663	15	0.35714285714285715
+2786401	ssRNA phage SRR5466365_2	Bacteriophage	0.025847	15	0.35714285714285715
+2786468	ssRNA phage SRR5467091_3	Bacteriophage	0.025064	15	0.35714285714285715
+2786490	ssRNA phage SRR6253161_3	Bacteriophage	0.025064	15	0.35714285714285715
+2786802	ssRNA phage Zoerhiza.2_22	Bacteriophage	0.02428	15	0.35714285714285715
+2786289	ssRNA phage Gerhypos.3_16	Bacteriophage	0.021931	15	0.35714285714285715
+2786594	ssRNA phage SRR6960799_36	Bacteriophage	0.021931	15	0.35714285714285715
+2786728	ssRNA phage SRR7976326_4	Bacteriophage	0.021931	15	0.35714285714285715
+767473	Caulobacter phage phiCb5	Bacteriophage	0.021147	15	0.35714285714285715
+1206300	Enterobacteria phage Hgal1	Bacteriophage	0.020364	15	0.35714285714285715
+2786560	ssRNA phage SRR6960551_9	Bacteriophage	0.018798	15	0.35714285714285715
+2786742	ssRNA phage SRR7976357_2	Bacteriophage	0.017231	15	0.35714285714285715
+2785988	ssRNA phage AVE016	Bacteriophage	0.016448	15	0.35714285714285715
+2786448	ssRNA phage SRR5467090_10	Bacteriophage	0.016448	15	0.35714285714285715
+2786038	ssRNA phage Esthiorhiza.2_21	Bacteriophage	0.015665	15	0.35714285714285715
+2786169	ssRNA phage Gephyllon.4_11	Bacteriophage	0.015665	15	0.35714285714285715
+2786193	ssRNA phage Gerhypos.1_12	Bacteriophage	0.015665	15	0.35714285714285715
+138948	Enterovirus A	Virus (automated)	0.003554	15	0.35714285714285715
+1330491	Cosavirus A	Virus (automated)	0.00296	15	0.35714285714285715
+138949	Enterovirus B	Virus (automated)	0.002682	15	0.35714285714285715
+1821750	Cardiovirus B	Virus (automated)	0.002619	15	0.35714285714285715
+2170006	Megrivirus C	Virus (automated)	0.002429	15	0.35714285714285715
+1803956	Parechovirus A	Virus (automated)	0.002328	15	0.35714285714285715
+463676	Rhinovirus C	Virus (automated)	0.001933	15	0.35714285714285715
+147711	Rhinovirus A	Virus (automated)	0.001798	15	0.35714285714285715
+147712	Rhinovirus B	Virus (automated)	0.000581	15	0.35714285714285715
+1431460	Hunnivirus A	Virus (automated)	0.000522	15	0.35714285714285715
+119210	Influenza A virus (H3N2)	Virus (manual, low-read)	0.000337	15	0.35714285714285715
+114727	Influenza A virus (H1N1)	Virus (manual, low-read)	0.000253	15	0.35714285714285715
+11250	Human orthopneumovirus A	Virus (manual, low-read)	0.000211	15	0.35714285714285715
+31631	Human coronavirus OC43	Virus (manual, no-rank)	0.000198	15	0.35714285714285715
+12092	Hepatovirus A	Virus (automated)	0.000185	15	0.35714285714285715
+162145	Human metapneumovirus	Virus (manual, not detected)	0.000147	15	0.35714285714285715
+11886	Rous sarcoma virus	Virus (automated)	8.8e-05	15	0.35714285714285715
+11216	Human parainfluenza virus 3	Virus (manual, low-read)	8.4e-05	15	0.35714285714285715
+93838	Influenza A virus H5N1 (A/goose/Guangdong/1/1996)	Virus (manual, not detected)	1.7e-05	15	0.35714285714285715
+971	Selenomonas ruminantium	Bacteria/Archaea	0.243302	14	0.3333333333333333
+411486	Clostridium sp. M62/1	Bacteria/Archaea	0.080074	13	0.30952380952380953
+1239565	Mamastrovirus 1	Virus (automated)	2.355158	12	0.2857142857142857
+2786389	ssRNA phage SRR5466337_3	Bacteriophage	0.116703	12	0.2857142857142857
+28199	Arcobacter nitrofigilis	Bacteria/Archaea	0.058516	12	0.2857142857142857
+69823	Selenomonas sputigena	Bacteria/Archaea	0.056976	12	0.2857142857142857
+2697049	SARS-CoV-2	Virus (manual, no-rank)	0.003684	12	0.2857142857142857
+1821751	Cardiovirus C	Virus (automated)	0.001284	12	0.2857142857142857
+130309	Human mastadenovirus F	Virus (automated)	0.000577	12	0.2857142857142857
+11864	Avian leukosis virus	Virus (automated)	0.000383	12	0.2857142857142857
+138951	Enterovirus D	Virus (automated)	0.000194	12	0.2857142857142857
+960	Bacteriovorax stolpii	Bacteria/Archaea	0.485065	11	0.2619047619047619
+1264898	Ferret coronavirus	Virus (automated)	0.000278	11	0.2619047619047619
+80867	Paracidovorax avenae	Bacteria/Archaea	0.060056	10	0.23809523809523808
+694003	Betacoronavirus 1	Virus (automated)	0.000632	10	0.23809523809523808
+11137	Human coronavirus 229E	Virus (automated)	0.000328	10	0.23809523809523808
+1459003	Pteropine orthoreovirus	Virus (automated)	9.7e-05	10	0.23809523809523808
+252130	Uruburuella suis	Bacteria/Archaea	2.856493	9	0.21428571428571427
+165179	Segatella copri	Bacteria/Archaea	2.570074	9	0.21428571428571427
+1938604	Aquaspirillum sp. LM1	Bacteria/Archaea	1.461354	9	0.21428571428571427
+188913	Cetobacterium somerae	Bacteria/Archaea	1.447495	9	0.21428571428571427
+2763672	Simiaoa sunii	Bacteria/Archaea	1.211892	9	0.21428571428571427
+285729	Fusobacterium canifelinum	Bacteria/Archaea	1.194953	9	0.21428571428571427
+33039	[Ruminococcus] torques	Bacteria/Archaea	1.054824	9	0.21428571428571427
+477666	Bacteroides graminisolvens	Bacteria/Archaea	0.800742	9	0.21428571428571427
+3067275	Psychrobacter sp. M13	Bacteria/Archaea	0.714508	9	0.21428571428571427
+1160721	Ruminococcus bicirculans	Bacteria/Archaea	0.526642	9	0.21428571428571427
+2746225	Flavobacterium sp. K5-23	Bacteria/Archaea	0.483525	9	0.21428571428571427
+2763670	Wujia chipingensis	Bacteria/Archaea	0.463506	9	0.21428571428571427
+1161942	Ruminococcus champanellensis	Bacteria/Archaea	0.428089	9	0.21428571428571427
+2892442	Pseudomonas sp. CIP-10	Bacteria/Archaea	0.426549	9	0.21428571428571427
+1261635	Roseburia sp. 831b	Bacteria/Archaea	0.363414	9	0.21428571428571427
+11983	Norwalk virus	Virus (automated)	0.350044	9	0.21428571428571427
+33038	Mediterraneibacter gnavus	Bacteria/Archaea	0.326456	9	0.21428571428571427
+754516	Mycoplasma miroungirhinis	Bacteria/Archaea	0.317217	9	0.21428571428571427
+1332188	Candidatus Saccharimonas aalborgensis	Bacteria/Archaea	0.27102	9	0.21428571428571427
+418702	Azonexus hydrophilus	Bacteria/Archaea	0.246382	9	0.21428571428571427
+1239570	Mamastrovirus 6	Virus (automated)	0.243584	9	0.21428571428571427
+833	Fibrobacter succinogenes	Bacteria/Archaea	0.240223	9	0.21428571428571427
+712357	Leptotrichia sp. oral taxon 212	Bacteria/Archaea	0.235603	9	0.21428571428571427
+988779	Candidatus Megaera polyxenophila	Bacteria/Archaea	0.227903	9	0.21428571428571427
+185300	Paludibacter propionicigenes	Bacteria/Archaea	0.221744	9	0.21428571428571427
+215591	Gracilinema caldarium	Bacteria/Archaea	0.206345	9	0.21428571428571427
+2665156	Candidatus Mycosynbacter amalyticus	Bacteria/Archaea	0.204805	9	0.21428571428571427
+28202	Peredibacter starrii	Bacteria/Archaea	0.204805	9	0.21428571428571427
+1355330	Flavobacterium faecale	Bacteria/Archaea	0.198646	9	0.21428571428571427
+851	Fusobacterium nucleatum	Bacteria/Archaea	0.198646	9	0.21428571428571427
+138118	Quatrionicoccus australiensis	Bacteria/Archaea	0.190946	9	0.21428571428571427
+2914710	Sphaerotilus microaerophilus	Bacteria/Archaea	0.183247	9	0.21428571428571427
+3054208	Selenobaculum gbiensis	Bacteria/Archaea	0.177087	9	0.21428571428571427
+76259	Ferribacterium limneticum	Bacteria/Archaea	0.175547	9	0.21428571428571427
+447588	Dechloromonas sp. A34	Bacteria/Archaea	0.167848	9	0.21428571428571427
+1849015	Arcobacter acticola	Bacteria/Archaea	0.166308	9	0.21428571428571427
+281362	Dechloromonas denitrificans	Bacteria/Archaea	0.163228	9	0.21428571428571427
+3070656	Paludicola sp. MB14-C6	Bacteria/Archaea	0.158609	9	0.21428571428571427
+712362	Leptotrichia sp. oral taxon 221	Bacteria/Archaea	0.158609	9	0.21428571428571427
+2303331	Solimonas sp. K1W22B-7	Bacteria/Archaea	0.157069	9	0.21428571428571427
+89014	Blautia luti	Bacteria/Archaea	0.157069	9	0.21428571428571427
+157592	Sterolibacterium denitrificans	Bacteria/Archaea	0.155529	9	0.21428571428571427
+3064892	Psychrobacter sp. van23A	Bacteria/Archaea	0.155529	9	0.21428571428571427
+477697	Streptomyces sp. T12	Bacteria/Archaea	0.155529	9	0.21428571428571427
+303	Pseudomonas putida	Bacteria/Archaea	0.152449	9	0.21428571428571427
+33035	Blautia producta	Bacteria/Archaea	0.149369	9	0.21428571428571427
+2714358	Pusillibacter faecalis	Bacteria/Archaea	0.147829	9	0.21428571428571427
+2779518	Blautia liquoris	Bacteria/Archaea	0.147829	9	0.21428571428571427
+913109	Arcobacter ellisii	Bacteria/Archaea	0.14475	9	0.21428571428571427
+894	Desulfobulbus propionicus	Bacteria/Archaea	0.14013	9	0.21428571428571427
+185007	Pseudobutyrivibrio xylanivorans	Bacteria/Archaea	0.13859	9	0.21428571428571427
+2479767	Blautia sp. SC05B48	Bacteria/Archaea	0.13397	9	0.21428571428571427
+34085	Riemerella anatipestifer	Bacteria/Archaea	0.129351	9	0.21428571428571427
+1264	Ruminococcus albus	Bacteria/Archaea	0.127811	9	0.21428571428571427
+748247	Azoarcus sp. KH32C	Bacteria/Archaea	0.127811	9	0.21428571428571427
+3079303	Intestinibacillus sp. NTUH-41-i26	Bacteria/Archaea	0.126271	9	0.21428571428571427
+90239	Moraxella canis	Bacteria/Archaea	0.123191	9	0.21428571428571427
+2350	Haliscomenobacter hydrossis	Bacteria/Archaea	0.121651	9	0.21428571428571427
+116085	Coprococcus catus	Bacteria/Archaea	0.120111	9	0.21428571428571427
+1278212	Arcobacter suis	Bacteria/Archaea	0.115492	9	0.21428571428571427
+191579	Fluviicola taffensis	Bacteria/Archaea	0.107792	9	0.21428571428571427
+3036359	Aurantibacillus circumpalustris	Bacteria/Archaea	0.106252	9	0.21428571428571427
+1796652	Turicimonas muris	Bacteria/Archaea	0.098553	9	0.21428571428571427
+1842540	Methyloversatilis sp. RAC08	Bacteria/Archaea	0.098553	9	0.21428571428571427
+889453	Alkalitalea saponilacus	Bacteria/Archaea	0.098553	9	0.21428571428571427
+2949635	Xiashengella succiniciproducens	Bacteria/Archaea	0.095473	9	0.21428571428571427
+317	Pseudomonas syringae	Bacteria/Archaea	0.095473	9	0.21428571428571427
+1115758	Romboutsia ilealis	Bacteria/Archaea	0.093933	9	0.21428571428571427
+2010828	Aquipluma nitroreducens	Bacteria/Archaea	0.090853	9	0.21428571428571427
+1239573	Mamastrovirus 9	Virus (automated)	0.088826	9	0.21428571428571427
+1759059	Candidatus Viadribacter manganicus	Bacteria/Archaea	0.086234	9	0.21428571428571427
+959	Bdellovibrio bacteriovorus	Bacteria/Archaea	0.086234	9	0.21428571428571427
+2518605	Segatella hominis	Bacteria/Archaea	0.084694	9	0.21428571428571427
+46228	[Ruminococcus] lactaris	Bacteria/Archaea	0.084694	9	0.21428571428571427
+3036128	Diaphorobacter limosus	Bacteria/Archaea	0.081614	9	0.21428571428571427
+366522	Sulfurospirillum cavolei	Bacteria/Archaea	0.081614	9	0.21428571428571427
+410072	Coprococcus comes	Bacteria/Archaea	0.081614	9	0.21428571428571427
+45851	Butyrivibrio crossotus	Bacteria/Archaea	0.081614	9	0.21428571428571427
+29543	Pelobacter propionicus	Bacteria/Archaea	0.080074	9	0.21428571428571427
+1042156	Clostridium sp. SY8519	Bacteria/Archaea	0.078534	9	0.21428571428571427
+1436290	Candidatus Symbiobacter mobilis	Bacteria/Archaea	0.078534	9	0.21428571428571427
+1987723	Cellvibrio sp. PSBB006	Bacteria/Archaea	0.078534	9	0.21428571428571427
+2875962	Candidatus Sulfidibacterium hydrothermale	Bacteria/Archaea	0.078534	9	0.21428571428571427
+2133944	Pseudoprevotella muciniphila	Bacteria/Archaea	0.076994	9	0.21428571428571427
+2610895	Flintibacter sp. KGMB00164	Bacteria/Archaea	0.076994	9	0.21428571428571427
+2966552	Thermocaproicibacter melissae	Bacteria/Archaea	0.075455	9	0.21428571428571427
+655307	Neisseria sp. KEM232	Bacteria/Archaea	0.075455	9	0.21428571428571427
+575378	Sediminibacterium sp. TEGAF015	Bacteria/Archaea	0.073915	9	0.21428571428571427
+2711231	Roseimicrobium sp. ORNL1	Bacteria/Archaea	0.072375	9	0.21428571428571427
+712361	Leptotrichia sp. oral taxon 218	Bacteria/Archaea	0.072375	9	0.21428571428571427
+88058	Treponema primitia	Bacteria/Archaea	0.072375	9	0.21428571428571427
+1682490	Ferrigenium kumadai	Bacteria/Archaea	0.069295	9	0.21428571428571427
+1796620	Acutalibacter muris	Bacteria/Archaea	0.069295	9	0.21428571428571427
+2029117	Vandammella animalimorsus	Bacteria/Archaea	0.066215	9	0.21428571428571427
+2066483	Candidatus Chromulinivorax destructor	Bacteria/Archaea	0.066215	9	0.21428571428571427
+45254	Dysgonomonas capnocytophagoides	Bacteria/Archaea	0.066215	9	0.21428571428571427
+3079302	Agathobaculum sp. NTUH-O15-33	Bacteria/Archaea	0.064675	9	0.21428571428571427
+1502	Clostridium perfringens	Bacteria/Archaea	0.061596	9	0.21428571428571427
+2303332	Cellvibrio sp. KY-GH-1	Bacteria/Archaea	0.061596	9	0.21428571428571427
+43263	Pseudomonas alcaligenes	Bacteria/Archaea	0.061596	9	0.21428571428571427
+538949	uncultured Alistipes sp.	Bacteria/Archaea	0.061596	9	0.21428571428571427
+2707174	Enterobacter sp. T2	Bacteria/Archaea	0.060056	9	0.21428571428571427
+2713414	Chryseobacterium sp. POL2	Bacteria/Archaea	0.060056	9	0.21428571428571427
+607712	Neisseria shayeganii	Bacteria/Archaea	0.060056	9	0.21428571428571427
+3135646	Niveibacterium sp. SC-1	Bacteria/Archaea	0.056976	9	0.21428571428571427
+91604	Candidatus Paracaedibacter acanthamoebae	Bacteria/Archaea	0.056976	9	0.21428571428571427
+1678129	Limnohabitans sp. 103DPR2	Bacteria/Archaea	0.055436	9	0.21428571428571427
+2978473	Roseateles amylovorans	Bacteria/Archaea	0.055436	9	0.21428571428571427
+399497	Tessaracoccus flavescens	Bacteria/Archaea	0.055436	9	0.21428571428571427
+138074	Serratia symbiotica	Bacteria/Archaea	0.053896	9	0.21428571428571427
+1658672	Ottowia sp. oral taxon 894	Bacteria/Archaea	0.053896	9	0.21428571428571427
+2559074	Pseudomonas sp. S150	Bacteria/Archaea	0.053896	9	0.21428571428571427
+2686094	Terricaulis silvestris	Bacteria/Archaea	0.053896	9	0.21428571428571427
+2763669	Qiania dongpingensis	Bacteria/Archaea	0.053896	9	0.21428571428571427
+3070215	Kineothrix sp. MB12-C1	Bacteria/Archaea	0.053896	9	0.21428571428571427
+2698684	Sinimarinibacterium sp. NLF-5-8	Bacteria/Archaea	0.052356	9	0.21428571428571427
+2904119	Moraxella haemolytica	Bacteria/Archaea	0.052356	9	0.21428571428571427
+2913621	Prevotella sp. E9-3	Bacteria/Archaea	0.052356	9	0.21428571428571427
+294	Pseudomonas fluorescens	Bacteria/Archaea	0.052356	9	0.21428571428571427
+2738125	Pseudomonas hefeiensis	Bacteria/Archaea	0.050816	9	0.21428571428571427
+29347	[Clostridium] scindens	Bacteria/Archaea	0.050816	9	0.21428571428571427
+2976818	Cloacibacterium sp. TD35	Bacteria/Archaea	0.050816	9	0.21428571428571427
+2999116	Oceanirhabdus sp. W0125-5	Bacteria/Archaea	0.050816	9	0.21428571428571427
+52227	Prevotella dentalis	Bacteria/Archaea	0.050816	9	0.21428571428571427
+2602070	Granulicella sp. WH15	Bacteria/Archaea	0.047737	9	0.21428571428571427
+2714923	Acidovorax sp. HDW3	Bacteria/Archaea	0.047737	9	0.21428571428571427
+57480	Microvirgula aerodenitrificans	Bacteria/Archaea	0.047737	9	0.21428571428571427
+673862	Candidatus Babela massiliensis	Bacteria/Archaea	0.047737	9	0.21428571428571427
+1054033	Arcobacter venerupis	Bacteria/Archaea	0.046197	9	0.21428571428571427
+2691580	Prevotella sp. Rep29	Bacteria/Archaea	0.046197	9	0.21428571428571427
+729	Haemophilus parainfluenzae	Bacteria/Archaea	0.046197	9	0.21428571428571427
+1280	Staphylococcus aureus	Bacteria/Archaea	0.044657	9	0.21428571428571427
+1315211	Arcobacter aquimarinus	Bacteria/Archaea	0.044657	9	0.21428571428571427
+2086585	Maliibacterium massiliense	Bacteria/Archaea	0.044657	9	0.21428571428571427
+3045146	Petroclostridium sp. X23	Bacteria/Archaea	0.044657	9	0.21428571428571427
+3070999	Tissierella sp. MB52-C2	Bacteria/Archaea	0.044657	9	0.21428571428571427
+53443	Blautia hydrogenotrophica	Bacteria/Archaea	0.044657	9	0.21428571428571427
+66219	Lachnoclostridium phytofermentans	Bacteria/Archaea	0.044657	9	0.21428571428571427
+163	Treponema bryantii	Bacteria/Archaea	0.043117	9	0.21428571428571427
+1785996	Leptotrichia sp. oral taxon 847	Bacteria/Archaea	0.043117	9	0.21428571428571427
+2109558	Halobacteriovorax sp. BALOs_7	Bacteria/Archaea	0.043117	9	0.21428571428571427
+2604158	Nitratidesulfovibrio liaohensis	Bacteria/Archaea	0.043117	9	0.21428571428571427
+2741720	Rhodoferax sp. BAB1	Bacteria/Archaea	0.043117	9	0.21428571428571427
+2980100	Silvimonas soli	Bacteria/Archaea	0.041577	9	0.21428571428571427
+3142262	Thauera sp. JM12B12	Bacteria/Archaea	0.041577	9	0.21428571428571427
+1249553	Bacterioplanes sanyensis	Bacteria/Archaea	0.040037	9	0.21428571428571427
+2545632	Rheinheimera sp. D18	Bacteria/Archaea	0.040037	9	0.21428571428571427
+2929492	Faecalibacterium sp. I3-3-33	Bacteria/Archaea	0.040037	9	0.21428571428571427
+879	Megalodesulfovibrio gigas	Bacteria/Archaea	0.040037	9	0.21428571428571427
+1882918	Pajaroellobacter abortibovis	Bacteria/Archaea	0.038497	9	0.21428571428571427
+2290923	Crenobacter cavernae	Bacteria/Archaea	0.038497	9	0.21428571428571427
+1302376	Candidatus Pseudomonas adelgestsugas	Bacteria/Archaea	0.036957	9	0.21428571428571427
+214851	Subdoligranulum variabile	Bacteria/Archaea	0.036957	9	0.21428571428571427
+2654218	Dechloromonas sp. TW-R-39-2	Bacteria/Archaea	0.036957	9	0.21428571428571427
+3030017	Caproiciproducens sp. CPB-2	Bacteria/Archaea	0.036957	9	0.21428571428571427
+3081231	Ottowia sp. SB7-C50	Bacteria/Archaea	0.036957	9	0.21428571428571427
+364317	Verminephrobacter eiseniae	Bacteria/Archaea	0.036957	9	0.21428571428571427
+1577791	Candidatus Methanoplasma termitum	Bacteria/Archaea	0.035417	9	0.21428571428571427
+1806508	Candidatus Promineifilum breve	Bacteria/Archaea	0.035417	9	0.21428571428571427
+2004644	Acinetobacter sp. WCHA45	Bacteria/Archaea	0.035417	9	0.21428571428571427
+2033033	Aeromonas sp. CU5	Bacteria/Archaea	0.035417	9	0.21428571428571427
+2767188	Amniculibacterium sp. G2-70	Bacteria/Archaea	0.035417	9	0.21428571428571427
+28127	Hoylesella buccalis	Bacteria/Archaea	0.035417	9	0.21428571428571427
+2929493	Faecalibacterium sp. I3-3-89	Bacteria/Archaea	0.035417	9	0.21428571428571427
+2984843	Methylobacterium sp. FF17	Bacteria/Archaea	0.035417	9	0.21428571428571427
+1009682	Jeongeupia sp. HS-3	Bacteria/Archaea	0.033878	9	0.21428571428571427
+1522	[Clostridium] innocuum	Bacteria/Archaea	0.033878	9	0.21428571428571427
+1796921	Ereboglobus luteus	Bacteria/Archaea	0.033878	9	0.21428571428571427
+2763667	Wansuia hejianensis	Bacteria/Archaea	0.033878	9	0.21428571428571427
+2994078	Caproicibacterium sp. BJN0003	Bacteria/Archaea	0.033878	9	0.21428571428571427
+3044166	Bdellovibrio sp. 22V	Bacteria/Archaea	0.033878	9	0.21428571428571427
+321327	Synechococcus sp. JA-3-3Ab	Bacteria/Archaea	0.033878	9	0.21428571428571427
+336810	Candidatus Karelsulcia muelleri	Bacteria/Archaea	0.033878	9	0.21428571428571427
+56	Sorangium cellulosum	Bacteria/Archaea	0.033878	9	0.21428571428571427
+76857	Fusobacterium polymorphum	Bacteria/Archaea	0.033878	9	0.21428571428571427
+1261634	Roseburia sp. 499	Bacteria/Archaea	0.032338	9	0.21428571428571427
+2109687	Oscillibacter sp. PEA192	Bacteria/Archaea	0.032338	9	0.21428571428571427
+2918914	Chakrabartyella piscis	Bacteria/Archaea	0.032338	9	0.21428571428571427
+2929488	Faecalibacterium sp. IP-1-18	Bacteria/Archaea	0.032338	9	0.21428571428571427
+3059030	Stomatobaculum sp. F0698	Bacteria/Archaea	0.032338	9	0.21428571428571427
+587753	Pseudomonas chlororaphis	Bacteria/Archaea	0.030798	9	0.21428571428571427
+91844	Candidatus Portiera aleyrodidarum	Bacteria/Archaea	0.030798	9	0.21428571428571427
+946333	Piscinibacter gummiphilus	Bacteria/Archaea	0.030798	9	0.21428571428571427
+1330524	Salivirus A	Virus (automated)	0.02576	9	0.21428571428571427
+2021738	Hudisavirus sp.	Virus (automated)	0.020152	9	0.21428571428571427
+693997	Alphacoronavirus 1	Virus (automated)	0.007832	9	0.21428571428571427
+1673646	Picobirnavirus Equ3	Virus (automated)	0.005015	9	0.21428571428571427
+1239566	Mamastrovirus 2	Virus (automated)	0.004648	9	0.21428571428571427
+694009	Severe acute respiratory syndrome-related coronavirus	Virus (automated)	0.003933	9	0.21428571428571427
+1755588	Sicinivirus A	Virus (automated)	0.003057	9	0.21428571428571427
+694014	Avian coronavirus	Virus (automated)	0.002623	9	0.21428571428571427
+1903318	Primate norovirus	Virus (automated)	0.002459	9	0.21428571428571427
+2560598	Mischivirus D	Virus (automated)	0.002194	9	0.21428571428571427
+1902501	Rosavirus B	Virus (automated)	0.001453	9	0.21428571428571427
+194965	Kobuvirus bejaponia	Virus (automated)	0.001099	9	0.21428571428571427
+1239567	Mamastrovirus 3	Virus (automated)	0.000779	9	0.21428571428571427
+1239577	Mamastrovirus 13	Virus (automated)	0.000775	9	0.21428571428571427
+1595998	Human smacovirus 1	Virus (automated)	0.000653	9	0.21428571428571427
+1330070	Melegrivirus A	Virus (automated)	0.000539	9	0.21428571428571427
+2560615	Nordland virus	Virus (automated)	0.0004	9	0.21428571428571427
+1239574	Mamastrovirus 10	Virus (automated)	0.000265	9	0.21428571428571427
+2003651	Cosavirus E	Virus (automated)	0.00024	9	0.21428571428571427
+70796	Tremovirus A	Virus (automated)	0.000189	9	0.21428571428571427
+889389	Calicivirus chicken/V0021/Bayern/2004	Virus (automated)	0.000189	9	0.21428571428571427
+2560343	Bavaria virus	Virus (automated)	0.000181	9	0.21428571428571427
+3059782	Blattambidensovirus incertum1	Virus (automated)	0.000156	9	0.21428571428571427
+1659771	Sakobuvirus A	Virus (automated)	0.000143	9	0.21428571428571427
+2955465	Influenza B virus	Virus (manual, low-read)	0.000126	9	0.21428571428571427
+1985983	Avisivirus C	Virus (automated)	0.000118	9	0.21428571428571427
+2170114	Human associated porprismacovirus 2	Virus (automated)	0.000109	9	0.21428571428571427
+1330068	Cadicivirus A	Virus (automated)	0.000105	9	0.21428571428571427
+1254425	Porcine astrovirus 3	Virus (automated)	9.3e-05	9	0.21428571428571427
+167964	Anaerolinea thermophila	Bacteria/Archaea	0.226364	8	0.19047619047619047
+1328	Streptococcus anginosus	Bacteria/Archaea	0.069295	8	0.19047619047619047
+1837217	Goat torovirus	Virus (automated)	0.000484	7	0.16666666666666666
+uruburuella suis	Uruburuella suis	Bacteria/Archaea	2.856493	6	0.14285714285714285
+segatella copri	Segatella copri	Bacteria/Archaea	2.570074	6	0.14285714285714285
+28198	Aliarcobacter cryaerophilus	Bacteria/Archaea	2.197421	6	0.14285714285714285
+aquaspirillum sp lm1	Aquaspirillum sp. LM1	Bacteria/Archaea	1.461354	6	0.14285714285714285
+uncultured acetobacteroides sp	uncultured Acetobacteroides sp.	Bacteria/Archaea	1.458274	6	0.14285714285714285
+cetobacterium somerae	Cetobacterium somerae	Bacteria/Archaea	1.447495	6	0.14285714285714285
+ssrna phage srr6960799 40	ssRNA phage SRR6960799_40	Bacteriophage	1.272763	6	0.14285714285714285
+fusobacterium varium	Fusobacterium varium	Bacteria/Archaea	1.255009	6	0.14285714285714285
+simiaoa sunii	Simiaoa sunii	Bacteria/Archaea	1.211892	6	0.14285714285714285
+uncultured propionivibrio sp	uncultured Propionivibrio sp.	Bacteria/Archaea	1.174935	6	0.14285714285714285
+ruminococcus torques	[Ruminococcus] torques	Bacteria/Archaea	1.054824	6	0.14285714285714285
+blautia obeum	Blautia obeum	Bacteria/Archaea	0.987068	6	0.14285714285714285
+uncultured ilyobacter sp	uncultured Ilyobacter sp.	Bacteria/Archaea	0.940872	6	0.14285714285714285
+ssrna phage srr6960803 7	ssRNA phage SRR6960803_7	Bacteriophage	0.925005	6	0.14285714285714285
+psychrobacter sp m13	Psychrobacter sp. M13	Bacteria/Archaea	0.714508	6	0.14285714285714285
+1501662	Streptococcus parasuis	Bacteria/Archaea	0.69295	6	0.14285714285714285
+fusobacterium necrophorum	Fusobacterium necrophorum	Bacteria/Archaea	0.606716	6	0.14285714285714285
+uncultured macellibacteroides sp	uncultured Macellibacteroides sp.	Bacteria/Archaea	0.589777	6	0.14285714285714285
+halomonas sp js92 sw72	Halomonas sp. JS92-SW72	Bacteria/Archaea	0.5482	6	0.14285714285714285
+ruminococcus bicirculans	Ruminococcus bicirculans	Bacteria/Archaea	0.526642	6	0.14285714285714285
+ssrna phage srr6049586 2	ssRNA phage SRR6049586_2	Bacteriophage	0.519287	6	0.14285714285714285
+uncultured tolumonas sp	uncultured Tolumonas sp.	Bacteria/Archaea	0.494304	6	0.14285714285714285
+bacteriovorax stolpii	Bacteriovorax stolpii	Bacteria/Archaea	0.485065	6	0.14285714285714285
+flavobacterium sp k5 23	Flavobacterium sp. K5-23	Bacteria/Archaea	0.483525	6	0.14285714285714285
+wujia chipingensis	Wujia chipingensis	Bacteria/Archaea	0.463506	6	0.14285714285714285
+ssrna phage srr7976357 7	ssRNA phage SRR7976357_7	Bacteriophage	0.439397	6	0.14285714285714285
+ruminococcus champanellensis	Ruminococcus champanellensis	Bacteria/Archaea	0.428089	6	0.14285714285714285
+pseudomonas sp cip 10	Pseudomonas sp. CIP-10	Bacteria/Archaea	0.426549	6	0.14285714285714285
+cloacibacterium caeni	Cloacibacterium caeni	Bacteria/Archaea	0.391132	6	0.14285714285714285
+fusobacterium gonidiaformans	Fusobacterium gonidiaformans	Bacteria/Archaea	0.374193	6	0.14285714285714285
+ssrna phage srr7976300 2	ssRNA phage SRR7976300_2	Bacteriophage	0.371255	6	0.14285714285714285
+roseburia sp 831b	Roseburia sp. 831b	Bacteria/Archaea	0.363414	6	0.14285714285714285
+ssrna phage srr5466727 7	ssRNA phage SRR5466727_7	Bacteriophage	0.347758	6	0.14285714285714285
+pseudomonas simiae	Pseudomonas simiae	Bacteria/Archaea	0.334156	6	0.14285714285714285
+mediterraneibacter gnavus	Mediterraneibacter gnavus	Bacteria/Archaea	0.326456	6	0.14285714285714285
+mycoplasma miroungirhinis	Mycoplasma miroungirhinis	Bacteria/Archaea	0.317217	6	0.14285714285714285
+thauera sp k11	Thauera sp. K11	Bacteria/Archaea	0.307978	6	0.14285714285714285
+acinetobacter phage ap205	Acinetobacter phage AP205	Bacteriophage	0.296064	6	0.14285714285714285
+eubacterium ventriosum	Eubacterium ventriosum	Bacteria/Archaea	0.292579	6	0.14285714285714285
+1583098	Fusobacterium hwasookii	Bacteria/Archaea	0.287959	6	0.14285714285714285
+candidatus saccharimonas aalborgensis	Candidatus Saccharimonas aalborgensis	Bacteria/Archaea	0.27102	6	0.14285714285714285
+coprococcus sp art55 1	Coprococcus sp. ART55/1	Bacteria/Archaea	0.255621	6	0.14285714285714285
+34062	Moraxella osloensis	Bacteria/Archaea	0.247922	6	0.14285714285714285
+moraxella osloensis	Moraxella osloensis	Bacteria/Archaea	0.247922	6	0.14285714285714285
+ssrna phage srr5466727 2	ssRNA phage SRR5466727_2	Bacteriophage	0.243587	6	0.14285714285714285
+selenomonas ruminantium	Selenomonas ruminantium	Bacteria/Archaea	0.243302	6	0.14285714285714285
+leptotrichia sp oral taxon 212	Leptotrichia sp. oral taxon 212	Bacteria/Archaea	0.235603	6	0.14285714285714285
+candidatus megaera polyxenophila	Candidatus Megaera polyxenophila	Bacteria/Archaea	0.227903	6	0.14285714285714285
+blautia wexlerae	Blautia wexlerae	Bacteria/Archaea	0.224824	6	0.14285714285714285
+paludibacter propionicigenes	Paludibacter propionicigenes	Bacteria/Archaea	0.221744	6	0.14285714285714285
+ssrna phage srr6960507 10	ssRNA phage SRR6960507_10	Bacteriophage	0.210691	6	0.14285714285714285
+ssrna phage srr6960803 4	ssRNA phage SRR6960803_4	Bacteriophage	0.210691	6	0.14285714285714285
+ssrna phage srr5466369 1	ssRNA phage SRR5466369_1	Bacteriophage	0.209125	6	0.14285714285714285
+candidatus mycosynbacter amalyticus	Candidatus Mycosynbacter amalyticus	Bacteria/Archaea	0.204805	6	0.14285714285714285
+uncultured desulfobulbus sp	uncultured Desulfobulbus sp.	Bacteria/Archaea	0.194026	6	0.14285714285714285
+573	Klebsiella pneumoniae	Bacteria/Archaea	0.192486	6	0.14285714285714285
+quatrionicoccus australiensis	Quatrionicoccus australiensis	Bacteria/Archaea	0.190946	6	0.14285714285714285
+ssrna phage srr6960509 17	ssRNA phage SRR6960509_17	Bacteriophage	0.181711	6	0.14285714285714285
+selenobaculum gbiensis	Selenobaculum gbiensis	Bacteria/Archaea	0.177087	6	0.14285714285714285
+ferribacterium limneticum	Ferribacterium limneticum	Bacteria/Archaea	0.175547	6	0.14285714285714285
+azospira restricta	Azospira restricta	Bacteria/Archaea	0.174007	6	0.14285714285714285
+ssrna phage srr7976300 8	ssRNA phage SRR7976300_8	Bacteriophage	0.173096	6	0.14285714285714285
+uncultured bacteroides sp	uncultured Bacteroides sp.	Bacteria/Archaea	0.169388	6	0.14285714285714285
+dechloromonas sp a34	Dechloromonas sp. A34	Bacteria/Archaea	0.167848	6	0.14285714285714285
+arcobacter acticola	Arcobacter acticola	Bacteria/Archaea	0.166308	6	0.14285714285714285
+dechloromonas denitrificans	Dechloromonas denitrificans	Bacteria/Archaea	0.163228	6	0.14285714285714285
+leptotrichia sp oral taxon 221	Leptotrichia sp. oral taxon 221	Bacteria/Archaea	0.158609	6	0.14285714285714285
+paludicola sp mb14 c6	Paludicola sp. MB14-C6	Bacteria/Archaea	0.158609	6	0.14285714285714285
+blautia luti	Blautia luti	Bacteria/Archaea	0.157069	6	0.14285714285714285
+solimonas sp k1w22b 7	Solimonas sp. K1W22B-7	Bacteria/Archaea	0.157069	6	0.14285714285714285
+psychrobacter sp van23a	Psychrobacter sp. van23A	Bacteria/Archaea	0.155529	6	0.14285714285714285
+streptomyces sp t12	Streptomyces sp. T12	Bacteria/Archaea	0.155529	6	0.14285714285714285
+pseudomonas putida	Pseudomonas putida	Bacteria/Archaea	0.152449	6	0.14285714285714285
+rheinheimera sp f8	Rheinheimera sp. F8	Bacteria/Archaea	0.152449	6	0.14285714285714285
+ssrna phage srr5466727 4	ssRNA phage SRR5466727_4	Bacteriophage	0.151948	6	0.14285714285714285
+arcobacter sp fwko b	Arcobacter sp. FWKO B	Bacteria/Archaea	0.150909	6	0.14285714285714285
+ruminococcus bovis	Ruminococcus bovis	Bacteria/Archaea	0.150909	6	0.14285714285714285
+blautia producta	Blautia producta	Bacteria/Archaea	0.149369	6	0.14285714285714285
+blautia liquoris	Blautia liquoris	Bacteria/Archaea	0.147829	6	0.14285714285714285
+pusillibacter faecalis	Pusillibacter faecalis	Bacteria/Archaea	0.147829	6	0.14285714285714285
+arcobacter ellisii	Arcobacter ellisii	Bacteria/Archaea	0.14475	6	0.14285714285714285
+pseudobutyrivibrio xylanivorans	Pseudobutyrivibrio xylanivorans	Bacteria/Archaea	0.13859	6	0.14285714285714285
+88431	Dorea longicatena	Bacteria/Archaea	0.13705	6	0.14285714285714285
+dorea longicatena	Dorea longicatena	Bacteria/Archaea	0.13705	6	0.14285714285714285
+blautia sp sc05b48	Blautia sp. SC05B48	Bacteria/Archaea	0.13397	6	0.14285714285714285
+riemerella anatipestifer	Riemerella anatipestifer	Bacteria/Archaea	0.129351	6	0.14285714285714285
+azoarcus sp kh32c	Azoarcus sp. KH32C	Bacteria/Archaea	0.127811	6	0.14285714285714285
+ruminococcus albus	Ruminococcus albus	Bacteria/Archaea	0.127811	6	0.14285714285714285
+intestinibacillus sp ntuh 41 i26	Intestinibacillus sp. NTUH-41-i26	Bacteria/Archaea	0.126271	6	0.14285714285714285
+uncultured carboxylicivirga sp	uncultured Carboxylicivirga sp.	Bacteria/Archaea	0.123191	6	0.14285714285714285
+haliscomenobacter hydrossis	Haliscomenobacter hydrossis	Bacteria/Archaea	0.121651	6	0.14285714285714285
+ssrna phage zoerhiza 1 5	ssRNA phage Zoerhiza.1_5	Bacteriophage	0.121402	6	0.14285714285714285
+bacillus cereus	Bacillus cereus	Bacteria/Archaea	0.120111	6	0.14285714285714285
+coprococcus catus	Coprococcus catus	Bacteria/Archaea	0.120111	6	0.14285714285714285
+ssrna phage srr5466337 3	ssRNA phage SRR5466337_3	Bacteriophage	0.116703	6	0.14285714285714285
+arcobacter suis	Arcobacter suis	Bacteria/Archaea	0.115492	6	0.14285714285714285
+pseudomonas fragi	Pseudomonas fragi	Bacteria/Archaea	0.115492	6	0.14285714285714285
+ssrna phage srr7976299 5	ssRNA phage SRR7976299_5	Bacteriophage	0.115136	6	0.14285714285714285
+xanthomonas albilineans	Xanthomonas albilineans	Bacteria/Archaea	0.113952	6	0.14285714285714285
+uncultured anaeromusa sp	uncultured Anaeromusa sp.	Bacteria/Archaea	0.109332	6	0.14285714285714285
+ssrna phage srr7976357 8	ssRNA phage SRR7976357_8	Bacteriophage	0.10887	6	0.14285714285714285
+fluviicola taffensis	Fluviicola taffensis	Bacteria/Archaea	0.107792	6	0.14285714285714285
+alkalitalea saponilacus	Alkalitalea saponilacus	Bacteria/Archaea	0.098553	6	0.14285714285714285
+methyloversatilis sp rac08	Methyloversatilis sp. RAC08	Bacteria/Archaea	0.098553	6	0.14285714285714285
+pseudomonas syringae	Pseudomonas syringae	Bacteria/Archaea	0.095473	6	0.14285714285714285
+xiashengella succiniciproducens	Xiashengella succiniciproducens	Bacteria/Archaea	0.095473	6	0.14285714285714285
+ssrna phage srr6960509 10	ssRNA phage SRR6960509_10	Bacteriophage	0.093205	6	0.14285714285714285
+candidatus viadribacter manganicus	Candidatus Viadribacter manganicus	Bacteria/Archaea	0.086234	6	0.14285714285714285
+ruminococcus lactaris	[Ruminococcus] lactaris	Bacteria/Archaea	0.084694	6	0.14285714285714285
+segatella hominis	Segatella hominis	Bacteria/Archaea	0.084694	6	0.14285714285714285
+butyrivibrio crossotus	Butyrivibrio crossotus	Bacteria/Archaea	0.081614	6	0.14285714285714285
+coprococcus comes	Coprococcus comes	Bacteria/Archaea	0.081614	6	0.14285714285714285
+diaphorobacter limosus	Diaphorobacter limosus	Bacteria/Archaea	0.081614	6	0.14285714285714285
+fusobacterium mortiferum	Fusobacterium mortiferum	Bacteria/Archaea	0.081614	6	0.14285714285714285
+clostridium sp m62 1	Clostridium sp. M62/1	Bacteria/Archaea	0.080074	6	0.14285714285714285
+pelobacter propionicus	Pelobacter propionicus	Bacteria/Archaea	0.080074	6	0.14285714285714285
+ssrna phage esthiorhiza 1 1	ssRNA phage Esthiorhiza.1_1	Bacteriophage	0.07989	6	0.14285714285714285
+ssrna phage srr6960799 25	ssRNA phage SRR6960799_25	Bacteriophage	0.079107	6	0.14285714285714285
+candidatus sulfidibacterium hydrothermale	Candidatus Sulfidibacterium hydrothermale	Bacteria/Archaea	0.078534	6	0.14285714285714285
+candidatus symbiobacter mobilis	Candidatus Symbiobacter mobilis	Bacteria/Archaea	0.078534	6	0.14285714285714285
+cellvibrio sp psbb006	Cellvibrio sp. PSBB006	Bacteria/Archaea	0.078534	6	0.14285714285714285
+clostridium sp sy8519	Clostridium sp. SY8519	Bacteria/Archaea	0.078534	6	0.14285714285714285
+flintibacter sp kgmb00164	Flintibacter sp. KGMB00164	Bacteria/Archaea	0.076994	6	0.14285714285714285
+pseudoprevotella muciniphila	Pseudoprevotella muciniphila	Bacteria/Archaea	0.076994	6	0.14285714285714285
+ssrna phage srr7976310 16	ssRNA phage SRR7976310_16	Bacteriophage	0.076757	6	0.14285714285714285
+neisseria sp kem232	Neisseria sp. KEM232	Bacteria/Archaea	0.075455	6	0.14285714285714285
+sediminibacterium sp tegaf015	Sediminibacterium sp. TEGAF015	Bacteria/Archaea	0.073915	6	0.14285714285714285
+leptotrichia sp oral taxon 218	Leptotrichia sp. oral taxon 218	Bacteria/Archaea	0.072375	6	0.14285714285714285
+roseimicrobium sp ornl1	Roseimicrobium sp. ORNL1	Bacteria/Archaea	0.072375	6	0.14285714285714285
+treponema primitia	Treponema primitia	Bacteria/Archaea	0.072375	6	0.14285714285714285
+collinsella aerofaciens	Collinsella aerofaciens	Bacteria/Archaea	0.070835	6	0.14285714285714285
+alistipes indistinctus	Alistipes indistinctus	Bacteria/Archaea	0.069295	6	0.14285714285714285
+ferrigenium kumadai	Ferrigenium kumadai	Bacteria/Archaea	0.069295	6	0.14285714285714285
+pararhizobium sp bt 229	Pararhizobium sp. BT-229	Bacteria/Archaea	0.069295	6	0.14285714285714285
+ssrna phage srr5467137 1	ssRNA phage SRR5467137_1	Bacteriophage	0.067359	6	0.14285714285714285
+candidatus chromulinivorax destructor	Candidatus Chromulinivorax destructor	Bacteria/Archaea	0.066215	6	0.14285714285714285
+leptolyngbya sp 7m	Leptolyngbya sp. 7M	Bacteria/Archaea	0.066215	6	0.14285714285714285
+vandammella animalimorsus	Vandammella animalimorsus	Bacteria/Archaea	0.066215	6	0.14285714285714285
+ssrna phage srr7976325 7	ssRNA phage SRR7976325_7	Bacteriophage	0.065792	6	0.14285714285714285
+acinetobacter sp marseille q1620	Acinetobacter sp. Marseille-Q1620	Bacteria/Archaea	0.064675	6	0.14285714285714285
+agathobaculum sp ntuh o15 33	Agathobaculum sp. NTUH-O15-33	Bacteria/Archaea	0.064675	6	0.14285714285714285
+pseudomonas lundensis	Pseudomonas lundensis	Bacteria/Archaea	0.064675	6	0.14285714285714285
+ssrna phage srr6960549 3	ssRNA phage SRR6960549_3	Bacteriophage	0.063442	6	0.14285714285714285
+349221	Micavibrio aeruginosavorus	Bacteria/Archaea	0.061596	6	0.14285714285714285
+aquincola tertiaricarbonis	Aquincola tertiaricarbonis	Bacteria/Archaea	0.061596	6	0.14285714285714285
+cellvibrio sp ky gh 1	Cellvibrio sp. KY-GH-1	Bacteria/Archaea	0.061596	6	0.14285714285714285
+clostridium perfringens	Clostridium perfringens	Bacteria/Archaea	0.061596	6	0.14285714285714285
+micavibrio aeruginosavorus	Micavibrio aeruginosavorus	Bacteria/Archaea	0.061596	6	0.14285714285714285
+pseudomonas alcaligenes	Pseudomonas alcaligenes	Bacteria/Archaea	0.061596	6	0.14285714285714285
+uncultured alistipes sp	uncultured Alistipes sp.	Bacteria/Archaea	0.061596	6	0.14285714285714285
+chryseobacterium sp pol2	Chryseobacterium sp. POL2	Bacteria/Archaea	0.060056	6	0.14285714285714285
+enterobacter sp t2	Enterobacter sp. T2	Bacteria/Archaea	0.060056	6	0.14285714285714285
+neisseria shayeganii	Neisseria shayeganii	Bacteria/Archaea	0.060056	6	0.14285714285714285
+treponema brennaborense	Treponema brennaborense	Bacteria/Archaea	0.060056	6	0.14285714285714285
+ssrna phage esthiorhiza 1 2	ssRNA phage Esthiorhiza.1_2	Bacteriophage	0.058743	6	0.14285714285714285
+arcobacter nitrofigilis	Arcobacter nitrofigilis	Bacteria/Archaea	0.058516	6	0.14285714285714285
+uncultured vibrio sp	uncultured Vibrio sp.	Bacteria/Archaea	0.058516	6	0.14285714285714285
+enterobacteria phage ga	Enterobacteria phage GA	Bacteriophage	0.057176	6	0.14285714285714285
+ssrna phage srr7976299 8	ssRNA phage SRR7976299_8	Bacteriophage	0.057176	6	0.14285714285714285
+candidatus paracaedibacter acanthamoebae	Candidatus Paracaedibacter acanthamoebae	Bacteria/Archaea	0.056976	6	0.14285714285714285
+niveibacterium sp sc 1	Niveibacterium sp. SC-1	Bacteria/Archaea	0.056976	6	0.14285714285714285
+selenomonas sputigena	Selenomonas sputigena	Bacteria/Archaea	0.056976	6	0.14285714285714285
+ssrna phage ese006	ssRNA phage ESE006	Bacteriophage	0.056393	6	0.14285714285714285
+limnohabitans sp 103dpr2	Limnohabitans sp. 103DPR2	Bacteria/Archaea	0.055436	6	0.14285714285714285
+tessaracoccus flavescens	Tessaracoccus flavescens	Bacteria/Archaea	0.055436	6	0.14285714285714285
+9	Buchnera aphidicola	Bacteria/Archaea	0.053896	6	0.14285714285714285
+buchnera aphidicola	Buchnera aphidicola	Bacteria/Archaea	0.053896	6	0.14285714285714285
+kineothrix sp mb12 c1	Kineothrix sp. MB12-C1	Bacteria/Archaea	0.053896	6	0.14285714285714285
+ottowia sp oral taxon 894	Ottowia sp. oral taxon 894	Bacteria/Archaea	0.053896	6	0.14285714285714285
+pseudomonas guguanensis	Pseudomonas guguanensis	Bacteria/Archaea	0.053896	6	0.14285714285714285
+pseudomonas sp s150	Pseudomonas sp. S150	Bacteria/Archaea	0.053896	6	0.14285714285714285
+qiania dongpingensis	Qiania dongpingensis	Bacteria/Archaea	0.053896	6	0.14285714285714285
+serratia symbiotica	Serratia symbiotica	Bacteria/Archaea	0.053896	6	0.14285714285714285
+terricaulis silvestris	Terricaulis silvestris	Bacteria/Archaea	0.053896	6	0.14285714285714285
+ssrna phage zoerhiza 1 25	ssRNA phage Zoerhiza.1_25	Bacteriophage	0.05326	6	0.14285714285714285
+ssrna phage srr7976310 7	ssRNA phage SRR7976310_7	Bacteriophage	0.052477	6	0.14285714285714285
+prevotella sp e9 3	Prevotella sp. E9-3	Bacteria/Archaea	0.052356	6	0.14285714285714285
+pseudomonas fluorescens	Pseudomonas fluorescens	Bacteria/Archaea	0.052356	6	0.14285714285714285
+sinimarinibacterium sp nlf 5 8	Sinimarinibacterium sp. NLF-5-8	Bacteria/Archaea	0.052356	6	0.14285714285714285
+ssrna phage srr5466364 4	ssRNA phage SRR5466364_4	Bacteriophage	0.050911	6	0.14285714285714285
+ssrna phage srr5467091 15	ssRNA phage SRR5467091_15	Bacteriophage	0.050911	6	0.14285714285714285
+ssrna phage srr6960509 1	ssRNA phage SRR6960509_1	Bacteriophage	0.050911	6	0.14285714285714285
+cloacibacterium sp td35	Cloacibacterium sp. TD35	Bacteria/Archaea	0.050816	6	0.14285714285714285
+clostridium scindens	[Clostridium] scindens	Bacteria/Archaea	0.050816	6	0.14285714285714285
+leptospira biflexa	Leptospira biflexa	Bacteria/Archaea	0.050816	6	0.14285714285714285
+oceanirhabdus sp w0125 5	Oceanirhabdus sp. W0125-5	Bacteria/Archaea	0.050816	6	0.14285714285714285
+prevotella dentalis	Prevotella dentalis	Bacteria/Archaea	0.050816	6	0.14285714285714285
+pseudomonas hefeiensis	Pseudomonas hefeiensis	Bacteria/Archaea	0.050816	6	0.14285714285714285
+ssrna phage gephyllon 1 24	ssRNA phage Gephyllon.1_24	Bacteriophage	0.050127	6	0.14285714285714285
+blautia massiliensis	Blautia massiliensis	Bacteria/Archaea	0.049276	6	0.14285714285714285
+denitratisoma sp dht3	Denitratisoma sp. DHT3	Bacteria/Archaea	0.049276	6	0.14285714285714285
+roseateles sp sl47	Roseateles sp. SL47	Bacteria/Archaea	0.049276	6	0.14285714285714285
+ssrna phage srr7976310 10	ssRNA phage SRR7976310_10	Bacteriophage	0.048561	6	0.14285714285714285
+acidovorax sp hdw3	Acidovorax sp. HDW3	Bacteria/Archaea	0.047737	6	0.14285714285714285
+candidatus babela massiliensis	Candidatus Babela massiliensis	Bacteria/Archaea	0.047737	6	0.14285714285714285
+candidatus cytomitobacter indipagum	Candidatus Cytomitobacter indipagum	Bacteria/Archaea	0.047737	6	0.14285714285714285
+granulicella sp wh15	Granulicella sp. WH15	Bacteria/Archaea	0.047737	6	0.14285714285714285
+paucibacter aquatile	Paucibacter aquatile	Bacteria/Archaea	0.047737	6	0.14285714285714285
+uncultured holophaga sp	uncultured Holophaga sp.	Bacteria/Archaea	0.047737	6	0.14285714285714285
+ssrna phage srr5466725 16	ssRNA phage SRR5466725_16	Bacteriophage	0.046994	6	0.14285714285714285
+ssrna phage zoerhiza 4 12	ssRNA phage Zoerhiza.4_12	Bacteriophage	0.046994	6	0.14285714285714285
+arcobacter venerupis	Arcobacter venerupis	Bacteria/Archaea	0.046197	6	0.14285714285714285
+haemophilus parainfluenzae	Haemophilus parainfluenzae	Bacteria/Archaea	0.046197	6	0.14285714285714285
+legionella israelensis	Legionella israelensis	Bacteria/Archaea	0.046197	6	0.14285714285714285
+prevotella sp rep29	Prevotella sp. Rep29	Bacteria/Archaea	0.046197	6	0.14285714285714285
+uncultured hyphomonas sp	uncultured Hyphomonas sp.	Bacteria/Archaea	0.046197	6	0.14285714285714285
+76859	Fusobacterium animalis	Bacteria/Archaea	0.044657	6	0.14285714285714285
+arcobacter aquimarinus	Arcobacter aquimarinus	Bacteria/Archaea	0.044657	6	0.14285714285714285
+blautia hydrogenotrophica	Blautia hydrogenotrophica	Bacteria/Archaea	0.044657	6	0.14285714285714285
+lachnoclostridium phytofermentans	Lachnoclostridium phytofermentans	Bacteria/Archaea	0.044657	6	0.14285714285714285
+petroclostridium sp x23	Petroclostridium sp. X23	Bacteria/Archaea	0.044657	6	0.14285714285714285
+tissierella sp mb52 c2	Tissierella sp. MB52-C2	Bacteria/Archaea	0.044657	6	0.14285714285714285
+treponema succinifaciens	Treponema succinifaciens	Bacteria/Archaea	0.044657	6	0.14285714285714285
+ssrna phage ese029	ssRNA phage ESE029	Bacteriophage	0.044645	6	0.14285714285714285
+halobacteriovorax sp balos 7	Halobacteriovorax sp. BALOs_7	Bacteria/Archaea	0.043117	6	0.14285714285714285
+leptotrichia sp oral taxon 847	Leptotrichia sp. oral taxon 847	Bacteria/Archaea	0.043117	6	0.14285714285714285
+nitratidesulfovibrio liaohensis	Nitratidesulfovibrio liaohensis	Bacteria/Archaea	0.043117	6	0.14285714285714285
+rhodoferax sp bab1	Rhodoferax sp. BAB1	Bacteria/Archaea	0.043117	6	0.14285714285714285
+ruminococcus gauvreauii	Ruminococcus gauvreauii	Bacteria/Archaea	0.043117	6	0.14285714285714285
+treponema bryantii	Treponema bryantii	Bacteria/Archaea	0.043117	6	0.14285714285714285
+ssrna phage srr6960799 27	ssRNA phage SRR6960799_27	Bacteriophage	0.043078	6	0.14285714285714285
+thauera sp jm12b12	Thauera sp. JM12B12	Bacteria/Archaea	0.041577	6	0.14285714285714285
+ssrna phage srr6960799 30	ssRNA phage SRR6960799_30	Bacteriophage	0.040728	6	0.14285714285714285
+faecalibacterium sp i3 3 33	Faecalibacterium sp. I3-3-33	Bacteria/Archaea	0.040037	6	0.14285714285714285
+helicobacter hepaticus	Helicobacter hepaticus	Bacteria/Archaea	0.040037	6	0.14285714285714285
+opitutus sp gas368	Opitutus sp. GAS368	Bacteria/Archaea	0.040037	6	0.14285714285714285
+pedobacter sp sl55	Pedobacter sp. SL55	Bacteria/Archaea	0.040037	6	0.14285714285714285
+rheinheimera sp d18	Rheinheimera sp. D18	Bacteria/Archaea	0.040037	6	0.14285714285714285
+ssrna phage srr6960797 1	ssRNA phage SRR6960797_1	Bacteriophage	0.039162	6	0.14285714285714285
+ssrna phage gephyllon 2 8	ssRNA phage Gephyllon.2_8	Bacteriophage	0.038379	6	0.14285714285714285
+candidatus pseudomonas adelgestsugas	Candidatus Pseudomonas adelgestsugas	Bacteria/Archaea	0.036957	6	0.14285714285714285
+caproiciproducens sp cpb 2	Caproiciproducens sp. CPB-2	Bacteria/Archaea	0.036957	6	0.14285714285714285
+dechloromonas sp tw r 39 2	Dechloromonas sp. TW-R-39-2	Bacteria/Archaea	0.036957	6	0.14285714285714285
+ottowia sp sb7 c50	Ottowia sp. SB7-C50	Bacteria/Archaea	0.036957	6	0.14285714285714285
+subdoligranulum variabile	Subdoligranulum variabile	Bacteria/Archaea	0.036957	6	0.14285714285714285
+treponema parvum	Treponema parvum	Bacteria/Archaea	0.036957	6	0.14285714285714285
+verminephrobacter eiseniae	Verminephrobacter eiseniae	Bacteria/Archaea	0.036957	6	0.14285714285714285
+ssrna phage srr7976357 6	ssRNA phage SRR7976357_6	Bacteriophage	0.036812	6	0.14285714285714285
+ssrna phage srr7976327 1	ssRNA phage SRR7976327_1	Bacteriophage	0.036029	6	0.14285714285714285
+acinetobacter sp wcha45	Acinetobacter sp. WCHA45	Bacteria/Archaea	0.035417	6	0.14285714285714285
+aeromonas sp cu5	Aeromonas sp. CU5	Bacteria/Archaea	0.035417	6	0.14285714285714285
+amniculibacterium sp g2 70	Amniculibacterium sp. G2-70	Bacteria/Archaea	0.035417	6	0.14285714285714285
+candidatus methanoplasma termitum	Candidatus Methanoplasma termitum	Bacteria/Archaea	0.035417	6	0.14285714285714285
+candidatus promineifilum breve	Candidatus Promineifilum breve	Bacteria/Archaea	0.035417	6	0.14285714285714285
+faecalibacterium sp i3 3 89	Faecalibacterium sp. I3-3-89	Bacteria/Archaea	0.035417	6	0.14285714285714285
+hoylesella buccalis	Hoylesella buccalis	Bacteria/Archaea	0.035417	6	0.14285714285714285
+methylobacterium sp ff17	Methylobacterium sp. FF17	Bacteria/Archaea	0.035417	6	0.14285714285714285
+romboutsia sp 13368	Romboutsia sp. 13368	Bacteria/Archaea	0.035417	6	0.14285714285714285
+bdellovibrio sp 22v	Bdellovibrio sp. 22V	Bacteria/Archaea	0.033878	6	0.14285714285714285
+candidatus karelsulcia muelleri	Candidatus Karelsulcia muelleri	Bacteria/Archaea	0.033878	6	0.14285714285714285
+caproicibacterium sp bjn0003	Caproicibacterium sp. BJN0003	Bacteria/Archaea	0.033878	6	0.14285714285714285
+clostridium innocuum	[Clostridium] innocuum	Bacteria/Archaea	0.033878	6	0.14285714285714285
+jeongeupia sp hs 3	Jeongeupia sp. HS-3	Bacteria/Archaea	0.033878	6	0.14285714285714285
+lachnoclostridium phocaeense	Lachnoclostridium phocaeense	Bacteria/Archaea	0.033878	6	0.14285714285714285
+lactococcus raffinolactis	Lactococcus raffinolactis	Bacteria/Archaea	0.033878	6	0.14285714285714285
+sorangium cellulosum	Sorangium cellulosum	Bacteria/Archaea	0.033878	6	0.14285714285714285
+synechococcus sp ja 3 3ab	Synechococcus sp. JA-3-3Ab	Bacteria/Archaea	0.033878	6	0.14285714285714285
+wansuia hejianensis	Wansuia hejianensis	Bacteria/Archaea	0.033878	6	0.14285714285714285
+ssrna phage srr6960799 17	ssRNA phage SRR6960799_17	Bacteriophage	0.033679	6	0.14285714285714285
+faecalibacterium sp ip 1 18	Faecalibacterium sp. IP-1-18	Bacteria/Archaea	0.032338	6	0.14285714285714285
+oscillibacter sp pea192	Oscillibacter sp. PEA192	Bacteria/Archaea	0.032338	6	0.14285714285714285
+roseburia sp 499	Roseburia sp. 499	Bacteria/Archaea	0.032338	6	0.14285714285714285
+stomatobaculum sp f0698	Stomatobaculum sp. F0698	Bacteria/Archaea	0.032338	6	0.14285714285714285
+uncultured caproiciproducens sp	uncultured Caproiciproducens sp.	Bacteria/Archaea	0.032338	6	0.14285714285714285
+uncultured marinifilum sp	uncultured Marinifilum sp.	Bacteria/Archaea	0.032338	6	0.14285714285714285
+ssrna phage srr6960799 10	ssRNA phage SRR6960799_10	Bacteriophage	0.032113	6	0.14285714285714285
+anaerotignum propionicum	Anaerotignum propionicum	Bacteria/Archaea	0.030798	6	0.14285714285714285
+campylobacter gracilis	Campylobacter gracilis	Bacteria/Archaea	0.030798	6	0.14285714285714285
+candidatus portiera aleyrodidarum	Candidatus Portiera aleyrodidarum	Bacteria/Archaea	0.030798	6	0.14285714285714285
+piscinibacter gummiphilus	Piscinibacter gummiphilus	Bacteria/Archaea	0.030798	6	0.14285714285714285
+pseudomonas chlororaphis	Pseudomonas chlororaphis	Bacteria/Archaea	0.030798	6	0.14285714285714285
+treponema peruense	Treponema peruense	Bacteria/Archaea	0.030798	6	0.14285714285714285
+zobellella denitrificans	Zobellella denitrificans	Bacteria/Archaea	0.030798	6	0.14285714285714285
+ssrna phage srr6960509 7	ssRNA phage SRR6960509_7	Bacteriophage	0.029763	6	0.14285714285714285
+ssrna phage srr6960799 15	ssRNA phage SRR6960799_15	Bacteriophage	0.027413	6	0.14285714285714285
+ssrna phage srr7976325 29	ssRNA phage SRR7976325_29	Bacteriophage	0.027413	6	0.14285714285714285
+ssrna phage srr6255513 1	ssRNA phage SRR6255513_1	Bacteriophage	0.02663	6	0.14285714285714285
+ssrna phage srr5466365 2	ssRNA phage SRR5466365_2	Bacteriophage	0.025847	6	0.14285714285714285
+ssrna phage srr5467091 3	ssRNA phage SRR5467091_3	Bacteriophage	0.025064	6	0.14285714285714285
+ssrna phage srr6253161 3	ssRNA phage SRR6253161_3	Bacteriophage	0.025064	6	0.14285714285714285
+ssrna phage zoerhiza 2 22	ssRNA phage Zoerhiza.2_22	Bacteriophage	0.02428	6	0.14285714285714285
+ssrna phage gerhypos 3 16	ssRNA phage Gerhypos.3_16	Bacteriophage	0.021931	6	0.14285714285714285
+ssrna phage srr6960799 36	ssRNA phage SRR6960799_36	Bacteriophage	0.021931	6	0.14285714285714285
+ssrna phage srr7976326 4	ssRNA phage SRR7976326_4	Bacteriophage	0.021931	6	0.14285714285714285
+caulobacter phage phicb5	Caulobacter phage phiCb5	Bacteriophage	0.021147	6	0.14285714285714285
+enterobacteria phage hgal1	Enterobacteria phage Hgal1	Bacteriophage	0.020364	6	0.14285714285714285
+ssrna phage srr6960551 9	ssRNA phage SRR6960551_9	Bacteriophage	0.018798	6	0.14285714285714285
+ssrna phage srr7976357 2	ssRNA phage SRR7976357_2	Bacteriophage	0.017231	6	0.14285714285714285
+ssrna phage ave016	ssRNA phage AVE016	Bacteriophage	0.016448	6	0.14285714285714285
+ssrna phage srr5467090 10	ssRNA phage SRR5467090_10	Bacteriophage	0.016448	6	0.14285714285714285
+ssrna phage esthiorhiza 2 21	ssRNA phage Esthiorhiza.2_21	Bacteriophage	0.015665	6	0.14285714285714285
+ssrna phage gephyllon 4 11	ssRNA phage Gephyllon.4_11	Bacteriophage	0.015665	6	0.14285714285714285
+ssrna phage gerhypos 1 12	ssRNA phage Gerhypos.1_12	Bacteriophage	0.015665	6	0.14285714285714285
+237020	Porcine torovirus	Virus (automated)	0.013221	6	0.14285714285714285
+74501	Bovine torovirus	Virus (automated)	0.006131	6	0.14285714285714285
+rocahepevirus ratti	Rocahepevirus ratti	Virus (automated)	0.005747	6	0.14285714285714285
+sars cov 2	SARS-CoV-2	Virus (manual, no-rank)	0.003684	6	0.14285714285714285
+avian coronavirus	Avian coronavirus	Virus (automated)	0.002623	6	0.14285714285714285
+1298633	Kobuvirus cebes	Virus (automated)	0.000573	6	0.14285714285714285
+influenza a virus h3n2	Influenza A virus (H3N2)	Virus (manual, low-read)	0.000337	6	0.14285714285714285
+influenza a virus h1n1	Influenza A virus (H1N1)	Virus (manual, low-read)	0.000253	6	0.14285714285714285
+human orthopneumovirus a	Human orthopneumovirus A	Virus (manual, low-read)	0.000211	6	0.14285714285714285
+human coronavirus oc43	Human coronavirus OC43	Virus (manual, no-rank)	0.000198	6	0.14285714285714285
+human metapneumovirus	Human metapneumovirus	Virus (manual, not detected)	0.000147	6	0.14285714285714285
+influenza b virus	Influenza B virus	Virus (manual, low-read)	0.000126	6	0.14285714285714285
+human astrovirus 1	Human astrovirus 1	Virus (manual, not detected)	0.000105	6	0.14285714285714285
+1891763	Betapolyomavirus secuhominis	Virus (automated)	8.4e-05	6	0.14285714285714285
+human parainfluenza virus 3	Human parainfluenza virus 3	Virus (manual, low-read)	8.4e-05	6	0.14285714285714285
+human papillomavirus 16	Human papillomavirus 16	Virus (manual, not detected)	3.4e-05	6	0.14285714285714285
+poliovirus 1	Poliovirus 1	Virus (manual, not detected)	2.1e-05	6	0.14285714285714285
+influenza a virus h5n1 a goose guangdong 1 1996	Influenza A virus H5N1 (A/goose/Guangdong/1/1996)	Virus (manual, not detected)	1.7e-05	6	0.14285714285714285
+856	Fusobacterium varium	Bacteria/Archaea	1.255009	5	0.11904761904761904
+paracidovorax avenae	Paracidovorax avenae	Bacteria/Archaea	0.060056	5	0.11904761904761904
+ramlibacter tataouinensis	Ramlibacter tataouinensis	Bacteria/Archaea	0.041577	5	0.11904761904761904
+sandaracinus amylolyticus	Sandaracinus amylolyticus	Bacteria/Archaea	0.035417	5	0.11904761904761904
+654	Aeromonas veronii	Bacteria/Archaea	0.076994	4	0.09523809523809523
+40214	Acinetobacter johnsonii	Bacteria/Archaea	0.047737	4	0.09523809523809523
+1027247	Bovine astrovirus B76-2/HK	Virus (automated)	0.000109	4	0.09523809523809523
+821	Phocaeicola vulgatus	Bacteria/Archaea	3.270723	3	0.07142857142857142
+39491	Agathobacter rectalis	Bacteria/Archaea	2.939647	3	0.07142857142857142
+mamastrovirus 1	Mamastrovirus 1	Virus (automated)	2.355158	3	0.07142857142857142
+826	Sebaldella termitidis	Bacteria/Archaea	1.850946	3	0.07142857142857142
+187101	Sneathia vaginalis	Bacteria/Archaea	1.218052	3	0.07142857142857142
+1689272	Vitreoscilla massiliensis	Bacteria/Archaea	1.201113	3	0.07142857142857142
+2996794	Haliovirga abyssi	Bacteria/Archaea	1.137977	3	0.07142857142857142
+40520	Blautia obeum	Bacteria/Archaea	0.987068	3	0.07142857142857142
+34105	Streptobacillus moniliformis	Bacteria/Archaea	0.68371	3	0.07142857142857142
+46506	Bacteroides stercoris	Bacteria/Archaea	0.672931	3	0.07142857142857142
+853	Faecalibacterium prausnitzii	Bacteria/Archaea	0.659072	3	0.07142857142857142
+1282	Staphylococcus epidermidis	Bacteria/Archaea	0.643673	3	0.07142857142857142
+859	Fusobacterium necrophorum	Bacteria/Archaea	0.606716	3	0.07142857142857142
+820	Bacteroides uniformis	Bacteria/Archaea	0.569759	3	0.07142857142857142
+492670	Bacillus velezensis	Bacteria/Archaea	0.54512	3	0.07142857142857142
+387090	Phocaeicola coprophilus	Bacteria/Archaea	0.494304	3	0.07142857142857142
+357276	Phocaeicola dorei	Bacteria/Archaea	0.485065	3	0.07142857142857142
+168471	Laribacter hongkongensis	Bacteria/Archaea	0.454267	3	0.07142857142857142
+2809020	Paralysiella testudinis	Bacteria/Archaea	0.445028	3	0.07142857142857142
+39485	Lachnospira eligens	Bacteria/Archaea	0.425009	3	0.07142857142857142
+43948	Tolumonas auensis	Bacteria/Archaea	0.421929	3	0.07142857142857142
+33043	Coprococcus eutactus	Bacteria/Archaea	0.41115	3	0.07142857142857142
+2004710	Cloacibacterium caeni	Bacteria/Archaea	0.391132	3	0.07142857142857142
+2785627	Azospira inquinata	Bacteria/Archaea	0.380352	3	0.07142857142857142
+849	Fusobacterium gonidiaformans	Bacteria/Archaea	0.374193	3	0.07142857142857142
+164330	Thauera aminoaromatica	Bacteria/Archaea	0.364954	3	0.07142857142857142
+2897181	Flavobacterium channae	Bacteria/Archaea	0.358794	3	0.07142857142857142
+40324	Stenotrophomonas maltophilia	Bacteria/Archaea	0.357254	3	0.07142857142857142
+norwalk virus	Norwalk virus	Virus (automated)	0.350044	3	0.07142857142857142
+2547394	Flavobacterium nackdongense	Bacteria/Archaea	0.334156	3	0.07142857142857142
+321846	Pseudomonas simiae	Bacteria/Archaea	0.334156	3	0.07142857142857142
+649756	Anaerostipes hadrus	Bacteria/Archaea	0.331076	3	0.07142857142857142
+640030	Neisseria zalophi	Bacteria/Archaea	0.321837	3	0.07142857142857142
+157692	Pseudoleptotrichia goodfellowii	Bacteria/Archaea	0.318757	3	0.07142857142857142
+301301	Roseburia hominis	Bacteria/Archaea	0.309518	3	0.07142857142857142
+1852381	Duodenibacillus massiliensis	Bacteria/Archaea	0.298738	3	0.07142857142857142
+sapporo virus	Sapporo virus	Virus (automated)	0.297134	3	0.07142857142857142
+1511	Acetoanaerobium sticklandii	Bacteria/Archaea	0.294119	3	0.07142857142857142
+39496	Eubacterium ventriosum	Bacteria/Archaea	0.292579	3	0.07142857142857142
+1283	Staphylococcus haemolyticus	Bacteria/Archaea	0.28026	3	0.07142857142857142
+287	Pseudomonas aeruginosa	Bacteria/Archaea	0.27564	3	0.07142857142857142
+638849	Pyramidobacter piscolens	Bacteria/Archaea	0.2741	3	0.07142857142857142
+166486	Roseburia intestinalis	Bacteria/Archaea	0.252542	3	0.07142857142857142
+2714353	Vescimonas fastidiosa	Bacteria/Archaea	0.249462	3	0.07142857142857142
+mamastrovirus 6	Mamastrovirus 6	Virus (automated)	0.243584	3	0.07142857142857142
+562	Escherichia coli	Bacteria/Archaea	0.237143	3	0.07142857142857142
+418240	Blautia wexlerae	Bacteria/Archaea	0.224824	3	0.07142857142857142
+2487072	Epilithonimonas vandammei	Bacteria/Archaea	0.221744	3	0.07142857142857142
+823	Parabacteroides distasonis	Bacteria/Archaea	0.217124	3	0.07142857142857142
+40545	Sutterella wadsworthensis	Bacteria/Archaea	0.209425	3	0.07142857142857142
+913107	Pelolinea submarina	Bacteria/Archaea	0.184787	3	0.07142857142857142
+2283318	Aquirhabdus parva	Bacteria/Archaea	0.183247	3	0.07142857142857142
+80816	Haliangium ochraceum	Bacteria/Archaea	0.183247	3	0.07142857142857142
+1986204	Brevefilum fermentans	Bacteria/Archaea	0.180167	3	0.07142857142857142
+2880008	Brucepastera parasyntrophica	Bacteria/Archaea	0.178627	3	0.07142857142857142
+169435	Anaerotruncus colihominis	Bacteria/Archaea	0.177087	3	0.07142857142857142
+28901	Salmonella enterica	Bacteria/Archaea	0.177087	3	0.07142857142857142
+404405	Azospira restricta	Bacteria/Archaea	0.174007	3	0.07142857142857142
+2780922	Solibaculum mannosilyticum	Bacteria/Archaea	0.172467	3	0.07142857142857142
+292800	Flavonifractor plautii	Bacteria/Archaea	0.172467	3	0.07142857142857142
+153493	Conchiformibius steedae	Bacteria/Archaea	0.169388	3	0.07142857142857142
+267212	Neisseria bacilliformis	Bacteria/Archaea	0.169388	3	0.07142857142857142
+2801997	Prevotella herbatica	Bacteria/Archaea	0.169388	3	0.07142857142857142
+conchiformibius steedae	Conchiformibius steedae	Bacteria/Archaea	0.169388	3	0.07142857142857142
+28118	Odoribacter splanchnicus	Bacteria/Archaea	0.167848	3	0.07142857142857142
+28111	Bacteroides eggerthii	Bacteria/Archaea	0.163228	3	0.07142857142857142
+2666100	Neisseria brasiliensis	Bacteria/Archaea	0.157069	3	0.07142857142857142
+39488	Anaerobutyricum hallii	Bacteria/Archaea	0.155529	3	0.07142857142857142
+639200	Sphaerotilus sulfidivorans	Bacteria/Archaea	0.155529	3	0.07142857142857142
+2781599	Streptococcus oriscaviae	Bacteria/Archaea	0.153989	3	0.07142857142857142
+2567896	Polyangium aurulentum	Bacteria/Archaea	0.152449	3	0.07142857142857142
+2564099	Ruminococcus bovis	Bacteria/Archaea	0.150909	3	0.07142857142857142
+2067065	Aquella oligotrophica	Bacteria/Archaea	0.149369	3	0.07142857142857142
+454154	Paraprevotella clara	Bacteria/Archaea	0.147829	3	0.07142857142857142
+46503	Parabacteroides merdae	Bacteria/Archaea	0.147829	3	0.07142857142857142
+2108523	Lawsonibacter asaccharolyticus	Bacteria/Archaea	0.14475	3	0.07142857142857142
+1914471	Sulfuritortus calidifontis	Bacteria/Archaea	0.14321	3	0.07142857142857142
+76115	Aromatoleum bremense	Bacteria/Archaea	0.14321	3	0.07142857142857142
+253239	Ethanoligenens harbinense	Bacteria/Archaea	0.14013	3	0.07142857142857142
+52	Chondromyces crocatus	Bacteria/Archaea	0.14013	3	0.07142857142857142
+645	Aeromonas salmonicida	Bacteria/Archaea	0.14013	3	0.07142857142857142
+2584944	Sutterella faecalis	Bacteria/Archaea	0.13859	3	0.07142857142857142
+1322	Blautia hansenii	Bacteria/Archaea	0.13243	3	0.07142857142857142
+2714355	Vescimonas coprocola	Bacteria/Archaea	0.13243	3	0.07142857142857142
+470	Acinetobacter baumannii	Bacteria/Archaea	0.127811	3	0.07142857142857142
+2895947	Flavobacterium cyclinae	Bacteria/Archaea	0.124731	3	0.07142857142857142
+386891	Moraxella bovoculi	Bacteria/Archaea	0.123191	3	0.07142857142857142
+1396	Bacillus cereus	Bacteria/Archaea	0.120111	3	0.07142857142857142
+2528037	Eikenella exigua	Bacteria/Archaea	0.120111	3	0.07142857142857142
+1982626	Faecalibacillus intestinalis	Bacteria/Archaea	0.118571	3	0.07142857142857142
+1550024	Ruthenibacterium lactatiformans	Bacteria/Archaea	0.117032	3	0.07142857142857142
+296	Pseudomonas fragi	Bacteria/Archaea	0.115492	3	0.07142857142857142
+29447	Xanthomonas albilineans	Bacteria/Archaea	0.113952	3	0.07142857142857142
+2736	Verrucomicrobium spinosum	Bacteria/Archaea	0.110872	3	0.07142857142857142
+2590900	Tenuifilum thalassicum	Bacteria/Archaea	0.109332	3	0.07142857142857142
+985	Cytophaga hutchinsonii	Bacteria/Archaea	0.109332	3	0.07142857142857142
+1735038	Oryzomicrobium terrae	Bacteria/Archaea	0.107792	3	0.07142857142857142
+2594795	Chitinimonas arctica	Bacteria/Archaea	0.107792	3	0.07142857142857142
+45243	Capnocytophaga haemolytica	Bacteria/Archaea	0.107792	3	0.07142857142857142
+1346	Streptococcus iniae	Bacteria/Archaea	0.106252	3	0.07142857142857142
+817	Bacteroides fragilis	Bacteria/Archaea	0.106252	3	0.07142857142857142
+980251	Mariniblastus fucicola	Bacteria/Archaea	0.106252	3	0.07142857142857142
+453816	Pseudobdellovibrio exovorus	Bacteria/Archaea	0.104712	3	0.07142857142857142
+2715163	Acinetobacter lanii	Bacteria/Archaea	0.101633	3	0.07142857142857142
+33025	Phascolarctobacterium faecium	Bacteria/Archaea	0.101633	3	0.07142857142857142
+433286	Anaerocolumna cellulosilytica	Bacteria/Archaea	0.101633	3	0.07142857142857142
+2710758	Phototrophicus methaneseepsis	Bacteria/Archaea	0.097013	3	0.07142857142857142
+2995304	Nannocystis poenicansa	Bacteria/Archaea	0.097013	3	0.07142857142857142
+168384	Marvinbryantia formatexigens	Bacteria/Archaea	0.095473	3	0.07142857142857142
+1345	Streptococcus ferus	Bacteria/Archaea	0.093933	3	0.07142857142857142
+29510	Turneriella parva	Bacteria/Archaea	0.093933	3	0.07142857142857142
+328813	Alistipes onderdonkii	Bacteria/Archaea	0.093933	3	0.07142857142857142
+39486	Dorea formicigenerans	Bacteria/Archaea	0.093933	3	0.07142857142857142
+2494234	Sutterella megalosphaeroides	Bacteria/Archaea	0.092393	3	0.07142857142857142
+1297617	Intestinimonas butyriciproducens	Bacteria/Archaea	0.089314	3	0.07142857142857142
+847	Oxalobacter formigenes	Bacteria/Archaea	0.089314	3	0.07142857142857142
+mamastrovirus 9	Mamastrovirus 9	Virus (automated)	0.088826	3	0.07142857142857142
+876	Desulfovibrio desulfuricans	Bacteria/Archaea	0.087774	3	0.07142857142857142
+1188319	Ferriphaselus amnicola	Bacteria/Archaea	0.086234	3	0.07142857142857142
+2585118	Alistipes communis	Bacteria/Archaea	0.086234	3	0.07142857142857142
+bdellovibrio bacteriovorus	Bdellovibrio bacteriovorus	Bacteria/Archaea	0.086234	3	0.07142857142857142
+2184083	Pseudothauera hydrothermalis	Bacteria/Archaea	0.084694	3	0.07142857142857142
+356302	Chitinimonas koreensis	Bacteria/Archaea	0.084694	3	0.07142857142857142
+683172	Astrovirus MLB2	Virus (automated)	0.081857	3	0.07142857142857142
+astrovirus mlb2	Astrovirus MLB2	Virus (automated)	0.081857	3	0.07142857142857142
+850	Fusobacterium mortiferum	Bacteria/Archaea	0.081614	3	0.07142857142857142
+1565605	Rugosibacter aromaticivorans	Bacteria/Archaea	0.080074	3	0.07142857142857142
+748811	Sulfuritalea hydrogenivorans	Bacteria/Archaea	0.080074	3	0.07142857142857142
+83771	Succinivibrio dextrinosolvens	Bacteria/Archaea	0.080074	3	0.07142857142857142
+682382	HMO Astrovirus A	Virus (automated)	0.079706	3	0.07142857142857142
+hmo astrovirus a	HMO Astrovirus A	Virus (automated)	0.079706	3	0.07142857142857142
+132132	Desulfomicrobium orale	Bacteria/Archaea	0.078534	3	0.07142857142857142
+157687	Leptotrichia wadei	Bacteria/Archaea	0.078534	3	0.07142857142857142
+29433	Moraxella ovis	Bacteria/Archaea	0.078534	3	0.07142857142857142
+376805	Phocaeicola salanitronis	Bacteria/Archaea	0.078534	3	0.07142857142857142
+328814	Alistipes shahii	Bacteria/Archaea	0.076994	3	0.07142857142857142
+47678	Bacteroides caccae	Bacteria/Archaea	0.076994	3	0.07142857142857142
+160	Treponema pallidum	Bacteria/Archaea	0.075455	3	0.07142857142857142
+2811415	Niveibacterium microcysteis	Bacteria/Archaea	0.075455	3	0.07142857142857142
+28116	Bacteroides ovatus	Bacteria/Archaea	0.073915	3	0.07142857142857142
+1811193	Streptococcus pantholopis	Bacteria/Archaea	0.072375	3	0.07142857142857142
+246787	Bacteroides cellulosilyticus	Bacteria/Archaea	0.072375	3	0.07142857142857142
+2763062	Roseburia rectibacter	Bacteria/Archaea	0.072375	3	0.07142857142857142
+1296669	Aquabacterium olei	Bacteria/Archaea	0.070835	3	0.07142857142857142
+2904121	Moraxella nasovis	Bacteria/Archaea	0.070835	3	0.07142857142857142
+74426	Collinsella aerofaciens	Bacteria/Archaea	0.070835	3	0.07142857142857142
+1334	Streptococcus dysgalactiae	Bacteria/Archaea	0.069295	3	0.07142857142857142
+133453	Caldilinea aerophila	Bacteria/Archaea	0.069295	3	0.07142857142857142
+626932	Alistipes indistinctus	Bacteria/Archaea	0.069295	3	0.07142857142857142
+818	Bacteroides thetaiotaomicron	Bacteria/Archaea	0.069295	3	0.07142857142857142
+caldilinea aerophila	Caldilinea aerophila	Bacteria/Archaea	0.069295	3	0.07142857142857142
+1308	Streptococcus thermophilus	Bacteria/Archaea	0.067755	3	0.07142857142857142
+236753	Fastidiosipila sanguinis	Bacteria/Archaea	0.067755	3	0.07142857142857142
+29375	Lacrimispora xylanolytica	Bacteria/Archaea	0.067755	3	0.07142857142857142
+75385	Micropruina glycogenica	Bacteria/Archaea	0.067755	3	0.07142857142857142
+2785025	Anaeromicropila herbilytica	Bacteria/Archaea	0.066215	3	0.07142857142857142
+86185	Pseudomonas lundensis	Bacteria/Archaea	0.064675	3	0.07142857142857142
+173	Leptospira interrogans	Bacteria/Archaea	0.063135	3	0.07142857142857142
+1930509	Husavirus sp.	Virus (automated)	0.06291	3	0.07142857142857142
+husavirus sp	Husavirus sp.	Virus (automated)	0.06291	3	0.07142857142857142
+391953	Aquincola tertiaricarbonis	Bacteria/Archaea	0.061596	3	0.07142857142857142
+2109914	Ottowia oryzae	Bacteria/Archaea	0.060056	3	0.07142857142857142
+72	Simonsiella muelleri	Bacteria/Archaea	0.060056	3	0.07142857142857142
+81028	Treponema brennaborense	Bacteria/Archaea	0.060056	3	0.07142857142857142
+2666138	Caproicibacterium lactatifermentans	Bacteria/Archaea	0.058516	3	0.07142857142857142
+307486	Tepidimonas taiwanensis	Bacteria/Archaea	0.058516	3	0.07142857142857142
+109328	Leptotrichia trevisanii	Bacteria/Archaea	0.056976	3	0.07142857142857142
+1986146	Desulfobulbus oralis	Bacteria/Archaea	0.056976	3	0.07142857142857142
+437897	Megamonas funiformis	Bacteria/Archaea	0.056976	3	0.07142857142857142
+kobuvirus aichi	Kobuvirus aichi	Virus (automated)	0.056392	3	0.07142857142857142
+2067960	Pseudazoarcus pumilus	Bacteria/Archaea	0.055436	3	0.07142857142857142
+2912188	Neisseria lisongii	Bacteria/Archaea	0.055436	3	0.07142857142857142
+465721	Steroidobacter denitrificans	Bacteria/Archaea	0.055436	3	0.07142857142857142
+55518	Magnetospirillum gryphiswaldense	Bacteria/Archaea	0.055436	3	0.07142857142857142
+1198456	Pseudomonas guguanensis	Bacteria/Archaea	0.053896	3	0.07142857142857142
+1391654	Labilithrix luteola	Bacteria/Archaea	0.053896	3	0.07142857142857142
+162	Treponema phagedenis	Bacteria/Archaea	0.053896	3	0.07142857142857142
+216816	Bifidobacterium longum	Bacteria/Archaea	0.053896	3	0.07142857142857142
+290053	Bacteroides helcogenes	Bacteria/Archaea	0.053896	3	0.07142857142857142
+labilithrix luteola	Labilithrix luteola	Bacteria/Archaea	0.053896	3	0.07142857142857142
+2606626	Sodaliphilus pleomorphus	Bacteria/Archaea	0.052356	3	0.07142857142857142
+2714937	Propioniciclava coleopterorum	Bacteria/Archaea	0.052356	3	0.07142857142857142
+544718	Aliarcobacter thereius	Bacteria/Archaea	0.052356	3	0.07142857142857142
+1197717	Cloacibacillus porcorum	Bacteria/Archaea	0.050816	3	0.07142857142857142
+1229621	Anaerostipes rhamnosivorans	Bacteria/Archaea	0.050816	3	0.07142857142857142
+172	Leptospira biflexa	Bacteria/Archaea	0.050816	3	0.07142857142857142
+2109913	Melaminivora suipulveris	Bacteria/Archaea	0.050816	3	0.07142857142857142
+487173	Dialister succinatiphilus	Bacteria/Archaea	0.050816	3	0.07142857142857142
+933080	Oxalobacter vibrioformis	Bacteria/Archaea	0.050816	3	0.07142857142857142
+1930071	Methylomusa anaerophila	Bacteria/Archaea	0.049276	3	0.07142857142857142
+2758440	Changpingibacter yushuensis	Bacteria/Archaea	0.049276	3	0.07142857142857142
+32013	Comamonas terrigena	Bacteria/Archaea	0.049276	3	0.07142857142857142
+412593	Thermosulfidibacter takaii	Bacteria/Archaea	0.049276	3	0.07142857142857142
+1232428	Megasphaera massiliensis	Bacteria/Archaea	0.047737	3	0.07142857142857142
+2070761	Paucibacter aquatile	Bacteria/Archaea	0.047737	3	0.07142857142857142
+2321403	Chryseolinea soli	Bacteria/Archaea	0.046197	3	0.07142857142857142
+311182	Denitratisoma oestradiolicum	Bacteria/Archaea	0.046197	3	0.07142857142857142
+454	Legionella israelensis	Bacteria/Archaea	0.046197	3	0.07142857142857142
+582	Morganella morganii	Bacteria/Archaea	0.046197	3	0.07142857142857142
+626937	Christensenella minuta	Bacteria/Archaea	0.046197	3	0.07142857142857142
+65553	Sulfurospirillum deleyianum	Bacteria/Archaea	0.046197	3	0.07142857142857142
+1134435	Thauera humireducens	Bacteria/Archaea	0.044657	3	0.07142857142857142
+167	Treponema succinifaciens	Bacteria/Archaea	0.044657	3	0.07142857142857142
+1680	Bifidobacterium adolescentis	Bacteria/Archaea	0.044657	3	0.07142857142857142
+2798577	Breznakiella homolactica	Bacteria/Archaea	0.044657	3	0.07142857142857142
+881	Nitratidesulfovibrio vulgaris	Bacteria/Archaea	0.044657	3	0.07142857142857142
+1981510	Monoglobus pectinilyticus	Bacteria/Archaea	0.043117	3	0.07142857142857142
+438033	Ruminococcus gauvreauii	Bacteria/Archaea	0.043117	3	0.07142857142857142
+44674	Sulfurospirillum barnesii	Bacteria/Archaea	0.043117	3	0.07142857142857142
+monoglobus pectinilyticus	Monoglobus pectinilyticus	Bacteria/Archaea	0.043117	3	0.07142857142857142
+1547	Thomasclavelia ramosa	Bacteria/Archaea	0.041577	3	0.07142857142857142
+214856	Alistipes finegoldii	Bacteria/Archaea	0.041577	3	0.07142857142857142
+218936	Aeromonas simiae	Bacteria/Archaea	0.041577	3	0.07142857142857142
+411483	Faecalibacterium duncaniae	Bacteria/Archaea	0.041577	3	0.07142857142857142
+831	Butyrivibrio fibrisolvens	Bacteria/Archaea	0.041577	3	0.07142857142857142
+884684	Mageeibacillus indolicus	Bacteria/Archaea	0.041577	3	0.07142857142857142
+94132	Ramlibacter tataouinensis	Bacteria/Archaea	0.041577	3	0.07142857142857142
+1702221	Faecalibaculum rodentium	Bacteria/Archaea	0.040037	3	0.07142857142857142
+202951	Acinetobacter bouvetii	Bacteria/Archaea	0.040037	3	0.07142857142857142
+208479	Enterocloster bolteae	Bacteria/Archaea	0.040037	3	0.07142857142857142
+2724	Hirschia baltica	Bacteria/Archaea	0.040037	3	0.07142857142857142
+32025	Helicobacter hepaticus	Bacteria/Archaea	0.040037	3	0.07142857142857142
+363952	Comamonas thiooxydans	Bacteria/Archaea	0.040037	3	0.07142857142857142
+1307	Streptococcus suis	Bacteria/Archaea	0.038497	3	0.07142857142857142
+2709410	Chordicoccus furentiruminis	Bacteria/Archaea	0.038497	3	0.07142857142857142
+2806210	Flagellatimonas centrodinii	Bacteria/Archaea	0.038497	3	0.07142857142857142
+2974023	Fontisphaera persica	Bacteria/Archaea	0.038497	3	0.07142857142857142
+orthopicobirnavirus hominis	Orthopicobirnavirus hominis	Virus (automated)	0.037861	3	0.07142857142857142
+442302	Porcine picobirnavirus	Virus (automated)	0.037638	3	0.07142857142857142
+porcine picobirnavirus	Porcine picobirnavirus	Virus (automated)	0.037638	3	0.07142857142857142
+138851	Treponema parvum	Bacteria/Archaea	0.036957	3	0.07142857142857142
+210	Helicobacter pylori	Bacteria/Archaea	0.036957	3	0.07142857142857142
+2840474	Gemmobacter fulvus	Bacteria/Archaea	0.036957	3	0.07142857142857142
+332158	Larkinella insperata	Bacteria/Archaea	0.036957	3	0.07142857142857142
+865	Pectinatus frisingensis	Bacteria/Archaea	0.036957	3	0.07142857142857142
+1496	Clostridioides difficile	Bacteria/Archaea	0.035417	3	0.07142857142857142
+154046	Hungatella hathewayi	Bacteria/Archaea	0.035417	3	0.07142857142857142
+1737490	Agarilytica rhodophyticola	Bacteria/Archaea	0.035417	3	0.07142857142857142
+2934315	Anaeropeptidivorans aminofermentans	Bacteria/Archaea	0.035417	3	0.07142857142857142
+299767	Enterobacter ludwigii	Bacteria/Archaea	0.035417	3	0.07142857142857142
+34003	Paracoccus aminophilus	Bacteria/Archaea	0.035417	3	0.07142857142857142
+927083	Sandaracinus amylolyticus	Bacteria/Archaea	0.035417	3	0.07142857142857142
+1366	Lactococcus raffinolactis	Bacteria/Archaea	0.033878	3	0.07142857142857142
+1642646	Petrimonas mucosa	Bacteria/Archaea	0.033878	3	0.07142857142857142
+1891926	Fuerstiella marisgermanici	Bacteria/Archaea	0.033878	3	0.07142857142857142
+2807512	Humisphaera borealis	Bacteria/Archaea	0.033878	3	0.07142857142857142
+288004	Beggiatoa leptomitoformis	Bacteria/Archaea	0.033878	3	0.07142857142857142
+333367	Enterocloster asparagiformis	Bacteria/Archaea	0.033878	3	0.07142857142857142
+400065	Streptococcus merionis	Bacteria/Archaea	0.033878	3	0.07142857142857142
+485	Neisseria gonorrhoeae	Bacteria/Archaea	0.033878	3	0.07142857142857142
+enterocloster asparagiformis	Enterocloster asparagiformis	Bacteria/Archaea	0.033878	3	0.07142857142857142
+humisphaera borealis	Humisphaera borealis	Bacteria/Archaea	0.033878	3	0.07142857142857142
+1288121	Alistipes senegalensis	Bacteria/Archaea	0.032338	3	0.07142857142857142
+1549855	Haematospirillum jordaniae	Bacteria/Archaea	0.032338	3	0.07142857142857142
+2219043	Capsulimonas corticalis	Bacteria/Archaea	0.032338	3	0.07142857142857142
+255507	Aliarcobacter cibarius	Bacteria/Archaea	0.032338	3	0.07142857142857142
+2697043	Tichowtungia aerotolerans	Bacteria/Archaea	0.032338	3	0.07142857142857142
+2810562	Desulfoluna limicola	Bacteria/Archaea	0.032338	3	0.07142857142857142
+418699	Azoarcus olearius	Bacteria/Archaea	0.032338	3	0.07142857142857142
+837	Porphyromonas gingivalis	Bacteria/Archaea	0.032338	3	0.07142857142857142
+desulfoluna limicola	Desulfoluna limicola	Bacteria/Archaea	0.032338	3	0.07142857142857142
+1295382	Methylogaea oryzae	Bacteria/Archaea	0.030798	3	0.07142857142857142
+1492	Clostridium butyricum	Bacteria/Archaea	0.030798	3	0.07142857142857142
+157688	Leptotrichia hofstadii	Bacteria/Archaea	0.030798	3	0.07142857142857142
+1763828	Hankyongella ginsenosidimutans	Bacteria/Archaea	0.030798	3	0.07142857142857142
+2057025	Spirosoma pollinicola	Bacteria/Archaea	0.030798	3	0.07142857142857142
+2220096	Indioceanicola profundi	Bacteria/Archaea	0.030798	3	0.07142857142857142
+2591109	Casimicrobium huifangae	Bacteria/Archaea	0.030798	3	0.07142857142857142
+2707525	Sulfuriroseicoccus oceanibius	Bacteria/Archaea	0.030798	3	0.07142857142857142
+2787628	Treponema peruense	Bacteria/Archaea	0.030798	3	0.07142857142857142
+28119	Bacteroides zoogleoformans	Bacteria/Archaea	0.030798	3	0.07142857142857142
+2829812	Proteiniphilum propionicum	Bacteria/Archaea	0.030798	3	0.07142857142857142
+28446	Anaerotignum propionicum	Bacteria/Archaea	0.030798	3	0.07142857142857142
+2862869	Horticoccus luteus	Bacteria/Archaea	0.030798	3	0.07142857142857142
+347534	Zobellella denitrificans	Bacteria/Archaea	0.030798	3	0.07142857142857142
+356322	Heliorestis convoluta	Bacteria/Archaea	0.030798	3	0.07142857142857142
+38293	Photobacterium damselae	Bacteria/Archaea	0.030798	3	0.07142857142857142
+661488	Pseudobacter ginsenosidimutans	Bacteria/Archaea	0.030798	3	0.07142857142857142
+666	Vibrio cholerae	Bacteria/Archaea	0.030798	3	0.07142857142857142
+669	Vibrio harveyi	Bacteria/Archaea	0.030798	3	0.07142857142857142
+712710	Tannerella serpentiformis	Bacteria/Archaea	0.030798	3	0.07142857142857142
+824	Campylobacter gracilis	Bacteria/Archaea	0.030798	3	0.07142857142857142
+casimicrobium huifangae	Casimicrobium huifangae	Bacteria/Archaea	0.030798	3	0.07142857142857142
+methylogaea oryzae	Methylogaea oryzae	Bacteria/Archaea	0.030798	3	0.07142857142857142
+proteiniphilum propionicum	Proteiniphilum propionicum	Bacteria/Archaea	0.030798	3	0.07142857142857142
+pseudobacter ginsenosidimutans	Pseudobacter ginsenosidimutans	Bacteria/Archaea	0.030798	3	0.07142857142857142
+canine astrovirus	Canine astrovirus	Virus (automated)	0.030291	3	0.07142857142857142
+salivirus a	Salivirus A	Virus (automated)	0.02576	3	0.07142857142857142
+enterovirus c	Enterovirus C	Virus (automated)	0.021987	3	0.07142857142857142
+hudisavirus sp	Hudisavirus sp.	Virus (automated)	0.020152	3	0.07142857142857142
+683174	Astrovirus VA3	Virus (automated)	0.01536	3	0.07142857142857142
+astrovirus va3	Astrovirus VA3	Virus (automated)	0.01536	3	0.07142857142857142
+genomoviridae sp	Genomoviridae sp.	Virus (automated)	0.013802	3	0.07142857142857142
+1247114	Astrovirus MLB3	Virus (automated)	0.007962	3	0.07142857142857142
+astrovirus mlb3	Astrovirus MLB3	Virus (automated)	0.007962	3	0.07142857142857142
+1820160	Human feces pecovirus	Virus (automated)	0.007621	3	0.07142857142857142
+human feces pecovirus	Human feces pecovirus	Virus (automated)	0.007621	3	0.07142857142857142
+1907787	Picobirnavirus sp.	Virus (automated)	0.006872	3	0.07142857142857142
+picobirnavirus sp	Picobirnavirus sp.	Virus (automated)	0.006872	3	0.07142857142857142
+1795648	Picornavirales Tottori-HG1	Virus (automated)	0.006505	3	0.07142857142857142
+picornavirales tottori hg1	Picornavirales Tottori-HG1	Virus (automated)	0.006505	3	0.07142857142857142
+rotavirus a	Rotavirus A	Virus (automated)	0.006354	3	0.07142857142857142
+1678145	Rocahepevirus ratti	Virus (automated)	0.005747	3	0.07142857142857142
+1389204	Feline astrovirus 2	Virus (automated)	0.00571	3	0.07142857142857142
+feline astrovirus 2	Feline astrovirus 2	Virus (automated)	0.00571	3	0.07142857142857142
+picobirnavirus equ3	Picobirnavirus Equ3	Virus (automated)	0.005015	3	0.07142857142857142
+mamastrovirus 2	Mamastrovirus 2	Virus (automated)	0.004648	3	0.07142857142857142
+1349999	Goose astrovirus	Virus (automated)	0.004139	3	0.07142857142857142
+goose astrovirus	Goose astrovirus	Virus (automated)	0.004139	3	0.07142857142857142
+enterovirus a	Enterovirus A	Virus (automated)	0.003554	3	0.07142857142857142
+sicinivirus a	Sicinivirus A	Virus (automated)	0.003057	3	0.07142857142857142
+2748378	Cressdnaviricota sp.	Virus (automated)	0.003027	3	0.07142857142857142
+cressdnaviricota sp	Cressdnaviricota sp.	Virus (automated)	0.003027	3	0.07142857142857142
+cosavirus a	Cosavirus A	Virus (automated)	0.00296	3	0.07142857142857142
+1187973	Otarine picobirnavirus	Virus (automated)	0.002779	3	0.07142857142857142
+otarine picobirnavirus	Otarine picobirnavirus	Virus (automated)	0.002779	3	0.07142857142857142
+enterovirus b	Enterovirus B	Virus (automated)	0.002682	3	0.07142857142857142
+cardiovirus b	Cardiovirus B	Virus (automated)	0.002619	3	0.07142857142857142
+1836608	Canine kobuvirus	Virus (automated)	0.002606	3	0.07142857142857142
+canine kobuvirus	Canine kobuvirus	Virus (automated)	0.002606	3	0.07142857142857142
+1930304	Chicken picobirnavirus	Virus (automated)	0.002472	3	0.07142857142857142
+chicken picobirnavirus	Chicken picobirnavirus	Virus (automated)	0.002472	3	0.07142857142857142
+primate norovirus	Primate norovirus	Virus (automated)	0.002459	3	0.07142857142857142
+megrivirus c	Megrivirus C	Virus (automated)	0.002429	3	0.07142857142857142
+parechovirus a	Parechovirus A	Virus (automated)	0.002328	3	0.07142857142857142
+mischivirus d	Mischivirus D	Virus (automated)	0.002194	3	0.07142857142857142
+rotavirus c	Rotavirus C	Virus (automated)	0.002147	3	0.07142857142857142
+1247113	Astrovirus VA4	Virus (automated)	0.002063	3	0.07142857142857142
+astrovirus va4	Astrovirus VA4	Virus (automated)	0.002063	3	0.07142857142857142
+rhinovirus c	Rhinovirus C	Virus (automated)	0.001933	3	0.07142857142857142
+2017081	Human fecal virus Jorvi2	Virus (automated)	0.001857	3	0.07142857142857142
+human fecal virus jorvi2	Human fecal virus Jorvi2	Virus (automated)	0.001857	3	0.07142857142857142
+rhinovirus a	Rhinovirus A	Virus (automated)	0.001798	3	0.07142857142857142
+1074210	Mouse astrovirus M-52/USA/2008	Virus (automated)	0.001735	3	0.07142857142857142
+mouse astrovirus m 52 usa 2008	Mouse astrovirus M-52/USA/2008	Virus (automated)	0.001735	3	0.07142857142857142
+1027245	Bovine astrovirus B18/HK	Virus (automated)	0.001604	3	0.07142857142857142
+bovine astrovirus b18 hk	Bovine astrovirus B18/HK	Virus (automated)	0.001604	3	0.07142857142857142
+rosavirus b	Rosavirus B	Virus (automated)	0.001453	3	0.07142857142857142
+2805939	Circular ssDNA virus sp.	Virus (automated)	0.001326	3	0.07142857142857142
+circular ssdna virus sp	Circular ssDNA virus sp.	Virus (automated)	0.001326	3	0.07142857142857142
+cardiovirus c	Cardiovirus C	Virus (automated)	0.001284	3	0.07142857142857142
+3052027	Bocaparvovirus carnivoran2	Virus (automated)	0.001242	3	0.07142857142857142
+bocaparvovirus carnivoran2	Bocaparvovirus carnivoran2	Virus (automated)	0.001242	3	0.07142857142857142
+3052041	Bocaparvovirus primate2	Virus (automated)	0.001145	3	0.07142857142857142
+bocaparvovirus primate2	Bocaparvovirus primate2	Virus (automated)	0.001145	3	0.07142857142857142
+1233383	Human cosavirus	Virus (automated)	0.001133	3	0.07142857142857142
+human cosavirus	Human cosavirus	Virus (automated)	0.001133	3	0.07142857142857142
+kobuvirus bejaponia	Kobuvirus bejaponia	Virus (automated)	0.001099	3	0.07142857142857142
+1141625	Murine astrovirus	Virus (automated)	0.001011	3	0.07142857142857142
+murine astrovirus	Murine astrovirus	Virus (automated)	0.001011	3	0.07142857142857142
+avastrovirus 2	Avastrovirus 2	Virus (automated)	0.000893	3	0.07142857142857142
+2844585	Gemykibivirus humas5	Virus (automated)	0.000855	3	0.07142857142857142
+gemykibivirus humas5	Gemykibivirus humas5	Virus (automated)	0.000855	3	0.07142857142857142
+1176484	Canine vesivirus	Virus (automated)	0.000821	3	0.07142857142857142
+canine vesivirus	Canine vesivirus	Virus (automated)	0.000821	3	0.07142857142857142
+mamastrovirus 3	Mamastrovirus 3	Virus (automated)	0.000779	3	0.07142857142857142
+mamastrovirus 13	Mamastrovirus 13	Virus (automated)	0.000775	3	0.07142857142857142
+3052707	Protoparvovirus carnivoran1	Virus (automated)	0.000749	3	0.07142857142857142
+protoparvovirus carnivoran1	Protoparvovirus carnivoran1	Virus (automated)	0.000749	3	0.07142857142857142
+cardiovirus d	Cardiovirus D	Virus (automated)	0.000699	3	0.07142857142857142
+1534547	Chicken picornavirus 4	Virus (automated)	0.000695	3	0.07142857142857142
+chicken picornavirus 4	Chicken picornavirus 4	Virus (automated)	0.000695	3	0.07142857142857142
+human smacovirus 1	Human smacovirus 1	Virus (automated)	0.000653	3	0.07142857142857142
+1511891	Dependoparvovirus primate1	Virus (automated)	0.000615	3	0.07142857142857142
+dependoparvovirus primate1	Dependoparvovirus primate1	Virus (automated)	0.000615	3	0.07142857142857142
+rhinovirus b	Rhinovirus B	Virus (automated)	0.000581	3	0.07142857142857142
+human mastadenovirus f	Human mastadenovirus F	Virus (automated)	0.000577	3	0.07142857142857142
+kobuvirus cebes	Kobuvirus cebes	Virus (automated)	0.000573	3	0.07142857142857142
+2016461	Giant panda associated gemycircularvirus	Virus (automated)	0.00056	3	0.07142857142857142
+2029771	Tioga picorna-like virus 1	Virus (automated)	0.00056	3	0.07142857142857142
+giant panda associated gemycircularvirus	Giant panda associated gemycircularvirus	Virus (automated)	0.00056	3	0.07142857142857142
+tioga picorna like virus 1	Tioga picorna-like virus 1	Virus (automated)	0.00056	3	0.07142857142857142
+1137931	Astrovirus wild boar/WBAstV-1/2011/HUN	Virus (automated)	0.000556	3	0.07142857142857142
+astrovirus wild boar wbastv 1 2011 hun	Astrovirus wild boar/WBAstV-1/2011/HUN	Virus (automated)	0.000556	3	0.07142857142857142
+melegrivirus a	Melegrivirus A	Virus (automated)	0.000539	3	0.07142857142857142
+hunnivirus a	Hunnivirus A	Virus (automated)	0.000522	3	0.07142857142857142
+3052040	Bocaparvovirus primate1	Virus (automated)	0.000484	3	0.07142857142857142
+bocaparvovirus primate1	Bocaparvovirus primate1	Virus (automated)	0.000484	3	0.07142857142857142
+goat torovirus	Goat torovirus	Virus (automated)	0.000484	3	0.07142857142857142
+1932006	Chicken associated smacovirus	Virus (automated)	0.000459	3	0.07142857142857142
+chicken associated smacovirus	Chicken associated smacovirus	Virus (automated)	0.000459	3	0.07142857142857142
+cosavirus d	Cosavirus D	Virus (automated)	0.000421	3	0.07142857142857142
+nordland virus	Nordland virus	Virus (automated)	0.0004	3	0.07142857142857142
+3052026	Bocaparvovirus carnivoran1	Virus (automated)	0.000396	3	0.07142857142857142
+bocaparvovirus carnivoran1	Bocaparvovirus carnivoran1	Virus (automated)	0.000396	3	0.07142857142857142
+avian leukosis virus	Avian leukosis virus	Virus (automated)	0.000383	3	0.07142857142857142
+1534544	Chicken picornavirus 1	Virus (automated)	0.000362	3	0.07142857142857142
+chicken picornavirus 1	Chicken picornavirus 1	Virus (automated)	0.000362	3	0.07142857142857142
+1914442	Rodent astrovirus	Virus (automated)	0.000337	3	0.07142857142857142
+rodent astrovirus	Rodent astrovirus	Virus (automated)	0.000337	3	0.07142857142857142
+human coronavirus 229e	Human coronavirus 229E	Virus (automated)	0.000328	3	0.07142857142857142
+1766557	Gallivirus Pf-CHK1/GV	Virus (automated)	0.000291	3	0.07142857142857142
+gallivirus pf chk1 gv	Gallivirus Pf-CHK1/GV	Virus (automated)	0.000291	3	0.07142857142857142
+ferret coronavirus	Ferret coronavirus	Virus (automated)	0.000278	3	0.07142857142857142
+mamastrovirus 10	Mamastrovirus 10	Virus (automated)	0.000265	3	0.07142857142857142
+cosavirus e	Cosavirus E	Virus (automated)	0.00024	3	0.07142857142857142
+1961665	Qinghai Himalayan marmot astrovirus 1	Virus (automated)	0.000211	3	0.07142857142857142
+qinghai himalayan marmot astrovirus 1	Qinghai Himalayan marmot astrovirus 1	Virus (automated)	0.000211	3	0.07142857142857142
+1475062	Porcine stool-associated circular virus 4	Virus (automated)	0.000198	3	0.07142857142857142
+1776109	Goose dicistrovirus	Virus (automated)	0.000198	3	0.07142857142857142
+2025398	Bastrovirus BAS-3	Virus (automated)	0.000198	3	0.07142857142857142
+bastrovirus bas 3	Bastrovirus BAS-3	Virus (automated)	0.000198	3	0.07142857142857142
+goose dicistrovirus	Goose dicistrovirus	Virus (automated)	0.000198	3	0.07142857142857142
+porcine stool associated circular virus 4	Porcine stool-associated circular virus 4	Virus (automated)	0.000198	3	0.07142857142857142
+1128073	Meles meles circovirus-like virus	Virus (automated)	0.000194	3	0.07142857142857142
+enterovirus d	Enterovirus D	Virus (automated)	0.000194	3	0.07142857142857142
+meles meles circovirus like virus	Meles meles circovirus-like virus	Virus (automated)	0.000194	3	0.07142857142857142
+calicivirus chicken v0021 bayern 2004	Calicivirus chicken/V0021/Bayern/2004	Virus (automated)	0.000189	3	0.07142857142857142
+tremovirus a	Tremovirus A	Virus (automated)	0.000189	3	0.07142857142857142
+hepatovirus a	Hepatovirus A	Virus (automated)	0.000185	3	0.07142857142857142
+bavaria virus	Bavaria virus	Virus (automated)	0.000181	3	0.07142857142857142
+1518574	Burkina Faso astrovirus	Virus (automated)	0.000168	3	0.07142857142857142
+3047957	Cyclovirus humana	Virus (automated)	0.000168	3	0.07142857142857142
+burkina faso astrovirus	Burkina Faso astrovirus	Virus (automated)	0.000168	3	0.07142857142857142
+cyclovirus humana	Cyclovirus humana	Virus (automated)	0.000168	3	0.07142857142857142
+rabovirus a	Rabovirus A	Virus (automated)	0.000168	3	0.07142857142857142
+2844576	Gemykibivirus haeme2	Virus (automated)	0.00016	3	0.07142857142857142
+gemykibivirus haeme2	Gemykibivirus haeme2	Virus (automated)	0.00016	3	0.07142857142857142
+1161132	Rabbit astrovirus TN/2208/2010	Virus (automated)	0.000156	3	0.07142857142857142
+1541211	Cripavirus NB-1/2011/HUN	Virus (automated)	0.000156	3	0.07142857142857142
+blattambidensovirus incertum1	Blattambidensovirus incertum1	Virus (automated)	0.000156	3	0.07142857142857142
+canarypox virus	Canarypox virus	Virus (automated)	0.000156	3	0.07142857142857142
+cripavirus nb 1 2011 hun	Cripavirus NB-1/2011/HUN	Virus (automated)	0.000156	3	0.07142857142857142
+rabbit astrovirus tn 2208 2010	Rabbit astrovirus TN/2208/2010	Virus (automated)	0.000156	3	0.07142857142857142
+1891762	Betapolyomavirus hominis	Virus (automated)	0.000152	3	0.07142857142857142
+betapolyomavirus hominis	Betapolyomavirus hominis	Virus (automated)	0.000152	3	0.07142857142857142
+2844484	Gemycircularvirus monas1	Virus (automated)	0.000147	3	0.07142857142857142
+gemycircularvirus monas1	Gemycircularvirus monas1	Virus (automated)	0.000147	3	0.07142857142857142
+2844505	Gemycircularvirus porci1	Virus (automated)	0.000143	3	0.07142857142857142
+gemycircularvirus porci1	Gemycircularvirus porci1	Virus (automated)	0.000143	3	0.07142857142857142
+sakobuvirus a	Sakobuvirus A	Virus (automated)	0.000143	3	0.07142857142857142
+2734519	Anativirus biphaco	Virus (automated)	0.000139	3	0.07142857142857142
+anativirus biphaco	Anativirus biphaco	Virus (automated)	0.000139	3	0.07142857142857142
+2845899	Porprismacovirus humas3	Virus (automated)	0.000126	3	0.07142857142857142
+porprismacovirus humas3	Porprismacovirus humas3	Virus (automated)	0.000126	3	0.07142857142857142
+2844564	Gemykibivirus canfam1	Virus (automated)	0.000122	3	0.07142857142857142
+gemykibivirus canfam1	Gemykibivirus canfam1	Virus (automated)	0.000122	3	0.07142857142857142
+posavirus sp	Posavirus sp.	Virus (automated)	0.000122	3	0.07142857142857142
+1105380	Posavirus 1	Virus (automated)	0.000118	3	0.07142857142857142
+avisivirus c	Avisivirus C	Virus (automated)	0.000118	3	0.07142857142857142
+posavirus 1	Posavirus 1	Virus (automated)	0.000118	3	0.07142857142857142
+1985693	Sripuvirus almpiwar	Virus (automated)	0.000114	3	0.07142857142857142
+picornavirales bu 3	Picornavirales Bu-3	Virus (automated)	0.000114	3	0.07142857142857142
+sripuvirus almpiwar	Sripuvirus almpiwar	Virus (automated)	0.000114	3	0.07142857142857142
+2844567	Gemykibivirus cynas1	Virus (automated)	0.000109	3	0.07142857142857142
+bovine astrovirus b76 2 hk	Bovine astrovirus B76-2/HK	Virus (automated)	0.000109	3	0.07142857142857142
+gemykibivirus cynas1	Gemykibivirus cynas1	Virus (automated)	0.000109	3	0.07142857142857142
+human associated porprismacovirus 2	Human associated porprismacovirus 2	Virus (automated)	0.000109	3	0.07142857142857142
+1930302	Chicken stool-associated circular virus	Virus (automated)	0.000105	3	0.07142857142857142
+cadicivirus a	Cadicivirus A	Virus (automated)	0.000105	3	0.07142857142857142
+chicken stool associated circular virus	Chicken stool-associated circular virus	Virus (automated)	0.000105	3	0.07142857142857142
+1766559	Avisivirus Pf-CHK1/AsV	Virus (automated)	9.7e-05	3	0.07142857142857142
+1961666	Qinghai Himalayan marmot astrovirus 2	Virus (automated)	9.7e-05	3	0.07142857142857142
+avisivirus pf chk1 asv	Avisivirus Pf-CHK1/AsV	Virus (automated)	9.7e-05	3	0.07142857142857142
+pteropine orthoreovirus	Pteropine orthoreovirus	Virus (automated)	9.7e-05	3	0.07142857142857142
+qinghai himalayan marmot astrovirus 2	Qinghai Himalayan marmot astrovirus 2	Virus (automated)	9.7e-05	3	0.07142857142857142
+2169685	Aalivirus apekidu	Virus (automated)	9.3e-05	3	0.07142857142857142
+aalivirus apekidu	Aalivirus apekidu	Virus (automated)	9.3e-05	3	0.07142857142857142
+porcine astrovirus 3	Porcine astrovirus 3	Virus (automated)	9.3e-05	3	0.07142857142857142
+1671382	Astrovirus Er/SZAL6/HUN/2011	Virus (automated)	8.8e-05	3	0.07142857142857142
+astrovirus er szal6 hun 2011	Astrovirus Er/SZAL6/HUN/2011	Virus (automated)	8.8e-05	3	0.07142857142857142
+rous sarcoma virus	Rous sarcoma virus	Virus (automated)	8.8e-05	3	0.07142857142857142
+2844465	Gemycircularvirus lamas1	Virus (automated)	8.4e-05	3	0.07142857142857142
+2845010	Inpeasmacovirus humas1	Virus (automated)	8.4e-05	3	0.07142857142857142
+betapolyomavirus secuhominis	Betapolyomavirus secuhominis	Virus (automated)	8.4e-05	3	0.07142857142857142
+gemycircularvirus lamas1	Gemycircularvirus lamas1	Virus (automated)	8.4e-05	3	0.07142857142857142
+inpeasmacovirus humas1	Inpeasmacovirus humas1	Virus (automated)	8.4e-05	3	0.07142857142857142
+monkeypox virus	Monkeypox virus	Virus (manual, low-read)	2.5e-05	3	0.07142857142857142
+flavobacterium faecale	Flavobacterium faecale	Bacteria/Archaea	0.198646	2	0.047619047619047616
+desulfovibrio desulfuricans	Desulfovibrio desulfuricans	Bacteria/Archaea	0.087774	2	0.047619047619047616
+comamonas terrigena	Comamonas terrigena	Bacteria/Archaea	0.049276	2	0.047619047619047616
+enterocloster bolteae	Enterocloster bolteae	Bacteria/Archaea	0.040037	2	0.047619047619047616
+flagellatimonas centrodinii	Flagellatimonas centrodinii	Bacteria/Archaea	0.038497	2	0.047619047619047616
+larkinella insperata	Larkinella insperata	Bacteria/Archaea	0.036957	2	0.047619047619047616
+agarilytica rhodophyticola	Agarilytica rhodophyticola	Bacteria/Archaea	0.035417	2	0.047619047619047616
+ereboglobus luteus	Ereboglobus luteus	Bacteria/Archaea	0.033878	2	0.047619047619047616
+fuerstiella marisgermanici	Fuerstiella marisgermanici	Bacteria/Archaea	0.033878	2	0.047619047619047616
+petrimonas mucosa	Petrimonas mucosa	Bacteria/Archaea	0.033878	2	0.047619047619047616
+capsulimonas corticalis	Capsulimonas corticalis	Bacteria/Archaea	0.032338	2	0.047619047619047616
+clostridium butyricum	Clostridium butyricum	Bacteria/Archaea	0.030798	2	0.047619047619047616
+hankyongella ginsenosidimutans	Hankyongella ginsenosidimutans	Bacteria/Archaea	0.030798	2	0.047619047619047616
+spirosoma pollinicola	Spirosoma pollinicola	Bacteria/Archaea	0.030798	2	0.047619047619047616
+tannerella serpentiformis	Tannerella serpentiformis	Bacteria/Archaea	0.030798	2	0.047619047619047616
+vibrio harveyi	Vibrio harveyi	Bacteria/Archaea	0.030798	2	0.047619047619047616
+betacoronavirus 1	Betacoronavirus 1	Virus (automated)	0.000632	2	0.047619047619047616
+verrucomicrobium spinosum	Verrucomicrobium spinosum	Bacteria/Archaea	0.110872	1	0.023809523809523808
+sulfurospirillum cavolei	Sulfurospirillum cavolei	Bacteria/Archaea	0.081614	1	0.023809523809523808
+cloacibacillus porcorum	Cloacibacillus porcorum	Bacteria/Archaea	0.050816	1	0.023809523809523808
+dialister succinatiphilus	Dialister succinatiphilus	Bacteria/Archaea	0.050816	1	0.023809523809523808
+chryseolinea soli	Chryseolinea soli	Bacteria/Archaea	0.046197	1	0.023809523809523808
+butyrivibrio fibrisolvens	Butyrivibrio fibrisolvens	Bacteria/Archaea	0.041577	1	0.023809523809523808
+megalodesulfovibrio gigas	Megalodesulfovibrio gigas	Bacteria/Archaea	0.040037	1	0.023809523809523808
+clostridioides difficile	Clostridioides difficile	Bacteria/Archaea	0.035417	1	0.023809523809523808
+hungatella hathewayi	Hungatella hathewayi	Bacteria/Archaea	0.035417	1	0.023809523809523808
+paracoccus aminophilus	Paracoccus aminophilus	Bacteria/Archaea	0.035417	1	0.023809523809523808
+beggiatoa leptomitoformis	Beggiatoa leptomitoformis	Bacteria/Archaea	0.033878	1	0.023809523809523808
+photobacterium damselae	Photobacterium damselae	Bacteria/Archaea	0.030798	1	0.023809523809523808
+sulfuriroseicoccus oceanibius	Sulfuriroseicoccus oceanibius	Bacteria/Archaea	0.030798	1	0.023809523809523808
