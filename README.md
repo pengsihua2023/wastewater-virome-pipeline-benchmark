@@ -1,7 +1,7 @@
 # Seven-pipeline viral-detection benchmark on simulated wastewater (Illumina vs PacBio HiFi)
 
 Code and data supporting: *Benchmarking Seven Metagenomics Pipelines for Viral Detection Using Simulated Short- and Long-Read Wastewater Data*, submitted to Water Research.
-Archive DOI: [**10.5281/zenodo.23322801**](https://doi.org/10.5281/zenodo.23322801). GitHub: pengsihua2023/wastewater-virome-pipeline-benchmark
+Archive DOI: [**10.5281/zenodo.23322800**](https://doi.org/10.5281/zenodo.23322800). GitHub: pengsihua2023/wastewater-virome-pipeline-benchmark
 
 ## What this is
 A benchmark of seven metagenomic pipelines (nf-core/taxprofiler, nf-core/taxtriage, nf-core/mag, KrakenMetaReads-nf, GOTTCHA2, CLARK, sourmash) on simulated Illumina (CAMISIM) and PacBio HiFi (PBSIM3 + ccs) wastewater data. The 708-member community (151 non-phage viruses = ground truth, 67 phages, 490 bacteria/archaea) is derived from the public wastewater metatranscriptome HTP-2024-01-15 (Los Angeles, Grimm et al.). No human-subject data were generated or analysed.
