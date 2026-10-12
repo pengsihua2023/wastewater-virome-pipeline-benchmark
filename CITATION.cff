@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it and the associated paper."
-title: "Benchmarking seven metagenomic pipelines for viral detection in simulated wastewater (Illumina and PacBio HiFi)"
+title: "Benchmarking Seven Metagenomics Pipelines for Viral Detection Using Simulated Short- and Long-Read Wastewater Data"
 authors:
   - family-names: Peng
     given-names: Sihua

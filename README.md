@@ -1,6 +1,6 @@
 # Seven-pipeline viral-detection benchmark on simulated wastewater (Illumina vs PacBio HiFi)
 
-Code and data supporting: *[paper title]*, submitted to Water Research.
+Code and data supporting: *Benchmarking Seven Metagenomics Pipelines for Viral Detection Using Simulated Short- and Long-Read Wastewater Data*, submitted to Water Research.
 Archive DOI: **10.5281/zenodo.XXXXXXX** (release `v1.0-submission`). GitHub: pengsihua2023/wastewater-virome-pipeline-benchmark
 
 ## What this is
@@ -36,11 +36,23 @@ The `path` column of `data/regen/*.tsv` and `data/genome_locations.tsv` is relat
 Use `data/regen/plan_*.tsv` with `code/simulation/run_art.sh` (Illumina) and `code/simulation/simulate_pacbio.py` (PacBio); the shell scripts use paths relative to `data/`, so run them from inside `data/`. Expected per-member read counts are in `data/regen/per_member_s*.tsv`. md5 checksums of the original FASTQ files (6 Illumina, 3 PacBio HiFi) are in `data/regen/fastq_md5.txt`; regenerated reads are expected to match in read counts, not necessarily byte for byte. See `docs/guide-line-regenerat-data.md`.
 
 ## Software and databases
-Versions of all pipelines, Kraken2/Bracken, CLARK, GOTTCHA2 (locally patched for PacBio), sourmash and databases: [to add — see Methods §2.2]; ccs version: [to add].
+| Pipeline | Version / implementation | Classifier | Database | Illumina input | PacBio input |
+|---|---|---|---|---|---|
+| nf-core/taxprofiler | v1.2.0 | Kraken2 v2.1.3 | `k2_standard_20240605` | reads | reads |
+| nf-core/taxtriage | v1.0 (local checkout) | Kraken2 v2.1.3 | `k2_standard_20240605` | reads | reads |
+| nf-core/mag | v3.1.0 | Kraken2 v2.1.3 | `k2_standard_20240605` | reads | reads |
+| GOTTCHA2 | conda environment `gottcha2_env` | unique signature fragments | GOTTCHA2 species signature DB | reads (`-xm sr`) | reads (`-xm map-hifi`, locally patched) |
+| CLARK | local build | discriminative k-mers | CLARK_DB, species targets | reads (k = 20, mode 0) | reads (k = 20, mode 0) |
+| KrakenMetaReads-nf | in-house Nextflow DSL2 workflow | Kraken2 v2.1.3 on contigs | `k2_standard_20240605` | contigs (metaSPAdes 3.15.5 + MEGAHIT 1.2.9) | contigs (metaFlye 2.9.2, `--meta`) |
+| sourmash | 4.9.4 (Apptainer) | FracMinHash gather | GTDB representatives RS226 + NCBI viruses 2025.01 | reads (k = 31, scaled 1000/50) | contigs (metaFlye assembly; k = 31, scaled 1000/50) |
+
+Simulation: CAMISIM 2.0 (Illumina) and PBSIM3 with the RS II error model (PacBio); multi-pass PBSIM3 output was converted to HiFi reads with `ccs` (`--min-passes 3 --min-rq 0.99`). **The `ccs` version was not recorded.**
+
+Known limitations of the record: the GOTTCHA2 PacBio result comes from a locally patched, unreleased binary that was not validated against a positive control, and the viral content of each reference database was not tabulated.
 
 ## Notes
 - Strong simplifications apply: three simulated replicates share the same genomes and abundance design; see the paper limitations.
-- Some very large files (CLARK per-read assignments, long-format detection tables) are provided as separate Zenodo files [to confirm].
+- Large files are provided only in the Zenodo archive: the long-format detection tables (`data/analysis_708/interim/detections_long.tsv`, `viral_detections_long.tsv`) and the raw pipeline outputs. The CLARK per-read assignment dumps (343–902 MB each) are not archived; they are regenerable by re-running CLARK.
 
 ## License and citation
 Code: MIT. Data and tables: CC BY 4.0. Cite the paper and the Zenodo DOI (`CITATION.cff`).
