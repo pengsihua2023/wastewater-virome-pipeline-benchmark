@@ -9,13 +9,10 @@ two versions of the run script, in order to establish **which version generated 
 |---|---|---|---|---|
 | `simulate_pacbio_v2026-03-18_earliest.py` | `CAMISIM/` | 2026-03-18 | 10,763 | Earliest version |
 | `simulate_pacbio_v2026-05-29.py` | `CAMISIM-Generate/` | 2026-05-29 | 14,504 | |
-| **`simulate_pacbio_v2026-06-01_OLD_used-for-data.py`** | `CAMISIM-Generate/GOTTCHA2/` | 2026-06-01 | 15,400 | **Version that generated the data used in the analysis** |
 | `simulate_pacbio_v2026-06-02_FIXED.py` | `CAMISIM-Generate/generation-code/` | 2026-06-02 | 17,412 | Corrected version, **not used to generate the existing data** |
-| `run_pacbio_sample_OLD_used-for-data.sh` | project root | — | 1,225 | Companion of the old script |
 | `run_pacbio_sample_v2026-06-07.sh` | `CAMISIM-Generate/generation-code/` | 2026-06-07 | 1,235 | Companion of the corrected version |
 
-`simulate_pacbio.py` in the project root has the **same md5** as `simulate_pacbio_v2026-06-01_OLD_used-for-data.py`
-(`36c9e79a0118ab82b730be815df8cac9`), i.e. the root copy is the old version.
+The 2026-06-01 script (and its run script) generated the first PacBio dataset, which was found to be defective (see below) and was discarded; these two files have been removed from the repository. The data used in the paper were regenerated (`data/regen/`, `docs/guide-line-regenerat-data.md`).
 
 ## How we established that the data came from the old version
 
