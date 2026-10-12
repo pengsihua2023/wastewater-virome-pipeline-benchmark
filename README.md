@@ -52,7 +52,7 @@ Known limitations of the record: the GOTTCHA2 PacBio result comes from a locally
 
 ## Notes
 - Strong simplifications apply: three simulated replicates share the same genomes and abundance design; see the paper limitations.
-- Large files are provided only in the Zenodo archive: the long-format detection tables (`data/analysis_708/interim/detections_long.tsv`, `viral_detections_long.tsv`) and the raw pipeline outputs. The CLARK per-read assignment dumps (343–902 MB each) are not archived; they are regenerable by re-running CLARK.
+- Large files are provided only in the Zenodo archive: the long-format detection tables (`data/analysis_708/interim/detections_long.tsv`, `viral_detections_long.tsv`), the raw pipeline outputs, and the CLARK per-read assignment files (`data/Illumina/CLARK/sample_*/virus_results_708_*.g0.2.assignments.csv`, about 380 MB each).
 
 ## License and citation
 Code: MIT. Data and tables: CC BY 4.0. Cite the paper and the Zenodo DOI (`CITATION.cff`).
