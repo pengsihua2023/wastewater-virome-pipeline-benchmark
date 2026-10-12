@@ -1,0 +1,2 @@
+sample,fastq_1,fastq_2
+sample_0_708_Illumina,/scratch/$USER/Meta-genome-data-analysis/Apptainer/simulated-data-validation/data/illumina-708-genomes/sample_708_0_01.fq.gz,/scratch/$USER/Meta-genome-data-analysis/Apptainer/simulated-data-validation/data/illumina-708-genomes/sample_708_0_02.fq.gz

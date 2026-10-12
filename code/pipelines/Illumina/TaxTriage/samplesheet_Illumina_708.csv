@@ -1,0 +1,2 @@
+sample,run_accession,instrument_platform,fastq_1,fastq_2,fasta
+Illumina_708_2,Illumina_708_2,ILLUMINA,/scratch/$USER/Meta-genome-data-analysis/Apptainer/simulated-data-validation/data/illumina-708-genomes/sample_708_2_01.fq.gz,/scratch/$USER/Meta-genome-data-analysis/Apptainer/simulated-data-validation/data/illumina-708-genomes/sample_708_2_02.fq.gz,

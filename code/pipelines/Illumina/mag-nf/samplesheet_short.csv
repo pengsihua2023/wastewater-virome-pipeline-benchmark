@@ -1,0 +1,2 @@
+sample,group,short_reads_1,short_reads_2,long_reads
+Sample_708_illumina_2,viral_short,/scratch/$USER/Meta-genome-data-analysis/Apptainer/simulated-data-validation/data/illumina-708-genomes/sample_708_2_01.fq.gz,/scratch/$USER/Meta-genome-data-analysis/Apptainer/simulated-data-validation/data/illumina-708-genomes/sample_708_2_02.fq.gz,

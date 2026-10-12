@@ -1,0 +1,2 @@
+sample,run,group,long_reads,long_reads_platform
+sample_708_pacbio_0,1,viral_pacbio,/scratch/$USER/Meta-genome-data-analysis/Apptainer/simulated-data-validation/mag-nf/Pacbio-708/dedup_reads/pacbio_hifi_reads_sample_0.dedup.fastq.gz,PACBIO_HIFI

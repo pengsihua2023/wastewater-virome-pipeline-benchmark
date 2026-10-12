@@ -1,0 +1,2 @@
+sample,fastq_long
+pacbio_hifi_reads_sample_2,/scratch/$USER/Meta-genome-data-analysis/Apptainer/simulated-data-validation/data/pacbio-708-genomes/pacbio_hifi_reads_sample_2.fastq.gz

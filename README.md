@@ -10,6 +10,7 @@ A benchmark of seven metagenomic pipelines (nf-core/taxprofiler, nf-core/taxtria
 | Path | Content |
 |---|---|
 | `code/analysis/` | numbered analysis scripts (run in numeric order; 25–27 produce the threshold, community and revision tables) |
+| `code/pipelines/` | submission scripts, Nextflow configurations and sample sheets of the seven pipelines (see its README) |
 | `code/simulation/` | Illumina read-simulation helper scripts: `run_art.sh`, `run_art_sample.sh`, `merge_and_verify.sh`. **The PacBio generation script used for the final data is not included yet** (earlier versions generated a defective dataset and were removed; the plan and task tables that drive it are in `data/regen/`) |
 | `data/regen/` | simulation design: genome lengths, per-sample read plans, ART/PBSIM task tables, per-member read counts, md5 manifests |
 | `data/genome_locations.tsv`, `data/distribution_{0,1,2}.txt` | genome list and per-sample abundance files used for the simulation |

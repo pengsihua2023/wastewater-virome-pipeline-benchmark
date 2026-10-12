@@ -1,0 +1,2 @@
+sample,run_accession,instrument_platform,fastq_1,fastq_2,fasta
+PacBio_708_2,PacBio_708-2,PACBIO_SMRT,/scratch/$USER/Meta-genome-data-analysis/Apptainer/simulated-data-validation/data/pacbio-708-genomes/pacbio_hifi_reads_sample_2.fastq.gz,,
